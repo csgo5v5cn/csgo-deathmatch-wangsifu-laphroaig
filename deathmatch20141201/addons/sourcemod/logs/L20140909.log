@@ -1,0 +1,69 @@
+L 09/09/2014 - 00:06:03: SourceMod log file session started (file "L20140909.log") (Version "1.6.1-dev+4526")
+L 09/09/2014 - 00:06:03: [warmod.smx] "knife_on_3" (player "Console<0><Console><Console>")
+L 09/09/2014 - 00:46:21: -------- Mapchange to de_nuke --------
+L 09/09/2014 - 00:46:22: [warmod.smx] Current Map: de_nuke  Workshop ID: 
+L 09/09/2014 - 00:51:50: -------- Mapchange to de_nuke --------
+L 09/09/2014 - 00:51:50: [warmod.smx] Current Map: de_nuke  Workshop ID: 
+L 09/09/2014 - 15:00:45: -------- Mapchange to de_nuke --------
+L 09/09/2014 - 15:00:45: [warmod.smx] Current Map: de_nuke  Workshop ID: 
+L 09/09/2014 - 17:19:54: -------- Mapchange to de_nuke --------
+L 09/09/2014 - 17:19:54: [warmod.smx] Current Map: de_nuke  Workshop ID: 
+L 09/09/2014 - 19:33:52: -------- Mapchange to de_nuke --------
+L 09/09/2014 - 19:33:53: [warmod.smx] Current Map: de_nuke  Workshop ID: 
+L 09/09/2014 - 19:34:12: [basecommands.smx] "toFu<37><STEAM_1:0:24109572><>" changed map to "de_dust2"
+L 09/09/2014 - 19:34:15: [SM] Changed map to "de_dust2"
+L 09/09/2014 - 19:34:16: -------- Mapchange to de_dust2 --------
+L 09/09/2014 - 19:34:17: [warmod.smx] Current Map: de_dust2  Workshop ID: 
+L 09/09/2014 - 19:43:21: [warmod.smx] "force_start" (player "KoNgLryyy<38><STEAM_1:0:45784403><>")
+L 09/09/2014 - 19:43:54: [warmod.smx] "force_start" (player "KoNgLryyy<38><STEAM_1:0:45784403><>")
+L 09/09/2014 - 19:44:24: [warmod.smx] "force_start" (player "KoNgLryyy<38><STEAM_1:0:45784403><>")
+L 09/09/2014 - 19:45:49: [basecommands.smx] "KoNgLryyy<38><STEAM_1:0:45784403><>" kicked "ANGYzy<45><STEAM_1:1:77360628><>" (reason "")
+L 09/09/2014 - 20:20:46: [basecommands.smx] "KoNgLryyy<38><STEAM_1:0:45784403><>" changed map to "de_cbble"
+L 09/09/2014 - 20:20:47: -------- Mapchange to de_nuke --------
+L 09/09/2014 - 20:20:48: [warmod.smx] Current Map: de_nuke  Workshop ID: 
+L 09/09/2014 - 20:20:50: [SM] Changed map to "de_cbble"
+L 09/09/2014 - 20:20:52: -------- Mapchange to de_cbble --------
+L 09/09/2014 - 20:20:52: [warmod.smx] Current Map: de_cbble  Workshop ID: 
+L 09/09/2014 - 20:21:33: [warmod.smx] "force_start" (player "KoNgLryyy<38><STEAM_1:0:45784403><>")
+L 09/09/2014 - 20:32:16: [movecommands.smx] "PhantomLimb<49><STEAM_1:1:34802918><>" was moved to Spec by "KoNgLryyy<38><STEAM_1:0:45784403><>"
+L 09/09/2014 - 21:01:04: [playercommands.smx] "♡.Aki<77><STEAM_1:1:2058143><>" slapped "KoNgLryyy<38><STEAM_1:0:45784403><>" (damage "0")
+L 09/09/2014 - 21:01:05: [playercommands.smx] "♡.Aki<77><STEAM_1:1:2058143><>" slapped "KoNgLryyy<38><STEAM_1:0:45784403><>" (damage "0")
+L 09/09/2014 - 21:01:09: [playercommands.smx] "♡.Aki<77><STEAM_1:1:2058143><>" slapped "KoNgLryyy<38><STEAM_1:0:45784403><>" (damage "0")
+L 09/09/2014 - 21:01:09: [playercommands.smx] "♡.Aki<77><STEAM_1:1:2058143><>" slapped "KoNgLryyy<38><STEAM_1:0:45784403><>" (damage "0")
+L 09/09/2014 - 21:01:09: [playercommands.smx] "♡.Aki<77><STEAM_1:1:2058143><>" slapped "KoNgLryyy<38><STEAM_1:0:45784403><>" (damage "0")
+L 09/09/2014 - 21:01:25: [playercommands.smx] "♡.Aki<77><STEAM_1:1:2058143><>" slapped "ScreaM*keyCool<71><STEAM_1:0:51460952><>" (damage "0")
+L 09/09/2014 - 21:01:25: [playercommands.smx] "♡.Aki<77><STEAM_1:1:2058143><>" slapped "KoNgLryyy<38><STEAM_1:0:45784403><>" (damage "0")
+L 09/09/2014 - 21:01:25: [playercommands.smx] "♡.Aki<77><STEAM_1:1:2058143><>" slapped "Louis.Gu <5.7><39><STEAM_1:1:29221325><>" (damage "0")
+L 09/09/2014 - 21:01:25: [playercommands.smx] "♡.Aki<77><STEAM_1:1:2058143><>" slapped "Cai-Cai  ^_^<41><STEAM_1:0:75397047><>" (damage "0")
+L 09/09/2014 - 21:03:20: [funcommands.smx] "♡.Aki<77><STEAM_1:1:2058143><>" ignited "KoNgLryyy<38><STEAM_1:0:45784403><>" (seconds "20.000000")
+L 09/09/2014 - 21:03:22: [funcommands.smx] "♡.Aki<77><STEAM_1:1:2058143><>" ignited "KoNgLryyy<38><STEAM_1:0:45784403><>" (seconds "20.000000")
+L 09/09/2014 - 21:03:24: [funcommands.smx] "♡.Aki<77><STEAM_1:1:2058143><>" ignited "KoNgLryyy<38><STEAM_1:0:45784403><>" (seconds "20.000000")
+L 09/09/2014 - 21:03:27: [funcommands.smx] "♡.Aki<77><STEAM_1:1:2058143><>" ignited "KoNgLryyy<38><STEAM_1:0:45784403><>" (seconds "20.000000")
+L 09/09/2014 - 21:03:30: [funcommands.smx] "♡.Aki<77><STEAM_1:1:2058143><>" ignited "KoNgLryyy<38><STEAM_1:0:45784403><>" (seconds "20.000000")
+L 09/09/2014 - 21:03:38: [basechat.smx] "♡.Aki<77><STEAM_1:1:2058143><>" triggered sm_say (text 关不掉诶)
+L 09/09/2014 - 21:03:54: [playercommands.smx] "♡.Aki<77><STEAM_1:1:2058143><>" slapped "KoNgLryyy<38><STEAM_1:0:45784403><>" (damage "1")
+L 09/09/2014 - 21:04:59: [basechat.smx] "♡.Aki<77><STEAM_1:1:2058143><>" triggered sm_say (text 要不全部人都烧烤了=.=?)
+L 09/09/2014 - 21:05:20: [funcommands.smx] "♡.Aki<77><STEAM_1:1:2058143><>" drugged "KoNgLryyy<38><STEAM_1:0:45784403><>"
+L 09/09/2014 - 21:05:34: [funcommands.smx] "♡.Aki<77><STEAM_1:1:2058143><>" undrugged "KoNgLryyy<38><STEAM_1:0:45784403><>"
+L 09/09/2014 - 21:05:35: [funcommands.smx] "♡.Aki<77><STEAM_1:1:2058143><>" drugged "KoNgLryyy<38><STEAM_1:0:45784403><>"
+L 09/09/2014 - 21:05:42: [basechat.smx] "♡.Aki<77><STEAM_1:1:2058143><>" triggered sm_say (text 你需要坚强的意志)
+L 09/09/2014 - 21:05:48: [funcommands.smx] "♡.Aki<77><STEAM_1:1:2058143><>" undrugged "KoNgLryyy<38><STEAM_1:0:45784403><>"
+L 09/09/2014 - 21:05:53: [funcommands.smx] "♡.Aki<77><STEAM_1:1:2058143><>" set a beacon on "KoNgLryyy<38><STEAM_1:0:45784403><>"
+L 09/09/2014 - 21:06:09: [basecommands.smx] "toFu<78><STEAM_1:0:24109572><>" changed map to "de_nuke"
+L 09/09/2014 - 21:06:12: [SM] Changed map to "de_nuke"
+L 09/09/2014 - 21:06:13: -------- Mapchange to de_nuke --------
+L 09/09/2014 - 21:06:14: [warmod.smx] Current Map: de_nuke  Workshop ID: 
+L 09/09/2014 - 21:06:57: [warmod.smx] "force_start" (player "KoNgLryyy<38><STEAM_1:0:45784403><>")
+L 09/09/2014 - 21:13:45: [basechat.smx] "♡.Aki<77><STEAM_1:1:2058143><>" triggered sm_say (text win8自己切输入法真是烦死掉了)
+L 09/09/2014 - 21:14:26: [basechat.smx] "♡.Aki<77><STEAM_1:1:2058143><>" triggered sm_chat (text 没有GTX990想DX12?)
+L 09/09/2014 - 21:22:29: [basechat.smx] "♡.Aki<84><STEAM_1:1:2058143><>" triggered sm_say (text TOFO)
+L 09/09/2014 - 21:22:37: [basechat.smx] "♡.Aki<84><STEAM_1:1:2058143><>" triggered sm_say (text 插件要改改)
+L 09/09/2014 - 21:22:54: [basechat.smx] "♡.Aki<84><STEAM_1:1:2058143><>" triggered sm_say (text 我用职业哥的CFG 被服务器踢了)
+L 09/09/2014 - 21:45:14: -------- Mapchange to de_mirage --------
+L 09/09/2014 - 21:45:14: [warmod.smx] Current Map: de_mirage  Workshop ID: 
+L 09/09/2014 - 21:49:45: [warmod.smx] "force_start" (player "KoNgLryyy<38><STEAM_1:0:45784403><>")
+L 09/09/2014 - 21:56:23: [basecommands.smx] "KoNgLryyy<38><STEAM_1:0:45784403><>" kicked "Черепно мозговая травма<95><STEAM_1:1:86179591><>" (reason "")
+L 09/09/2014 - 22:21:29: -------- Mapchange to de_inferno --------
+L 09/09/2014 - 22:21:29: [warmod.smx] Current Map: de_inferno  Workshop ID: 
+L 09/09/2014 - 23:10:19: -------- Mapchange to de_inferno --------
+L 09/09/2014 - 23:10:19: [warmod.smx] Current Map: de_inferno  Workshop ID: 

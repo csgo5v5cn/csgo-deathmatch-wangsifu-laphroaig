@@ -1,0 +1,29 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"	"0.2.5.7"
+		}
+
+		"Notes"	"More info @ forums.alliedmods.net/showthread.php?t=225474. For changes in 0.2.5.7 look in thread"
+
+	}
+
+	"Files"
+	{
+		"Plugin"	"Path_SM/plugins/warmod.smx"
+		"Plugin"	"Path_SM/translations/warmod.phrases.txt"
+		"Plugin"	"Path_SM/translations/ru/warmod.phrases.txt"
+		"Plugin"	"Path_SM/translations/pt/warmod.phrases.txt"
+		"Plugin"	"Path_SM/translations/hu/warmod.phrases.txt"
+		"Plugin"	"Path_SM/translations/fr/warmod.phrases.txt"
+		"Plugin"	"Path_SM/translations/de/warmod.phrases.txt"
+		"Plugin"	"Path_SM/translations/chi/warmod.phrases.txt"
+		"Plugin"	"Path_Mod/cfg/gamemode_competitive_server.cfg"
+
+		"Source"	"Path_SM/scripting/warmod.sp"
+		"Source"	"Path_MS/scripting/include/warmod.inc"
+	}
+}

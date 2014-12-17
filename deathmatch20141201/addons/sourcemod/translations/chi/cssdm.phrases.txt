@@ -1,0 +1,126 @@
+"Phrases"
+{
+	"NoRespawn NotInGame"
+	{
+                "en"		"You must be in game to respawn."
+		"chi"		"你必须在游戏中才能重生."
+                "de"    	"Du mußt im Spiel sein um zu spawnen"
+		"fr"		"Vous devez etre dans le jeu pour faire un respawn."
+		"tr"		"Yeniden dogmak için oyunda olmalisiniz."
+	}
+
+	"NoRespawn Alive"
+	{
+		"en"		"You must be dead to respawn."
+                "chi"		"你只有死亡之后才能重生."
+                "de"    	"Du musst tot sein um zu respawnen"
+		"fr"		"Vous devez etre mort pour pouvoir faire un respawn."
+		"tr"		"Yeniden dogmak için ölü olmalisiniz."
+	}
+
+	"NoRespawn Team"
+	{
+		"en"		"You must be on a team to respawn."
+                "chi"		"你只有选择一个队伍才能重生."
+                "de"    	"Du musst in einem Team sein um spawnen zu können"
+		"fr"		"Vous devez etre dans une Team pour faire un respawn."
+		"tr"		"Yeniden dogmak için bir takimda olmalisiniz."
+	}
+	
+	"NoRespawn Wait"
+	{
+                "en"		"You must wait {1} more seconds before respawning."
+		"chi"		"你需要等待 {1}秒才能重生."
+                "de"    	"Du musst noch {1} weitere Sekudnen abwarten bis du respawnen kannst"
+		"fr"		"Vous devez attendre {1} secondes avant de reapparaitre."
+		"tr"		"Yeniden dogmak için {1} saniye daha beklemelisiniz."
+	}
+	
+	"GunsMenuDisabled"
+	{
+		"en"		"The guns menu command is disabled."
+                "chi"		"选枪菜单被禁止了."
+                "de"    	"Der Waffen Menü Befehl ist abgeschaltet"
+		"fr"		"La commande guns est inactive."
+		"tr"		"Silahlar menüsü komutu etkin degil."
+	}
+	
+	"GunsMenuNotAvailable"
+	{
+		"en"		"The guns menu is not available."
+                "chi"		"选枪菜单不可用."
+		"de"    	"Das Waffenmenü ist nicht verfügbar"
+		"fr"		"La commande guns n'est pas valable."
+		"tr"		"Silahlar menüsü mevcut degil."
+	}
+	
+	"GunsMenuAlreadyEnabled"
+	{
+                "en"		"Your guns menu is already enabled."
+		"chi"		"选枪菜单已经开启了."
+                "de"    	"Dein Waffenmenü ist bereits eingeschaltet"
+		"fr"		"Votre menu est deja actif."
+		"tr"		"Silahlar menünüz zaten etkin."
+	}
+	
+	"GunsMenuReactivated"
+	{
+                "en"		"Your guns menu has been enabled for your next respawn."
+		"chi"		"重生之后才能使用选枪菜单."
+                "de"    	"Deine Waffen wurden für deinen nächsten Respawn freigeschaltet"
+		"fr"		"Votre menu sera actif au prochain respawn."
+		"tr"		"Silahlar menünüz yeniden dogusunuz için etkinlestirildi."
+	}
+	
+	"SayGunsNotify"
+	{
+		"en"		"Say 'guns' in chat to re-enable your menu."
+		"chi"		"输入 'guns' 可以重新开启选枪菜单."
+                "de"    	"Tippe 'guns' in den Chat um dein Menü wieder einzuschalten."
+		"fr"		"Dites 'guns' dans le T'chat pour ouvrir le menu."
+		"tr"		"Menünüzü yeniden etkinlestirmek için 'guns' yazin."
+	}
+	
+	"New weapons"
+	{ 
+                "en"		"New weapons"
+                "chi"		"选择新武器"
+               
+	}
+	
+	"Same weapons"
+	{
+                "en"		"Same weapons"
+                "chi"		"相同的武器"
+	}
+	
+	"Same weapons every time"
+	{
+                "en"		"Same weapons every time"
+	        "chi"		"一直使用相同的武器"
+        }
+	
+	"Random weapons"
+	{
+		 "en"		"Random weapons"
+                 "chi"		"随机武器"
+	}
+	
+	"Random weapons every time"
+	{
+                "en"		"Random weapons every time"
+	        "chi"		"一直使用随机的武器"
+        }                    
+	
+	"Primary weapon"
+	{
+		"en"		"Primary weapon"
+                "chi"		"主武器"
+	}
+	
+	"Secondary weapon"
+	{
+		"en"		"Secondary weapon"
+                "chi"		"副武器"
+	}
+}

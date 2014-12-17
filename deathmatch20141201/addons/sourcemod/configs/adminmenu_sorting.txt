@@ -1,0 +1,47 @@
+"Menu"
+{
+	"wm_commands"
+	{
+		"item"		"wm_warmup"
+		"item"		"wm_knife"
+		"item"		"wm_live"
+		"item"		"wm_reset"
+		"item"		"wm_all_to_spec"
+		"item"		"wm_mr"
+		"item"		"wm_mrwu"
+		"item"		"wm_vote"
+		"item"		"wm_nm"
+		"item"		"wm_ban_t"
+		"item"		"wm_ban_ct"
+	}
+	"PlayerCommands"
+	{
+		"item"		"sm_slay"
+		"item"		"sm_slap"
+		"item"		"sm_kick"
+		"item"		"sm_ban"
+		"item"		"sm_gag"
+		"item"		"sm_burn"		
+		"item"		"sm_beacon"
+		"item"		"sm_freeze"
+		"item"		"sm_timebomb"
+		"item"		"sm_firebomb"
+		"item"		"sm_freezebomb"
+	}
+
+	"ServerCommands"
+	{
+		"item"		"sm_map"
+		"item"		"sm_execcfg"
+		"item"		"sm_reloadadmins"
+	}
+
+	"VotingCommands"
+	{
+		"item"		"sm_cancelvote"
+		"item"		"sm_votemap"
+		"item"		"sm_votekick"
+		"item"		"sm_voteban"
+	}
+}
+

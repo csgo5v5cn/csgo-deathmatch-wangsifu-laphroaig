@@ -1,0 +1,74 @@
+L 11/11/2014 - 17:32:25: SourceMod log file session started (file "L20141111.log") (Version "1.6.1-dev+4526")
+L 11/11/2014 - 17:32:25: -------- Mapchange to de_cache --------
+L 11/11/2014 - 18:42:35: -------- Mapchange to de_cache --------
+L 11/11/2014 - 18:42:53: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<793><STEAM_1:0:56540868><>" changed map to "wsf_bloodstrike"
+L 11/11/2014 - 18:42:56: [SM] Changed map to "wsf_bloodstrike"
+L 11/11/2014 - 18:42:56: -------- Mapchange to wsf_bloodstrike --------
+L 11/11/2014 - 18:44:30: [playercommands.smx] "butterfly❤❤❤<795><STEAM_1:0:49846465><>" slayed "*O.z<794><STEAM_1:1:56072659><>"
+L 11/11/2014 - 18:49:31: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<799><STEAM_1:0:56540868><>" changed map to "de_dust2"
+L 11/11/2014 - 18:49:34: [SM] Changed map to "de_dust2"
+L 11/11/2014 - 18:49:35: -------- Mapchange to de_dust2 --------
+L 11/11/2014 - 18:52:17: [basechat.smx] "butterfly❤❤❤<807><STEAM_1:0:49846465><>" triggered sm_say (text cao)
+L 11/11/2014 - 19:00:03: [basechat.smx] "sifu.WANG╮(╯3╰)╭<799><STEAM_1:0:56540868><>" triggered sm_say (text 少个人。。重刷吧)
+L 11/11/2014 - 19:28:29: -------- Mapchange to de_mirage --------
+L 11/11/2014 - 19:30:41: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<799><STEAM_1:0:56540868><>" kicked "3084762768<834><STEAM_1:0:101203355><>" 
+L 11/11/2014 - 19:30:49: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<799><STEAM_1:0:56540868><>" executed config (file "WangShiFu/SuiJiZuDui.cfg")
+L 11/11/2014 - 19:30:54: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<799><STEAM_1:0:56540868><>" executed config (file "WangShiFu/SuiJiZuDui.cfg")
+L 11/11/2014 - 19:49:32: [basechat.smx] "butterfly❤❤❤<807><STEAM_1:0:49846465><>" triggered sm_say (text ta zai cthome)
+L 11/11/2014 - 20:10:26: -------- Mapchange to de_inferno --------
+L 11/11/2014 - 20:19:13: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<853><STEAM_1:0:56540868><>" console command (cmdline "wm_lock_teams")
+L 11/11/2014 - 20:19:15: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<853><STEAM_1:0:56540868><>" console command (cmdline "wm_lock_teams 1")
+L 11/11/2014 - 20:22:41: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<855><STEAM_1:0:56540868><>" console command (cmdline "wm_lock_teams ")
+L 11/11/2014 - 20:34:30: [basechat.smx] "SUPER GAO<860><STEAM_1:0:54309167><>" triggered sm_say (text MB不容易啊，LOL赛季总算结束了，我解放了)
+L 11/11/2014 - 20:35:32: [basechat.smx] "SUPER GAO<860><STEAM_1:0:54309167><>" triggered sm_say (text 土鳖跟墨绿。。。。。)
+L 11/11/2014 - 20:35:40: [namechangepunisher.smx] butterfly (851) changed names for the first time in this 30 second time period.
+L 11/11/2014 - 20:36:09: [basecommands.smx] "butterfly<851><STEAM_1:0:49846465><>" kicked "SUPER GAO<860><STEAM_1:0:54309167><>" 
+L 11/11/2014 - 20:36:31: [basechat.smx] "SUPER GAO<862><STEAM_1:0:54309167><>" triggered sm_say (text 尼玛)
+L 11/11/2014 - 20:40:10: [basechat.smx] "SUPER GAO<862><STEAM_1:0:54309167><>" triggered sm_say (text 水笔)
+L 11/11/2014 - 20:43:03: [basechat.smx] "SUPER GAO<862><STEAM_1:0:54309167><>" triggered sm_say (text 翻盘了)
+L 11/11/2014 - 20:43:19: [basechat.smx] "SUPER GAO<862><STEAM_1:0:54309167><>" triggered sm_say (text 墨绿问你怕不怕)
+L 11/11/2014 - 20:44:53: [basechat.smx] "sifu.WANG╮(╯3╰)╭<865><STEAM_1:0:56540868><>" triggered sm_say (text 警察从了土匪吧)
+L 11/11/2014 - 20:45:19: [basechat.smx] "sifu.WANG╮(╯3╰)╭<865><STEAM_1:0:56540868><>" triggered sm_say (text 我刚刚写了个功能。。比赛开始一边只能加入5人。。一会我要测试呀。。)
+L 11/11/2014 - 20:45:23: [basechat.smx] "sifu.WANG╮(╯3╰)╭<865><STEAM_1:0:56540868><>" triggered sm_say (text 快点打呀。)
+L 11/11/2014 - 20:46:37: -------- Mapchange to de_nuke --------
+L 11/11/2014 - 20:47:57: [basechat.smx] "sifu.WANG╮(╯3╰)╭<865><STEAM_1:0:56540868><>" triggered sm_say (text 一会我要移个人上来。。)
+L 11/11/2014 - 20:51:04: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<871><STEAM_1:0:56540868><>" kicked "artepad<870><STEAM_1:1:65665734><>" 
+L 11/11/2014 - 21:02:53: [basechat.smx] "sifu.WANG╮(╯3╰)╭<874><STEAM_1:0:56540868><>" triggered sm_say (text 土匪尽快输了。。 我正好要测试。。)
+L 11/11/2014 - 21:08:33: [basechat.smx] "sifu.WANG╮(╯3╰)╭<874><STEAM_1:0:56540868><>" triggered sm_say (text ...比我们还猥琐。。)
+L 11/11/2014 - 21:11:11: [basechat.smx] "sifu.WANG╮(╯3╰)╭<874><STEAM_1:0:56540868><>" triggered sm_say (text 好枪。。)
+L 11/11/2014 - 21:11:58: [basechat.smx] "sifu.WANG╮(╯3╰)╭<874><STEAM_1:0:56540868><>" triggered sm_say (text 吊。。)
+L 11/11/2014 - 21:12:07: [basechat.smx] "sifu.WANG╮(╯3╰)╭<874><STEAM_1:0:56540868><>" triggered sm_say (text 5哥被 疟。。)
+L 11/11/2014 - 21:12:09: -------- Mapchange to de_cache --------
+L 11/11/2014 - 21:13:38: [basechat.smx] "sifu.WANG╮(╯3╰)╭<874><STEAM_1:0:56540868><>" triggered sm_say (text 邀请个人进来玩玩)
+L 11/11/2014 - 21:26:06: [basecommands.smx] "SUPER GAO<862><STEAM_1:0:54309167><>" kicked "Memie <3<881><STEAM_1:0:57149373><>" 
+L 11/11/2014 - 21:36:27: [basechat.smx] "sifu.WANG╮(╯3╰)╭<883><STEAM_1:0:56540868><>" triggered sm_say (text 知道了。。)
+L 11/11/2014 - 21:40:46: [basechat.smx] "sifu.WANG╮(╯3╰)╭<883><STEAM_1:0:56540868><>" triggered sm_say (text 警察不行了呀。。)
+L 11/11/2014 - 21:45:48: [basechat.smx] "sifu.WANG╮(╯3╰)╭<883><STEAM_1:0:56540868><>" triggered sm_say (text CT不行了。。)
+L 11/11/2014 - 21:49:57: [basechat.smx] "butterfly<886><STEAM_1:0:49846465><>" triggered sm_say (text wo cao  hai meiyou da wan )
+L 11/11/2014 - 21:53:48: -------- Mapchange to de_overpass --------
+L 11/11/2014 - 21:53:49: [warmod2(4).smx] Current Map: de_overpass  Workshop ID: 	
+L 11/11/2014 - 21:55:10: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<883><STEAM_1:0:56540868><>" changed map to "de_dust2"
+L 11/11/2014 - 21:55:13: [SM] Changed map to "de_dust2"
+L 11/11/2014 - 21:55:14: -------- Mapchange to de_dust2 --------
+L 11/11/2014 - 21:55:14: [warmod2(4).smx] Current Map: de_dust2  Workshop ID: 
+L 11/11/2014 - 21:56:20: [warmod2(4).smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<883><STEAM_1:0:56540868><>")
+L 11/11/2014 - 21:56:46: [warmod2(4).smx] "force_end" (player "sifu.WANG╮(╯3╰)╭<883><STEAM_1:0:56540868><>")
+L 11/11/2014 - 21:58:16: [warmod2(4).smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<883><STEAM_1:0:56540868><>")
+L 11/11/2014 - 21:58:35: [warmod2(4).smx] "force_end" (player "sifu.WANG╮(╯3╰)╭<883><STEAM_1:0:56540868><>")
+L 11/11/2014 - 22:00:35: [warmod2(4).smx] "force_start" (player "butterfly<886><STEAM_1:0:49846465><>")
+L 11/11/2014 - 22:20:24: [basechat.smx] "sifu.WANG╮(╯3╰)╭<903><STEAM_1:0:56540868><>" triggered sm_say (text 墨绿你有OP的吧？)
+L 11/11/2014 - 22:20:58: [basechat.smx] "butterfly<886><STEAM_1:0:49846465><>" triggered sm_chat (text AS)
+L 11/11/2014 - 22:35:12: -------- Mapchange to de_mirage --------
+L 11/11/2014 - 22:46:43: [basechat.smx] "sifu.WANG╮(╯3╰)╭<903><STEAM_1:0:56540868><>" triggered sm_say (text 怎么都没人了呀。。)
+L 11/11/2014 - 22:49:53: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<903><STEAM_1:0:56540868><>" console command (cmdline "sammysafkerkicker_check_delay")
+L 11/11/2014 - 22:49:55: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<903><STEAM_1:0:56540868><>" console command (cmdline "sammysafkerkicker_check_delay 10")
+L 11/11/2014 - 23:03:36: -------- Mapchange to de_inferno --------
+L 11/11/2014 - 23:03:37: [warmod2(5).smx] Current Map: de_inferno  Workshop ID: 
+L 11/11/2014 - 23:15:45: [warmod2(5).smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<903><STEAM_1:0:56540868><>")
+L 11/11/2014 - 23:15:58: [warmod2(5).smx] "force_end" (player "sifu.WANG╮(╯3╰)╭<903><STEAM_1:0:56540868><>")
+L 11/11/2014 - 23:16:49: [warmod2(5).smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<903><STEAM_1:0:56540868><>")
+L 11/11/2014 - 23:36:46: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<940><STEAM_1:0:56540868><>" console command (cmdline "sv_vote_quorum_ratio")
+L 11/11/2014 - 23:36:55: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<940><STEAM_1:0:56540868><>" console command (cmdline "sv_vote_quorum_ratio 1")
+L 11/11/2014 - 23:59:54: [mapchooser.smx] Starting map vote because outside request
+L 11/11/2014 - 23:59:54: [mapchooser.smx] Voting for next map has started.
+L 11/11/2014 - 23:59:54: -------- Mapchange to de_nuke --------

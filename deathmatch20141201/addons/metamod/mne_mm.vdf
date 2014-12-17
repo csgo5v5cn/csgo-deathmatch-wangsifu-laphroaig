@@ -1,0 +1,5 @@
+"Metamod Plugin"
+{
+	"alias"		"mne_mm"
+	"file"		"addons/mne_mm/mne_mm"
+}

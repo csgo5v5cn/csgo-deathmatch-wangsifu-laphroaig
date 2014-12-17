@@ -1,0 +1,113 @@
+"Phrases"
+{
+	"Plugin_Prefix"
+	{
+		"chi"	""
+		"ru"	""
+	}
+
+	"Error_PlayerIsAlive"
+	{
+		"chi"	"Commands \"!me\" and \"!hp\" can only be used after death."
+		"ru"	"Команды \"!me\" и \"!hp\" доступны только после смерти."
+	}
+
+	"Error_PlayerIsSuicide"
+	{
+		"chi"	"You have committed suicide..."
+		"ru"	"Вы покончили с собой..."
+	}
+
+	"Error_NoHits"
+	{
+		"chi"	"No hits..."
+		"ru"	"Вы ни в кого не попали..."
+	}
+
+	"Error_NoAttacker"
+	{
+		"chi"	"No attaker."
+		"ru"	"Нет убийцы."
+	}
+
+	"HPMessage"
+	{
+		"#format"	"{1:s},{2:i},{3:i},{4:s},{5:i}"
+		"chi"	"You have bechi killed by player: {1} ({2} HP {3} AP) with {4}({5} damage)."
+		"ru"	"Вы были убиты игроком: {1} ({2} HP {3} AP) из оружия: {4} ({5} урона)."
+	}
+
+	"HPMessage2"
+	{
+		"#format"	"{1:s},{2:s},{3:i}"
+		"chi"	"You have bechi killed by player: {1} (Dead) with: {2}({3} damage)."
+		"ru"	"Вы были убиты игроком: {1} (Мертв) из оружия: {2} ({3} урона)."
+	}
+
+	"MEMessage"
+	{
+		"#format"	"{1:i},{2:s},{3:i}"
+		"chi"	"Hits: {1} ({2}), damage done: {3}."
+		"ru"	"Статистика раунда: {1} попаданий ({2}), нанесено урона: {3}."
+	}
+
+	"ScrollMessage"
+	{
+		"chi"	"You can use the commands: \"!me\", \"!hp\" after the death."
+		"ru"	"На сервере доступны команды: \"!me\" (информация о нанесенном уроне) и \"!hp\" (информация об убийце)."
+	}
+
+	"HB_Gchieric"
+	{
+		"chi"	"Splash"
+		"ru"	"Смешанных"
+	}
+
+	"HB_Head"
+	{
+		"chi"	"Head"
+		"ru"	"Голова"
+	}
+
+	"HB_Chest"
+	{
+		"chi"	"Chest"
+		"ru"	"Грудь"
+	}
+
+	"HB_Stomach"
+	{
+		"chi"	"Stomach"
+		"ru"	"Живот"
+	}
+
+	"HB_LeftArm"
+	{
+		"chi"	"Left Arm"
+		"ru"	"Л. Рука"
+	}
+
+	"HB_RightArm"
+	{
+		"chi"	"Right Arm"
+		"ru"	"Пр. Рука"
+	}
+
+	"HB_LeftLeg"
+	{
+		"chi"	"Left Leg"
+		"ru"	"Л. Нога"
+	}
+
+	"HB_RightLeg"
+	{
+		"chi"	"Right Leg"
+		"ru"	"Пр. Нога"
+	}
+
+	"HB_Gear"
+	{
+		"chi"	"Gear"
+		"ru"	"Gear"
+	}
+}

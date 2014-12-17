@@ -1,0 +1,93 @@
+L 11/02/2014 - 00:24:43: SourceMod log file session started (file "L20141102.log") (Version "1.6.1-dev+4526")
+L 11/02/2014 - 00:24:43: -------- Mapchange to de_inferno --------
+L 11/02/2014 - 05:36:11: -------- Mapchange to de_inferno --------
+L 11/02/2014 - 05:36:29: -------- Mapchange to de_dust2 --------
+L 11/02/2014 - 14:52:50: -------- Mapchange to de_dust2 --------
+L 11/02/2014 - 15:41:43: -------- Mapchange to de_dust2 --------
+L 11/02/2014 - 15:42:35: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<269><STEAM_1:0:56540868><>" console command (cmdline "wm_min_ready")
+L 11/02/2014 - 15:42:37: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<269><STEAM_1:0:56540868><>" console command (cmdline "wm_min_ready 1")
+L 11/02/2014 - 15:42:54: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<269><STEAM_1:0:56540868><>" console command (cmdline "wm_auto_knife")
+L 11/02/2014 - 15:42:55: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<269><STEAM_1:0:56540868><>" console command (cmdline "wm_auto_knife 1")
+L 11/02/2014 - 15:43:04: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<269><STEAM_1:0:56540868><>" console command (cmdline "wm_auto_knife 1")
+L 11/02/2014 - 15:43:06: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<269><STEAM_1:0:56540868><>" console command (cmdline "wm_min_ready 1")
+L 11/02/2014 - 16:14:43: -------- Mapchange to de_mirage --------
+L 11/02/2014 - 16:21:45: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<269><STEAM_1:0:56540868><>" changed map to "de_dust2"
+L 11/02/2014 - 16:21:48: [SM] Changed map to "de_dust2"
+L 11/02/2014 - 16:21:48: -------- Mapchange to de_dust2 --------
+L 11/02/2014 - 16:22:05: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<269><STEAM_1:0:56540868><>" console command (cmdline "wm_min_ready 1")
+L 11/02/2014 - 16:22:07: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<269><STEAM_1:0:56540868><>" console command (cmdline "wm_auto_knife 1")
+L 11/02/2014 - 16:23:14: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<269><STEAM_1:0:56540868><>" console command (cmdline "wm_min_ready 1")
+L 11/02/2014 - 16:23:15: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<269><STEAM_1:0:56540868><>" console command (cmdline "wm_auto_knife 1")
+L 11/02/2014 - 16:23:26: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<269><STEAM_1:0:56540868><>" console command (cmdline "wm_auto_knife 1")
+L 11/02/2014 - 16:23:28: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<269><STEAM_1:0:56540868><>" console command (cmdline "wm_min_ready 1")
+L 11/02/2014 - 16:27:26: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<269><STEAM_1:0:56540868><>" console command (cmdline "wm_min_ready 1")
+L 11/02/2014 - 16:27:54: -------- Mapchange to de_mirage --------
+L 11/02/2014 - 16:55:07: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<269><STEAM_1:0:56540868><>" changed map to "de_dust2"
+L 11/02/2014 - 16:55:10: [SM] Changed map to "de_dust2"
+L 11/02/2014 - 16:55:11: -------- Mapchange to de_dust2 --------
+L 11/02/2014 - 16:55:21: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<269><STEAM_1:0:56540868><>" console command (cmdline "wm_min_ready 1")
+L 11/02/2014 - 16:55:22: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<269><STEAM_1:0:56540868><>" console command (cmdline "wm_auto_knife 1")
+L 11/02/2014 - 16:55:58: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<269><STEAM_1:0:56540868><>" console command (cmdline "sv_cheats 1")
+L 11/02/2014 - 16:56:11: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<269><STEAM_1:0:56540868><>" console command (cmdline "boT_kill ")
+L 11/02/2014 - 17:59:56: -------- Mapchange to de_dust2 --------
+L 11/02/2014 - 18:00:07: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<327><STEAM_1:0:56540868><>" changed map to "de_dust2"
+L 11/02/2014 - 18:00:10: [SM] Changed map to "de_dust2"
+L 11/02/2014 - 18:00:11: -------- Mapchange to de_dust2 --------
+L 11/02/2014 - 18:01:31: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<327><STEAM_1:0:56540868><>" console command (cmdline "wm_auto_knife 1")
+L 11/02/2014 - 18:01:33: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<327><STEAM_1:0:56540868><>" console command (cmdline "wm_min_ready 1")
+L 11/02/2014 - 18:28:57: -------- Mapchange to de_mirage --------
+L 11/02/2014 - 18:37:03: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<327><STEAM_1:0:56540868><>" changed map to "wsf_bloodstrike"
+L 11/02/2014 - 18:37:06: [SM] Changed map to "wsf_bloodstrike"
+L 11/02/2014 - 18:37:06: -------- Mapchange to wsf_bloodstrike --------
+L 11/02/2014 - 18:50:48: [basechat.smx] "sifu.WANG╮(╯3╰)╭<327><STEAM_1:0:56540868><>" triggered sm_say (text 开一把打这个图~)
+L 11/02/2014 - 18:55:07: [basevotes.smx] "sifu.WANG╮(╯3╰)╭<327><STEAM_1:0:56540868><>" initiated a map vote.
+L 11/02/2014 - 18:55:14: [basevotes.smx] Changing map to de_dust2 due to vote.
+L 11/02/2014 - 18:55:19: [SM] Changed map to "de_dust2"
+L 11/02/2014 - 18:55:20: -------- Mapchange to de_dust2 --------
+L 11/02/2014 - 19:50:46: SourceMod log file session started (file "L20141102.log") (Version "1.6.1-dev+4526")
+L 11/02/2014 - 19:50:46: -------- Mapchange to de_dust2 --------
+L 11/02/2014 - 19:50:46: [CSMod.IP] **********************************
+
+L 11/02/2014 - 19:50:46: [CSMod.IP] ����IP��汾: ��������2014��6��10��IP����
+L 11/02/2014 - 19:50:46: [CSMod.IP] **********************************
+
+L 11/02/2014 - 19:52:13: -------- Mapchange to de_dust2 --------
+L 11/02/2014 - 20:00:33: SourceMod log file session started (file "L20141102.log") (Version "1.6.1-dev+4526")
+L 11/02/2014 - 20:00:33: -------- Mapchange to de_dust2 --------
+L 11/02/2014 - 20:00:33: [CSMod.IP] **********************************
+
+L 11/02/2014 - 20:00:33: [CSMod.IP] ����IP��汾: ��������2014��6��10��IP����
+L 11/02/2014 - 20:00:33: [CSMod.IP] **********************************
+
+L 11/02/2014 - 20:00:59: -------- Mapchange to de_dust2 --------
+L 11/02/2014 - 20:02:58: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<4><STEAM_1:0:56540868><>" changed map to "de_dust2"
+L 11/02/2014 - 20:03:01: [SM] Changed map to "de_dust2"
+L 11/02/2014 - 20:03:02: -------- Mapchange to de_dust2 --------
+L 11/02/2014 - 20:16:07: [basebans.smx] "sifu.WANG╮(╯3╰)╭<27><STEAM_1:0:56540868><>" banned "jjjjjjjjjjjjjjjjjj<23><STEAM_1:0:97949878><>" (minutes "0") (reason "Abusive")
+L 11/02/2014 - 20:19:03: [basevotes.smx] "sifu.WANG╮(╯3╰)╭<27><STEAM_1:0:56540868><>" initiated a kick vote against "Finn<26><BOT><>"
+L 11/02/2014 - 20:19:05: [basevotes.smx] Vote kick successful, kicked "Finn<26><BOT><>" (reason "Votekicked")
+L 11/02/2014 - 20:24:07: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<27><STEAM_1:0:56540868><>" changed map to "AWP_snow_map"
+L 11/02/2014 - 20:24:10: [SM] Changed map to "AWP_snow_map"
+L 11/02/2014 - 20:24:10: -------- Mapchange to AWP_snow_map --------
+L 11/02/2014 - 20:38:52: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<27><STEAM_1:0:56540868><>" console command (cmdline "mp_death_drop_gun 2")
+L 11/02/2014 - 20:43:38: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<27><STEAM_1:0:56540868><>" console command (cmdline "mp_maxrounds 9")
+L 11/02/2014 - 20:43:56: -------- Mapchange to de_dust2 --------
+L 11/02/2014 - 20:45:37: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<27><STEAM_1:0:56540868><>" kicked "<Khotkov Danil><44><STEAM_1:1:98687613><>" 
+L 11/02/2014 - 21:07:38: -------- Mapchange to de_dust2 --------
+L 11/02/2014 - 21:11:50: [basechat.smx] "sifu.WANG╮(╯3╰)╭<27><STEAM_1:0:56540868><>" triggered sm_say (text 等下有一队女孩子过来打比赛。。我们只能留5个。。)
+L 11/02/2014 - 21:13:39: -------- Mapchange to de_mirage --------
+L 11/02/2014 - 21:14:58: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<27><STEAM_1:0:56540868><>" kicked "1187224484<54><STEAM_1:1:91907586><>" 
+L 11/02/2014 - 21:15:30: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<27><STEAM_1:0:56540868><>" kicked "Justice will be served<61><STEAM_1:0:97202271><>" 
+L 11/02/2014 - 21:17:38: [basechat.smx] "sifu.WANG╮(╯3╰)╭<67><STEAM_1:0:56540868><>" triggered sm_say (text 啊)
+L 11/02/2014 - 21:19:12: [basechat.smx] "sifu.WANG╮(╯3╰)╭<67><STEAM_1:0:56540868><>" triggered sm_say (text 你放点水会死么。)
+L 11/02/2014 - 21:22:41: -------- Mapchange to de_dust2 --------
+L 11/02/2014 - 21:26:36: [basechat.smx] "sifu.WANG╮(╯3╰)╭<67><STEAM_1:0:56540868><>" triggered sm_say (text 我去别的地方玩了呀，你们慢慢打，要服务员就叫 大魔王。。)
+L 11/02/2014 - 21:54:04: -------- Mapchange to de_inferno --------
+L 11/02/2014 - 21:54:04: [GEOIP] GeoIP database info: GEO-106FREE 20091001 Build 1 Copyright (c) 2009 MaxMind Inc All Rights Reserved
+L 11/02/2014 - 21:59:25: [basechat.smx] "sifu.WANG╮(╯3╰)╭<76><STEAM_1:0:56540868><>" triggered sm_say (text 狼牙上来)
+L 11/02/2014 - 22:01:48: -------- Mapchange to de_mirage --------
+L 11/02/2014 - 22:01:48: [GEOIP] GeoIP database info: GEO-106FREE 20091001 Build 1 Copyright (c) 2009 MaxMind Inc All Rights Reserved
+L 11/02/2014 - 22:36:29: -------- Mapchange to de_nuke --------
+L 11/02/2014 - 22:45:50: [basechat.smx] "肉山大魔王 ✄╰ひ╯<37><STEAM_1:1:54140957><>" triggered sm_say (text +4)
+L 11/02/2014 - 23:16:05: -------- Mapchange to de_cache --------
+L 11/02/2014 - 23:54:29: -------- Mapchange to de_overpass --------

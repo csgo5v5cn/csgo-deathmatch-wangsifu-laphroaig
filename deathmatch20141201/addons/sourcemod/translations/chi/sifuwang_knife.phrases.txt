@@ -1,0 +1,116 @@
+﻿"Phrases"
+{
+  "knifeqq"
+ 	{		
+		"chi"		"【欢迎素质选手加QQ群50419988】."
+	}
+  "knifestart1"
+ 	{		
+		"chi"		"可用命令如下:"
+	}
+	 "knifestart2"
+ 	{		
+		"chi"		"!guns 换枪"
+	}
+	 "knifestart4"
+ 	{		
+		"chi"		"!votekick 投票踢人"
+	}
+	 "knifestart3"
+ 	{		
+		"chi"		"!vk也是投票T人~"
+	}
+	 "knifestart5"
+ 	{		
+		"chi"		"rtv 投票换图"
+	}
+	 "knifestart6"
+ 	{		
+		"chi"		"!dao 刀商店"
+	}
+	 "knifestart7"
+ 	{		
+		"chi"		"esc 中也能投票"
+	}
+	 "zhuazi"
+ 	{		
+		"chi"		"素质娱乐，玩得开心。"
+	}
+	 "zhuazi1"
+ 	{		
+		"chi"		"输入!dao换刀 !votekick踢人 rtv换图"
+	}
+		 "chuanchang"
+ 	{		
+		"chi"		"素质娱乐，玩得开心。"
+	}
+		 "chuanchang1"
+ 	{		
+		"chi"		"输入!dao换刀 !votekick踢人 rtv换图"
+	}
+		 "cidaom9"
+ 	{		
+		"chi"		"素质娱乐，玩得开心。"
+	}
+		 "cidaom91"
+ 	{		
+		"chi"		"输入!dao换刀 !votekick踢人 rtv换图"
+	}
+		 "xcidao"
+ 	{		
+		"chi"		"素质娱乐，玩得开心。"
+	}
+		 "xcidao1"
+ 	{		
+		"chi"		"输入!dao换刀 !votekick踢人 rtv换图"
+	}
+		 "hudie"
+ 	{		
+		"chi"		"素质娱乐，玩得开心。"
+	}
+		 "hudie1"
+ 	{		
+		"chi"		"输入!dao换刀 !votekick踢人 rtv换图"
+	}
+		 "lieren"
+ 	{		
+		"chi"		"素质娱乐，玩得开心。"
+	}
+		 "lieren1"
+ 	{		
+		"chi"		"输入!dao换刀 !votekick踢人 rtv换图"
+	}
+		 "zhedie"
+ 	{		
+		"chi"		"素质娱乐，玩得开心。"
+	}
+		 "zhedie1"
+ 	{		
+		"chi"		"输入!dao换刀 !votekick踢人 rtv换图"
+	}
+		 "huangjin"
+ 	{		
+		"chi"		"素质娱乐，玩得开心。"
+	}
+		 "huangjin1"
+ 	{		
+		"chi"		"黄金匕首杀人只加三百块钱"
+	}
+		 "other"
+ 	{		
+		"chi"		"离开你所在的地方!所有玩家都会掉出一把刀,捡起来！"
+	}
+		 "other1"
+ 	{		
+		"chi"		"离开你所在的地方!所有玩家都会掉出一把刀,捡起来！"
+	}
+		"moren"
+ 	{		
+		"chi"		"素质娱乐，玩得开心。"
+	}
+		 "moren1"
+ 	{		
+		"chi"		"下局将获得默认刀模！"
+	}
+}
+

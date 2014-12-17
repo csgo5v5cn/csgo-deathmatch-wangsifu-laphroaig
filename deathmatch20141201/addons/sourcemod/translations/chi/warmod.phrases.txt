@@ -1,0 +1,346 @@
+"Phrases"
+{
+	"Match Reset"
+	{
+		"chi"			"比赛重置 - 未开始！"
+	}
+	"Half Reset"
+	{
+		"chi"			"比赛半场重置 - 未开始！"
+	}
+	"Half Time"
+	{
+		"chi"			"上半场结束-请交换队伍..."
+
+	}
+	"Half Time Auto Swap"
+	{
+		"chi"			"上半场结束-正在交换队伍..."
+	}
+	"Full Time"
+	{
+		"chi"			"比赛结束！"
+	}
+	"Over Time"
+	{
+		"#format"		"{1:i}"
+		"chi"			"加时赛 MR{1}"
+	}
+	"Over Time Sudden Death"
+	{
+		"chi"			"加时赛"
+	}
+	"Playing Out Notice"
+	{
+		"#format"		"{1:i}"
+		"chi"			"注意：必须打完所有 {1} 个回合！"
+	}
+	"Ready"
+	{
+		"chi"			"你已准备完毕"
+	}
+	"Not Ready"
+	{
+		"chi"			"你未准备完毕"
+	}
+	"Score Overtime"
+	{
+		"chi"			"加时赛："
+	}
+	"Score Overall"
+	{
+		"chi"			"总比分："
+	}
+	"Knife Round Cancelled"
+	{
+		"chi"			"小刀局被取消 - 未开始"
+	}
+	"Knife Round Inactive"
+	{
+		"chi"			"小刀局未开始"
+	}
+	"Ready System Enabled"
+	{
+		"chi"			"准备系统 - 已启用"
+	}
+	"Ready System Disabled"
+	{
+		"chi"			"准备系统 - 未启用"
+	}
+	"Set Active"
+	{
+		"chi"			"设置为启用"
+	}
+	"Set Inactive"
+	{
+		"chi"			"设置为未启用"
+	}
+	"Console Ready"
+	{
+		"chi"			"主机不能被标记为准备完毕"
+	}
+	"Console Not Ready"
+	{
+		"chi"			"主机不能被标记为未准备完毕"
+	}
+	"Not on Team"
+	{
+		"chi"			"你没有加入一支队伍"
+	}
+	"Already Ready"
+	{
+		"chi"			"你已经准备完毕"
+	}
+	"Already Not Ready"
+	{
+		"chi"			"你已经被标记为未准备完毕"
+	}
+	"Forced Ready"
+	{
+		"chi"			"强制所有玩家准备完毕"
+	}
+	"Forced Not Ready"
+	{
+		"chi"			"强制所有玩家未准备完毕"
+	}
+	"Forced Spectate"
+	{
+		"chi"			"强制将所有玩家加入观察者"
+	}
+	"Match Not In Progress"
+	{
+		"chi"			"比赛未开始进行！"
+	}
+	"T Winning"
+	{
+		"#format"		"{1:s}"
+		"chi"			"{1} 处于领先"
+	}
+	"Tied"
+	{
+		"chi"			"双方比分持平"
+	}
+	"CT Winning"
+	{
+		"#format"		"{1:s}"
+		"chi"			"{1} 处于领先"
+	}
+	"Change Teams Midgame"
+	{
+		"chi"			"操作失败 - 比赛正在进行"
+	}
+	"Maximum Players"
+	{
+		"chi"			"队伍达到玩家最大数量限制"
+	}
+	"Nightvision Blocked"
+	{
+		"chi"			"夜视仪不可使用"
+	}
+	"Grenades Blocked"
+	{
+		"chi"			"手雷在热身时间中禁止使用"
+	}
+	"Ready System"
+	{
+		"chi"			"准备系统"
+	}
+	"Match Begin Msg"
+	{
+		"#format"		"{1:i}"
+		"chi"			"比赛将在 {1} 玩家准备完毕后开始"
+	}
+	"No Players Found"
+	{
+		"chi"			"未发现玩家"
+	}
+	"Info Not Ready"
+	{
+		"chi"			"未准备完毕（请按Y输入/r或.r就绪）："
+	}
+	"Info Exit"
+	{
+		"chi"			"退出"
+	}
+	"Ready System Disabled2"
+	{
+		"chi"			"准备系统未启用"
+	}
+	"ShowInfo Disabled"
+	{
+		"chi"			"准备系统的显示未启用"
+	}
+	"Match Is Live"
+	{
+		"chi"			"比赛开始"
+	}
+	"WarMod Inactive"
+	{
+		"chi"			"WarMod比赛插件未启用"
+	}
+	"Change T Name"
+	{
+		"#format"		"{1:s}"
+		"chi"			"恐怖分子的名字设为 '{1}'"
+	}
+	"Change CT Name"
+	{
+		"#format"		"{1:s}"
+		"chi"			"反恐精英的名字设为 '{1}'"
+	}
+	"Console"
+	{
+		"chi"			"服务器控制台："
+	}
+	"Available Commands"
+	{
+		"chi"			"可用的客户端命令"
+	}
+	"No Permission"
+	{
+		"chi"			"你无权使用这个命令"
+	}
+	"Set Minready"
+	{
+		"#format"		"{1:i}"
+		"chi"			"wm_min_ready 设置为 {1}"
+	}
+	"Set Maxrounds"
+	{
+		"#format"		"{1:i}"
+		"chi"			"wm_max_rounds设置为 {1}"
+	}
+	"WarMod Rcon Only"
+	{
+		"chi"			"管理员指令仅限于RCON使用"
+	}
+	"Set Password"
+	{
+		"#format"		"{1:s}"
+		"chi"			"服务器密码设置为 '{1}'"
+	}
+	"Autokick"
+	{
+		"chi"			"你已被自动踢出服务器"
+	}
+	"Names Required"
+	{
+		"chi"			"比赛只有在双方的名字设置完毕后才能 lo3"
+	}
+	"Pause Freeze Time"
+	{
+		"chi"			"比赛将会在冻结时间暂停"
+	}
+	"Pause Round End"
+	{
+		"chi"			"比赛将会在回合结束时暂停"
+	}
+	"Pause Limit"
+	{
+		"chi"			"你已经用完所有暂停次数了"
+	}
+	"Pause Non-player"
+	{
+		"chi"			"你必须是T或者CT才能使用/pause"
+	}
+	"Pause Offer"
+	{
+		"chi"			"请求暂停。请输入/pause暂停比赛"
+	}
+	"Pause Not Enabled"
+	{
+		"chi"			"sv_pauseable设为0。暂停功能未启用"
+	}
+	"Unpause Notice"
+	{
+		"chi"			"比赛已经暂停。请输入/unpause继续比赛"
+	}
+	"Unpause Offer"
+	{
+		"chi"			"请求取消暂停。请输入/unpause继续比赛"
+	}
+	"Unpaused Match"
+	{
+		"chi"			"继续了比赛"
+	}
+	"Unpause Non-player"
+	{
+		"chi"			"你必须是T或者CT才能使用/unpause"
+	}
+	"Pause Not Confirmed"
+	{
+		"chi"			"暂停请求并未被对手接受"
+	}
+	"Unpause Timer"
+	{
+		"chi"			"秒后游戏将继续"
+	}
+	"Unpause Auto"
+	{
+		"chi"			"比赛将会在暂停时间用完后自动继续"
+	}
+	"Paused Via Rcon"
+	{
+		"chi"			"服务器目前没有被暂停或已经通过rcon暂停"
+	}
+	"Knife Vote Team"
+	{
+		"chi"			"正在投票是否交换阵营"
+	}
+	"Admin_Menu WarMod Commands"
+	{
+		"chi"			"WarMod指令"
+	}
+	"Admin_Menu Enable ReadyUp"
+	{
+		"chi"			"启用ReadyUp比赛准备系统"
+	}
+	"Admin_Menu Disable ReadyUp"
+	{
+		"chi"			"关闭ReadyUp比赛准备系统"
+	}
+	"Admin_Menu Knife"
+	{
+		"chi"			"小刀局"
+	}
+	"Admin_Menu Force Start"
+	{
+		"chi"			"强制开始"
+	}
+	"Admin_Menu Force End"
+	{
+		"chi"			"强制结束"
+	}
+	"Admin_Menu Cancel Half"
+	{
+		"chi"			"取消半场休息"
+	}
+	"Admin_Menu Cancel Match"
+	{
+		"chi"			"取消比赛"
+	}
+	"Admin_Menu Cancel Knife"
+	{
+		"chi"			"取消小刀局"
+	}
+	"Admin_Menu ForceAllReady"
+	{
+		"chi"			"强制所有人准备完毕"
+	}
+	"Admin_Menu ForceAllUnready"
+	{
+		"chi"			"强制所有人未准备完毕"
+	}
+	"Admin_Menu ForceAllSpectate"
+	{
+		"en"			"强制所有人加入观察者"
+	}
+	"Admin_Menu Activate WarMod"
+	{
+		"chi"			"启用WarMod"
+	}
+	"Admin_Menu Deactivate WarMod"
+	{
+		"chi"			"关闭WarMod"
+	}
+}

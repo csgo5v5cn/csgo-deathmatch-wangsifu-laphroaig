@@ -1,0 +1,722 @@
+"Phrases"
+{
+	"rdy for knives?"
+	{
+		"en"	"Ready for Knives?"
+		"de"	"Bereit für's Messern?"
+		"ru"	"Готовы к Ножам?"
+		"it"	"Pronti per scontro di Coltello?"
+	}
+	
+	"rdy for live?"
+	{
+		"en"	"Ready for Live?"
+		"de"	"Bereit für Live?"
+		"ru"	"Готовы к Матчу?"
+		"it"	"Pronti per iniziare l'Incontro?"
+	}
+	
+	"knife starting"
+	{
+		"en"	"Knife round starting..."
+		"de"	"Messerrunde startet..."
+		"ru"	"Начинается ножевой раунд..."
+		"it"	"Round di coltello sta per iniziare..."
+	}
+	
+	"live starting"
+	{
+		"en"	"Live round starting..."
+		"de"	"Live-Runde startet..."
+		"ru"	"Начинается игровой раунд..."
+		"it"	"L'incontro sta per iniziare..."
+	}
+	
+	"knife after round"
+	{
+		"en"	"KNIVES AFTER THIS ROUND!"
+		"de"	"MESSERN NACH DIESER RUNDE!"
+		"ru"	"НОЖИ ПОСЛЕ ЭТОГО РАУНДА!"
+		"it"	"ROUND DI COLTELLO DOPO QUESTO ROUND!"
+	}
+	
+	"live after round"
+	{
+		"en"	"LIVE AFTER THIS ROUND!"
+		"de"	"LIVE NACH DIESER RUNDE!"
+		"ru"	"МАТЧ ПОСЛЕ ЭТОГО РАУНДА!"
+		"it"	"L'INCONTRO HA INIZIO DOPO QUESTO ROUND!"
+	}
+	
+	"start warmup"
+	{
+		"en"	"Start Warmup!"
+		"de"	"Starte Warmup!"
+		"ru"	"Запустить Разминку!"
+		"it"	"Inizio del Warmup!"
+	}
+	
+	"start knife"
+	{
+		"en"	"Start Knife round!"
+		"de"	"Starte Messerrunde!"
+		"ru"	"Запустить Ножи!"
+		"it"	"Inizio del round di Coltello!"
+	}
+	
+	"start live"
+	{
+		"en"	"Start Live round!"
+		"de"	"Starte Live-Runde!"
+		"ru"	"Запустить Матч!"
+		"it"	"Inizio dell'Incontro!"
+	}
+	
+	"reset plugin"
+	{
+		"en"	"Reset plugin"
+		"de"	"Plugin zurücksetzen"
+		"ru"	"Сбросить плагин"
+		"it"	"Reset del Plugin"
+	}
+	
+	"plugin reset"
+	{
+		"en"	"Plugin has been reset."
+		"de"	"Plugin wurde zurückgesetzt."
+		"ru"	"Плагин был сброшен."
+		"it"	"Hai resettato il Plugin."
+	}
+	
+	"usage: war_maxrounds"
+	{
+		"#format"	"{1:d}"
+		"en"	"Usage: war_maxrounds <count> -- Current value is {1}."
+		"de"	"Nutzung: war_maxrounds <Anzahl> -- Momentan eingestellt auf {1}."
+		"ru"	"Использование: war_maxrounds <количество> -- Текущее значение {1}."
+		"it"	"Utilizzo: war_maxrounds <conte> -- Valore attuale {1}."
+	}
+	
+	"usage: war_nextmap"
+	{
+		"#format"	"{1:s}"
+		"en"	"Usage: war_nextmap <map> -- Current value is {1}."
+		"de"	"Nutzung: war_nextmap <Map> -- Momentan eingestellt auf {1}."
+		"ru"	"Использование: war_nextmap <карта> -- Текущее значение {1}."
+		"it"	"Utilizzo: war_nextmap <mappa> -- Valore attuale {1}."
+	}
+	
+	"map running"
+	{
+		"#format"	"{1:s}"
+		"en"	"Map {1} is currently running."
+		"de"	"Map {1} laeuft gerade."
+		"ru"	"Сейчас играем на карте: {1}."
+		"it"	"{1} mappa attuale."
+	}
+	
+	"what now?"
+	{
+		"en"	"What now?"
+		"de"	"Was jetzt?"
+		"ru"	"Что теперь?"
+		"it"	"Cosa facciamo ora?"
+	}
+	
+	"continue warmup"
+	{
+		"en"	"Continue Warmup"
+		"de"	"Warmup verlängern"
+		"ru"	"Ещё размяться"
+		"it"	"Continua il Warmup"
+	}
+	
+	"teamchange please"
+	{
+		"en"	"Teamchange please!"
+		"de"	"Teamwechsel bitte!"
+		"ru"	"Смена команд!"
+		"it"	"Cambio di Team per favore!"
+	}
+	
+	"round x of y"
+	{
+		"#format" "{1:d},{2:d}"
+		"en"	"Round {1}/{2}"
+		"de"	"Runde {1}/{2}"
+		"ru"	"Раунд {1} из {2}"
+		"it"	"Round {1}/{2}"
+	}
+	
+	"last round"
+	{
+		"en"	"Last round!"
+		"de"	"Letzte Runde!"
+		"ru"	"Последний раунд!"
+		"it"	"Ultimo round!"
+	}
+	
+	"first half"
+	{
+		"en"	"First half"
+		"de"	"Erste Halbzeit"
+		"ru"	"1-я половина"
+		"it"	"Primo side"
+	}
+	
+	"second half"
+	{
+		"en"	"Second half"
+		"de"	"Zweite Halbzeit"
+		"ru"	"2-я половина"
+		"it"	"Secondo side"
+	}
+	
+	"team x score y"
+	{
+		"#format" "{1:s},{2:d}"
+		"en"	"{1} :: {2}"
+		"de"	"{1} :: {2}"
+		"ru"	"{1} :: {2}"
+		"it"	"{1} :: {2}"
+	}
+	
+	"youre in team x"
+	{
+		"#format" "{1:s}"
+		"en"	"You're in .: {1} :."
+		"de"	"Du bist in .: {1} :."
+		"ru"	"Вы из клана .: {1} :."
+		"it"	"Tu sei .: {1} :."
+	}	
+	
+	"maxrounds x"
+	{ 
+	"#format" "{1:d}"
+		"en"	"Maxrounds:  {1}"
+		"de"	"Rundenzahl:  {1}"
+		"ru"	"Максимум раундов:  {1}"
+		"it"	"Max round:   {1}"
+	}
+	
+	"warmup rounds x"
+	{
+		"#format" "{1:d}"
+		"en"	"Warmup rounds:  {1}"
+		"de"	"Aufwärmrunden:  {1}"
+		"ru"	"Раундов разминки:  {1}"
+		"it"	"Warmup round: {1}"
+	}
+	
+	"nextmap x"
+	{
+		"#format" "{1:s}"
+		"en"	"Nextmap:  {1}"
+		"de"	"Naechste Map:  {1}"
+		"ru"	"Следующая карта:  {1}"
+		"it"	"Prossima mappa: {1}"
+	}
+	
+	"ready"
+	{
+		"en"	"Ready"
+		"de"	"Bereit"
+		"ru"	"Готов"
+		"it"	"Pronti"
+	}
+	
+	"ban team x"
+	{
+		"#format" "{1:s}"
+		"en"	"Ban {1} team"
+		"de"	"Banne alle {1}s"
+		"ru"	"Забанить команду {1}"
+		"it"	"Ban {1} Team"
+	}
+	
+	"one team empty"
+	{
+		"en"	"One team has {red}no players{olive}..."
+		"de"	"Ein Team hat {red}keine Spieler{olive}..."
+		"ru"	"В одной из команд {red}нет игроков{olive}..."
+		"it"	"Un Team è {red}senza giocatori{olive}..."
+	}
+	
+	"number not equal"
+	{
+		"en"	"The number of players in the teams is not equal."
+		"de"	"Die Anzahl der Spieler ist in den Teams nicht gleich."
+		"ru"	"Команды не равны по количеству игроков."
+		"it"	"Il numero di giocatori nei Teams non è uguale."
+	}
+	
+	"repeat command"
+	{
+		"en"	"Repeat command to start anyway."
+		"de"	"Wiederhole den Befehl, um trotzdem zu starten."
+		"ru"	"Повторите команду для принудительного запуска."
+		"it"	"Ripeti il comando per iniziare comunque."
+	}
+	
+	"select map"
+	{
+		"en"	"Please select a map:"
+		"de"	"Bitte waehle eine Map:"
+		"ru"	"Пожалуйста, выберите карту:"
+		"it"	"Seleziona una mappa per favore:"
+	}
+	
+	"mates cash"
+	{
+		"en"	"Your mates' cash"
+		"de"	"Geld deines Teams"
+		"ru"	"Деньги мейтов"
+		"it"	"Il denaro dei tuoi compagni"
+	}
+
+	"maxrounds set"
+	{
+		"en"	"Maxrounds is set to"
+		"de"	"Maximale Runden am Set"
+		"ru"	"Максимум раундов установлен на"
+		"it"	"Maxrounds è impostato su"
+	}
+
+	"half time auto-swap"
+	{
+		"en"	"1-st half timed!\n{blue}Swapping teams..."
+		"de"	"Die erste Hälfte des Spiels ist fertig!\n{blue}Automatischer Wechsel Seiten..."
+		"ru"	"Первая половина матча завершена!\n{blue}Автоматическая смена сторон..."
+		"it"	"La prima metà del match è finito!\n{blue}Cambio automatico lati..."
+	}
+
+	"match ended in draw"
+	{
+		"en"	"The Match ended in a draw!"
+		"de"	"Das Match endete unentschieden!"
+		"ru"	"Матч завершился в ничью!"
+		"it"	"La partita si è conclusa con un pareggio!"
+	}
+
+	"1st half ended in draw"
+	{
+		"en"	"1-st half ended in draw!"
+		"de"	"1-st Hälfte in ein Remis!"
+		"ru"	"1-я половина завершилась в ничью!"
+		"it"	"La prima metà della partita si è conclusa con un pareggio!"
+	}
+
+	"Change T Name"
+	{
+		"#format" "{1:s}"
+		"en"	"{red}{1} {olive}- beginning for Terrorists"
+		"de"	"{red}{1} {olive}- Beginn für Terroristen"
+		"ru"	"{red}{1} {olive}- начинают за Террористов"
+		"it"	"{red}{1} {olive}- inizio per i Terroristi"
+	}
+
+	"Change CT Name"
+	{
+		"#format" "{1:s}"
+		"en"	"{blue}{1} {olive}- beginning for Counter-Terrorists"
+		"de"	"{blue}{1} {olive}- Beginn für Beginn für Counter-Terroristen"
+		"ru"	"{blue}{1} {olive}- начинают за Cпецназ"
+		"it"	"{blue}{1} {olive}- inizio per i Capre"
+	}
+
+	"team_1"
+	{
+		"en"	"Team_1"
+		"de"	"Team_1"
+		"ru"	"Team_1"
+		"it"	"Team_1"
+	}
+
+	"team_2"
+	{
+		"en"	"Team_2"
+		"de"	"Team_2"
+		"ru"	"Team_2"
+		"it"	"Team_2"
+	}
+
+	"war_title"
+	{
+		"en"	"WAR"
+		"de"	"WAR"
+		"ru"	"ΨΧ™-WARMOD"
+		"it"	"WAR"
+	}
+
+	"map don't set"
+	{
+		"en"	"None"
+		"de"	"Nicht gewählt"
+		"ru"	"Не выбрана"
+		"it"	"Non selezionato"
+	}
+
+	"allowed bought only vest"
+	{
+		"en"	"You can only buy a Vest in Knife Round!"
+		"de"	"Sie können nur kaufen, Weste in Messer Runde!"
+		"ru"	"В Ножевом Раунде разрешено купить только Бронежилет!"
+		"it"	"In Round di coltello permesso di comprare solo il giubbotto antiproiettile!"
+	}
+
+	"not allowed in Sudden Death"
+	{
+		"en"	"Buying is not allowed in Sudden Death!"
+		"de"	"Kaufen ist nicht im Sudden Death erlaubt!"
+		"ru"	"Закуп запрещен в режиме Внезапная Смерть!"
+		"it"	"Acquisto vietato nel modo di Sudden Death!"
+		
+	}
+
+	"score to server"
+	{
+		"#format" "{1:d},{2:d},{3:s},{4:d},{5:s},{6:d}"
+		"en"	"Round {1}/{2} - {3}::{4} - {5}::{6}."
+		"de"	"Runde {1}/{2} - {3}::{4} - {5}::{6}."
+		"ru"	"Раунд {1}/{2} - {3}::{4} - {5}::{6}."
+		"it"	"Round {1}/{2} - {3}::{4} - {5}::{6}."
+	}
+
+	"score to spectators"
+	{
+		"#format" "{1:s},{2:d},{3:d},{4:s},{5:d},{6:s},{7:d}"
+		"en"	"{1} - Round {2}/{3} - {4}::{5} - {6}::{7}."
+		"de"	"{1} - Runde {1}/{2} - {3}::{4} - {5}::{6}."
+		"ru"	"{1} - Раунд {2}/{3} - {4}::{5} - {6}::{7}."
+		"it"	"{1} - Round {2}/{3} - {4}::{5} - {6}::{7}."
+	}
+
+	"1st half"
+	{
+		"en"	"First half"
+		"de"	"Erstes Halbjahr"
+		"ru"	"1-я половина"
+		"it"	"Primo side"
+	}
+
+	"2nd half"
+	{
+		"en"	"Second half"
+		"de"	"Zweite Hälfte"
+		"ru"	"2-я половина"
+		"it"	"Secondo side"
+	}
+
+	"warriormod commands"
+	{
+		"en"	"WarriorMod Commands"
+		"de"	"WarriorsMod Befehle"
+		"ru"	"Управление Матчем"
+		"it"	"WarriorMod Comandi"
+	}
+
+	"vote"
+	{
+		"en"	"Vote"
+		"de"	"Abstimmen"
+		"ru"	"Голосование"
+		"it"	"Vota"
+	}
+
+	"file not found"
+	{
+		"en"	"The {green}maplist.txt {olive}file was not found!"
+		"de"	"Die {green}maplist.txt {olive}Datei wurde nicht gefunden!"
+		"ru"	"Файл {green}maplist.txt {olive}не найден!"
+		"it"	"Il file {green}maplist.txt {olive}non è stato trovato!"
+	}
+
+	"setting startmoney"
+	{
+		"en"	"Setting startmoney to"
+		"de"	"Einstellen Startgeld zu"
+		"ru"	"Устанавливаем наличные на"
+		"it"	"Ambito soldi iniziano a"
+	}
+
+	"title warmup"
+	{
+		"en"	"WARMUP"
+		"de"	"WARMUP"
+		"ru"	"РАЗМИНКА"
+		"it"	"WARMUP"
+	}
+
+	"title knife"
+	{
+		"en"	"KNIFE"
+		"de"	"MESSER"
+		"ru"	"НОЖИ"
+		"it"	"COLTELLO"
+	}
+
+	"title live"
+	{
+		"en"	"LIVE"
+		"de"	"LIVE"
+		"ru"	"МАТЧ"
+		"it"	"L'INCONTRO"
+	}
+
+	"title sudden death"
+	{
+		"en"	"SUDDEN DEATH"
+		"de"	"SUDDEN DEATH"
+		"ru"	"ВНЕЗАПНАЯ СМЕРТЬ"
+		"it"	"SUDDEN DEATH"
+	}
+
+	"title restarts"
+	{
+		"en"	"RESTARTING"
+		"de"	"NEUSTART"
+		"ru"	"РЕСТАРТЫ"
+		"it"	"RIPARTENZA"
+	}
+
+	"drop or lose"
+	{
+		"en"	"Drop or lose"
+		"de"	"Drop oder verlieren"
+		"ru"	"Брось оружие или проиграл"
+		"it"	"Cadere o perdere"
+	}
+
+	"shoot them up"
+	{
+		"en"	"Go shoot 'em up!"
+		"de"	"Gehen Sie auf und schießen sie alle!"
+		"ru"	"Иди и пристрели их всех!"
+		"it"	"Vieni e spara a tutti!"
+	}
+
+	"get ready"
+	{
+		"en"	"Get ready for"
+		"de"	"Machen Sie sich bereit für"
+		"ru"	"Приготовьтесь к"
+		"it"	"Preparatevi per"
+	}
+
+	"knife round"
+	{
+		"en"	"Knife Round!"
+		"de"	"Messer Runde!"
+		"ru"	"Ножевому раунду!"
+		"it"	"Coltello Round!"
+	}
+
+	"live round"
+	{
+		"en"	"Live!"
+		"de"	"Spiel!"
+		"ru"	"Матчу!"
+		"it"	"L'INCONTRO!"
+	}
+
+	"sudden death round"
+	{
+		"en"	"Sudden Death!"
+		"de"	"Sudden Death!"
+		"ru"	"Внезапной Смерти!"
+		"it"	"Sudden Death!"
+	}
+
+	"winer sudden death"
+	{
+		"en"	"SuddenDeath winner:"
+		"de"	"SuddenDeath Gewinner:"
+		"ru"	"Победитель Внезапной Смерти:"
+		"it"	"Sudden Death vincitore:"
+	}
+
+	"restart"
+	{
+		"en"	"Restart"
+		"de"	"Starten"
+		"ru"	"Рестарт"
+		"it"	"Riavviare"
+	}
+
+	"good luck"
+	{
+		"en"	"Good luck"
+		"de"	"Viel Glück"
+		"ru"	"Команда ПсиХи"
+		"it"	"Buona fortuna"
+	}
+
+	"have fun"
+	{
+		"en"	"Have fun"
+		"de"	"Viel Spaß"
+		"ru"	"Желает вам GL&HF"
+		"it"	"Divertire"
+	}
+
+	"restarting"
+	{
+		"en"	"Restarting:"
+		"de"	"Neustart:"
+		"ru"	"Выполняется рестарт:"
+		"it"	"Esecuzione di riavviare:"
+	}
+
+	"war finished"
+	{
+		"en"	"WAR FINISHED WITH SCORE:"
+		"de"	"KRIEG ENDETE MIT DER GÄSTE:"
+		"ru"	"МАТЧ ЗАВЕРШЕН СО СЧЕТОМ:"
+		"it"	"GUERRA FINITA CON IL PUNTEGGIO:"
+	}
+
+	"war is finished"
+	{
+		"en"	"WAR FINISHED"
+		"de"	"KRIEG BEENDET"
+		"ru"	"МАТЧ ЗАВЕРШЕН"
+		"it"	"GUERRA FINITA"
+	}
+
+	"good game"
+	{
+		"en"	"GG! Thanks for the game!"
+		"de"	"GG! Vielen Dank für das Spiel!"
+		"ru"	"GG! Спасибо за игру!"
+		"it"	"GG! Grazie per il gioco!"
+	}
+
+	"stay or gay"
+	{
+		"en"	"Teams?"
+		"de"	"Wer spielen?"
+		"ru"	"За кого играем?"
+		"it"	"Chi gioca?"
+	}
+
+	"stay"
+	{
+		"en"	"Stay"
+		"de"	"Bleiben"
+		"ru"	"Остаться"
+		"it"	"Soggiorno"
+	}
+
+	"leave"
+	{
+		"en"	"Leave"
+		"de"	"Ändern Sie den Befehl"
+		"ru"	"Сменить команду"
+		"it"	"Cambia il comando"
+	}
+
+	"banned by admin"
+	{
+		"en"	"Banned by Admin."
+		"de"	"Gebannt durch Admin."
+		"ru"	"Забанен Админом."
+		"it"	"Banned da Admin."
+	}
+
+	"no target"
+	{
+		"#format"		"{1:s}"
+		"en"	"Target {1} not found"
+		"de"	"Target {1} nicht gefunden"
+		"ru"	"Цель {1} не найдена"
+		"it"	"Obiettivo {1} non trovato"
+	}
+
+	"usage war_spec"
+	{
+		"en"	"Usage: war_spec <target>"
+		"de"	"Nutzung: war_spec <target>"
+		"ru"	"Использование: war_spec <цель>"
+		"it"	"Utilizzo: war_spec <obiettivo>"
+	}
+
+	"all to spec"
+	{
+		"en"	"Switch all to spectators"
+		"de"	"Schalten Sie alle für die Zuschauer"
+		"ru"	"Кинуть всех в спеки"
+		"it"	"Passare tutti gli spettatori"
+	}
+
+	"set password"
+	{
+		"#format"		"{1:s}"
+		"en"	"Password to the server is changed to {red}{1}"
+		"de"	"Passwort an den Server geändert wird {red}{1}"
+		"ru"	"Пароль к серверу изменен на {red}{1}"
+		"it"	"Password per il server viene modificato in {red}{1}"
+	}
+
+	"show password"
+	{
+		"#format"		"{1:s}"
+		"en"	"Password to the server {blue}{1}"
+		"de"	"Passwort an den Server {blue}{1}"
+		"ru"	"Пароль к серверу {blue}{1}"
+		"it"	"Password per il server {blue}{1}"
+	}
+
+	"match has not started"
+	{
+		"en"	"Match has not started yet!"
+		"de"	"Spiel hat noch nicht begonnen!"
+		"ru"	"Матч еще не начался!"
+		"it"	"Partita non è ancora iniziata!"
+	}
+
+	"steam id validated"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"	"Player {default}{1} {green}[{2}] {default}- {blue}SUCCESSFULLY REVIEW STEAM_ID CHECK!"
+		"de"	"Spieler {default}{1} {green}[{2}] {default}- {blue}ERFOLGREICH DIE PRÜFUNG STEAM_ID ÜBERPRÜFEN!"
+		"ru"	"Игрок {default}{1} {green}[{2}] {default}- {blue}ПРОШЕЛ ПРОВЕРКУ STEAM_ID!"
+		"it"	"Giocatore {default}{1} {green}[{2}] {default}- {blue}SUPERATO CON SUCCESSO IL STEAM_ID CONTROLLO!"
+	}
+	
+	"recruit detected"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"	"Player {default}{1} {green}[{2}] {default}- {red}RECRUIT! KICK THE PLAYER OR LOSE!"
+		"de"	"Spieler {default}{1} {green}[{2}] {default}- {red}REKRUT! KICK DER SPIELER ODER VERLIEREN!"
+		"ru"	"Игрок {default}{1} {green}[{2}] {default}- {red}НАЁМ! КИК ЕГО ИЛИ ТП!"
+		"it"	"Giocatore {default}{1} {green}[{2}] {default}- {red}RECLUTARE! CALCIO IL GIOCATORE O PERDERE!"
+	}
+	"сould not connect"
+	{
+		"en"	"Could not connect to database:"
+		"de"	"Konnte keine Verbindung zur Datenbank:"
+		"ru"	"Не удалось подключиться к Базе Данных:"
+		"it"	"Impossibile connettersi alla base dati:"
+	}
+	"mysql error"
+	{
+		"en"	"Mysql: database handle invalid, cannot insert."
+		"de"	"Mysql: Datenbank-Handle ungültig, kann nicht einfügen."
+		"ru"	"Mysql: Вставить не удалось, недопустимый дескриптор базы данных."
+		"it"	"Mysql: Dati di base maniglia non validi, non possono inserire."
+	}
+	"сould not prepare"
+	{
+		"en"	"Could not prepare insert statement:"
+		"de"	"Konnte nicht vorbereiten Insert-Anweisung:"
+		"ru"	"Не удалось подготовить оператор вставки:"
+		"it"	"Impossibile preparare INSERT:"
+	}
+	"failed statement"
+	{
+		"en"	"The insert statement failed:"
+		"de"	"Die INSERT-Anweisung ist fehlgeschlagen:"
+		"ru"	"Не удалось выполнить оператор вставки:"
+		"it"	"L'istruzione INSERT non riuscita:"
+	}
+}

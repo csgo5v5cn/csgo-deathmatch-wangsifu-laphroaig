@@ -1,0 +1,50 @@
+L 09/10/2014 - 03:24:25: SourceMod log file session started (file "L20140910.log") (Version "1.6.1-dev+4526")
+L 09/10/2014 - 03:24:25: -------- Mapchange to de_inferno --------
+L 09/10/2014 - 03:24:25: [warmod.smx] Current Map: de_inferno  Workshop ID: 
+L 09/10/2014 - 15:51:57: -------- Mapchange to de_inferno --------
+L 09/10/2014 - 15:51:57: [warmod.smx] Current Map: de_inferno  Workshop ID: 
+L 09/10/2014 - 15:53:38: -------- Mapchange to de_inferno --------
+L 09/10/2014 - 15:53:39: [warmod.smx] Current Map: de_inferno  Workshop ID: 
+L 09/10/2014 - 16:18:28: [warmod.smx] "knife_on_3" (player "Console<0><Console><Console>")
+L 09/10/2014 - 16:42:57: -------- Mapchange to de_cbble --------
+L 09/10/2014 - 16:42:58: [warmod.smx] Current Map: de_cbble  Workshop ID: 
+L 09/10/2014 - 16:43:47: [basecommands.smx] "Louis.Gu <5.7><130><STEAM_1:1:29221325><>" changed map to "de_mirage"
+L 09/10/2014 - 16:43:50: [SM] Changed map to "de_mirage"
+L 09/10/2014 - 16:43:51: -------- Mapchange to de_mirage --------
+L 09/10/2014 - 16:43:51: [warmod.smx] Current Map: de_mirage  Workshop ID: 
+L 09/10/2014 - 16:44:54: [warmod.smx] "force_start" (player "Louis.Gu <5.7><130><STEAM_1:1:29221325><>")
+L 09/10/2014 - 17:19:43: -------- Mapchange to de_inferno --------
+L 09/10/2014 - 17:19:44: [warmod.smx] Current Map: de_inferno  Workshop ID: 
+L 09/10/2014 - 18:36:01: -------- Mapchange to de_inferno --------
+L 09/10/2014 - 18:36:01: [warmod.smx] Current Map: de_inferno  Workshop ID: 
+L 09/10/2014 - 19:01:55: [warmod.smx] "force_start" (player "KoNgLryyy<153><STEAM_1:0:45784403><>")
+L 09/10/2014 - 19:37:09: -------- Mapchange to de_cbble --------
+L 09/10/2014 - 19:37:09: [warmod.smx] Current Map: de_cbble  Workshop ID: 
+L 09/10/2014 - 19:38:08: [basecommands.smx] "Louis.Gu <5.7><140><STEAM_1:1:29221325><>" changed map to "de_mirage"
+L 09/10/2014 - 19:38:11: [SM] Changed map to "de_mirage"
+L 09/10/2014 - 19:38:12: -------- Mapchange to de_mirage --------
+L 09/10/2014 - 19:38:13: [warmod.smx] Current Map: de_mirage  Workshop ID: 
+L 09/10/2014 - 19:39:18: [warmod.smx] "force_start" (player "KoNgLryyy<153><STEAM_1:0:45784403><>")
+L 09/10/2014 - 20:06:02: [basecommands.smx] "KoNgLryyy<153><STEAM_1:0:45784403><>" kicked "专注坑队友三十年<148><STEAM_1:1:80352622><>" (reason "")
+L 09/10/2014 - 20:06:04: [basecommands.smx] "Louis.Gu <5.7><140><STEAM_1:1:29221325><>" changed map to "de_nuke"
+L 09/10/2014 - 20:06:07: [SM] Changed map to "de_nuke"
+L 09/10/2014 - 20:06:09: -------- Mapchange to de_nuke --------
+L 09/10/2014 - 20:06:09: [warmod.smx] Current Map: de_nuke  Workshop ID: :0:57848069", "team": 3}
+L 09/10/2014 - 20:06:29: [warmod.smx] "force_start" (player "KoNgLryyy<153><STEAM_1:0:45784403><>")
+L 09/10/2014 - 20:11:19: [movecommands.smx] "G.T0UE11I0Tt -.-<184><STEAM_1:1:34505063><>" was moved to T by "KoNgLryyy<153><STEAM_1:0:45784403><>"
+L 09/10/2014 - 20:37:54: -------- Mapchange to de_mirage --------
+L 09/10/2014 - 20:37:55: [warmod.smx] Current Map: de_mirage  Workshop ID: 
+L 09/10/2014 - 20:38:17: [basecommands.smx] "KoNgLryyy<153><STEAM_1:0:45784403><>" changed map to "de_train"
+L 09/10/2014 - 20:38:20: [SM] Changed map to "de_train"
+L 09/10/2014 - 20:38:20: -------- Mapchange to de_train --------
+L 09/10/2014 - 20:38:21: [warmod.smx] Current Map: de_train  Workshop ID: 
+L 09/10/2014 - 20:38:51: [warmod.smx] "force_start" (player "KoNgLryyy<153><STEAM_1:0:45784403><>")
+L 09/10/2014 - 21:17:27: -------- Mapchange to de_dust2 --------
+L 09/10/2014 - 21:17:28: [warmod.smx] Current Map: de_dust2  Workshop ID: 
+L 09/10/2014 - 21:18:59: [warmod.smx] "force_start" (player "KoNgLryyy<153><STEAM_1:0:45784403><>")
+L 09/10/2014 - 22:00:59: -------- Mapchange to de_nuke --------
+L 09/10/2014 - 22:00:59: [warmod.smx] Current Map: de_nuke  Workshop ID: 
+L 09/10/2014 - 22:19:10: -------- Mapchange to de_nuke --------
+L 09/10/2014 - 22:19:11: [warmod.smx] Current Map: de_nuke  Workshop ID: 
+L 09/10/2014 - 22:32:11: -------- Mapchange to de_nuke --------
+L 09/10/2014 - 22:32:11: [warmod.smx] Current Map: de_nuke  Workshop ID: 

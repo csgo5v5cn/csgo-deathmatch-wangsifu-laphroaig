@@ -1,0 +1,91 @@
+L 10/31/2014 - 12:05:14: SourceMod log file session started (file "L20141031.log") (Version "1.6.1-dev+4526")
+L 10/31/2014 - 12:05:14: -------- Mapchange to de_nuke --------
+L 10/31/2014 - 12:05:29: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<348><STEAM_1:0:56540868><>" changed map to "de_dust2"
+L 10/31/2014 - 12:05:32: [SM] Changed map to "de_dust2"
+L 10/31/2014 - 12:05:32: -------- Mapchange to de_dust2 --------
+L 10/31/2014 - 13:04:18: -------- Mapchange to de_mirage --------
+L 10/31/2014 - 14:35:10: -------- Mapchange to de_inferno --------
+L 10/31/2014 - 15:17:45: [mapchooser.smx] Starting map vote because outside request
+L 10/31/2014 - 15:17:45: [mapchooser.smx] Voting for next map has started.
+L 10/31/2014 - 15:17:45: -------- Mapchange to de_nuke --------
+L 10/31/2014 - 16:19:16: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<348><STEAM_1:0:56540868><>" changed map to "de_dust2"
+L 10/31/2014 - 16:19:19: [SM] Changed map to "de_dust2"
+L 10/31/2014 - 16:19:19: -------- Mapchange to de_dust2 --------
+L 10/31/2014 - 16:26:52: [basechat.smx] "sifu.WANG╮(╯3╰)╭<348><STEAM_1:0:56540868><>" triggered sm_say (text -_-)
+L 10/31/2014 - 17:16:38: [basechat.smx] "sifu.WANG╮(╯3╰)╭<348><STEAM_1:0:56540868><>" triggered sm_say (text 对面还有不会玩的吗？)
+L 10/31/2014 - 17:16:46: [basechat.smx] "sifu.WANG╮(╯3╰)╭<348><STEAM_1:0:56540868><>" triggered sm_say (text 可以换个M6上试试。。)
+L 10/31/2014 - 17:36:32: -------- Mapchange to de_mirage --------
+L 10/31/2014 - 17:39:54: [basechat.smx] "sifu.WANG╮(╯3╰)╭<348><STEAM_1:0:56540868><>" triggered sm_say (text - 你怎么有枪。。)
+L 10/31/2014 - 17:40:14: [basechat.smx] "sifu.WANG╮(╯3╰)╭<348><STEAM_1:0:56540868><>" triggered sm_say (text 有个参数没设置好。。先开了。。)
+L 10/31/2014 - 18:04:07: -------- Mapchange to de_inferno --------
+L 10/31/2014 - 18:04:41: [basechat.smx] "sifu.WANG╮(╯3╰)╭<495><STEAM_1:0:56540868><>" triggered sm_say (text - -)
+L 10/31/2014 - 18:04:48: [basechat.smx] "sifu.WANG╮(╯3╰)╭<495><STEAM_1:0:56540868><>" triggered sm_say (text 貌似打字没用了。。)
+L 10/31/2014 - 18:06:17: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<495><STEAM_1:0:56540868><>" changed map to "de_inferno"
+L 10/31/2014 - 18:06:20: [SM] Changed map to "de_inferno"
+L 10/31/2014 - 18:06:20: -------- Mapchange to de_inferno --------
+L 10/31/2014 - 18:06:42: [basechat.smx] "sifu.WANG╮(╯3╰)╭<495><STEAM_1:0:56540868><>" triggered sm_say (text 妈的，打字没用了。。我调了哪了。。)
+L 10/31/2014 - 18:09:58: [namechangepunisher.smx] Asia゛ ＸＬ (469) changed names for the first time in this 30 second time period.
+L 10/31/2014 - 18:19:02: [basechat.smx] "sifu.WANG╮(╯3╰)╭<510><STEAM_1:0:56540868><>" triggered sm_say (text 换一次图就能打字了。 。。你们是打完换还是换了再打？)
+L 10/31/2014 - 18:19:44: [basechat.smx] "sifu.WANG╮(╯3╰)╭<510><STEAM_1:0:56540868><>" triggered sm_say (text 等下，我测试一下。)
+L 10/31/2014 - 18:46:11: -------- Mapchange to de_nuke --------
+L 10/31/2014 - 19:14:41: -------- Mapchange to de_cache --------
+L 10/31/2014 - 19:15:34: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<535><STEAM_1:0:56540868><>" changed map to "de_mirage"
+L 10/31/2014 - 19:15:37: [SM] Changed map to "de_mirage"
+L 10/31/2014 - 19:15:38: -------- Mapchange to de_mirage --------
+L 10/31/2014 - 19:16:12: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<535><STEAM_1:0:56540868><>" executed config (file "WangShiFu/ShuaXin.cfg")
+L 10/31/2014 - 19:17:22: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<535><STEAM_1:0:56540868><>" executed config (file "WangShiFu/SuiJiZuDui.cfg")
+L 10/31/2014 - 19:17:57: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<535><STEAM_1:0:56540868><>" executed config (file "WangShiFu/SuiJiZuDui.cfg")
+L 10/31/2014 - 19:18:12: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<535><STEAM_1:0:56540868><>" executed config (file "WangShiFu/SuiJiZuDui.cfg")
+L 10/31/2014 - 19:27:46: [basecommands.smx] "ergou.LUO╮(╯3╰)╭<557><STEAM_1:0:88167814><>" kicked "梦一场<538><STEAM_1:0:68234480><>" 
+L 10/31/2014 - 19:28:50: [basechat.smx] "ergou.LUO╮(╯3╰)╭<557><STEAM_1:0:88167814><>" triggered sm_say (text .那个sifuWang)
+L 10/31/2014 - 19:43:00: [basechat.smx] "洗剪吹会员300块<566><STEAM_1:0:79563325><>" triggered sm_say (text 骗人 王师傅 又说其他服都满了)
+L 10/31/2014 - 19:43:48: [basechat.smx] "洗剪吹会员300块<566><STEAM_1:0:79563325><>" triggered sm_say (text 0人)
+L 10/31/2014 - 19:45:37: [basechat.smx] "ergou.LUO╮(╯3╰)╭<557><STEAM_1:0:88167814><>" triggered sm_say (text 随便甩两枪哈哈哈)
+L 10/31/2014 - 19:54:41: -------- Mapchange to de_inferno --------
+L 10/31/2014 - 19:55:22: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<535><STEAM_1:0:56540868><>" executed config (file "WangShiFu/SuiJiZuDui.cfg")
+L 10/31/2014 - 19:55:39: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<535><STEAM_1:0:56540868><>" executed config (file "WangShiFu/SuiJiZuDui.cfg")
+L 10/31/2014 - 19:55:59: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<535><STEAM_1:0:56540868><>" executed config (file "WangShiFu/SuiJiZuDui.cfg")
+L 10/31/2014 - 19:57:49: SourceMod log file session started (file "L20141031.log") (Version "1.6.1-dev+4526")
+L 10/31/2014 - 19:57:49: -------- Mapchange to de_dust2 --------
+L 10/31/2014 - 19:57:49: [CSMod.IP] **********************************
+
+L 10/31/2014 - 19:57:49: [CSMod.IP] ����IP��汾: ��������2014��6��10��IP����
+L 10/31/2014 - 19:57:49: [CSMod.IP] **********************************
+
+L 10/31/2014 - 19:58:00: -------- Mapchange to de_dust2 --------
+L 10/31/2014 - 20:02:45: [playercommands.smx] "ergou.LUO╮(╯3╰)╭<10><STEAM_1:0:88167814><>" slayed "ergou.LUO╮(╯3╰)╭<10><STEAM_1:0:88167814><>"
+L 10/31/2014 - 20:03:23: [basecommands.smx] "ergou.LUO╮(╯3╰)╭<10><STEAM_1:0:88167814><>" kicked "超力马<9><STEAM_1:0:70326191><>" 
+L 10/31/2014 - 20:07:17: [basechat.smx] "sifu.WANG╮(╯3╰)╭<5><STEAM_1:0:56540868><>" triggered sm_say (text 2狗吃了什么。。)
+L 10/31/2014 - 20:07:19: [basechat.smx] "ergou.LUO╮(╯3╰)╭<10><STEAM_1:0:88167814><>" triggered sm_say (text 爽吗亲爱的wang)
+L 10/31/2014 - 20:07:43: [basechat.smx] "ergou.LUO╮(╯3╰)╭<10><STEAM_1:0:88167814><>" triggered sm_say (text 我听说有直播 我要表现下啊！)
+L 10/31/2014 - 20:31:06: -------- Mapchange to de_mirage --------
+L 10/31/2014 - 20:31:25: [basecommands.smx] "Sparrow<11><STEAM_1:0:21664669><>" changed map to "de_inferno"
+L 10/31/2014 - 20:31:28: [SM] Changed map to "de_inferno"
+L 10/31/2014 - 20:31:29: -------- Mapchange to de_inferno --------
+L 10/31/2014 - 21:12:17: -------- Mapchange to de_nuke --------
+L 10/31/2014 - 21:34:44: [basechat.smx] "肉山大魔王 ✄╰ひ╯<30><STEAM_1:1:54140957><>" triggered sm_say (text 二狗说：“我手感来了。。”)
+L 10/31/2014 - 21:42:04: -------- Mapchange to de_cache --------
+L 10/31/2014 - 22:19:07: -------- Mapchange to de_overpass --------
+L 10/31/2014 - 22:19:35: [basecommands.smx] "ergou.LUO╮(╯3╰)╭<10><STEAM_1:0:88167814><>" changed map to "de_dust2"
+L 10/31/2014 - 22:19:38: [SM] Changed map to "de_dust2"
+L 10/31/2014 - 22:19:39: -------- Mapchange to de_dust2 --------
+L 10/31/2014 - 22:40:16: -------- Mapchange to de_mirage --------
+L 10/31/2014 - 22:46:35: [basecommands.smx] "肉山大魔王 ✄╰ひ╯<30><STEAM_1:1:54140957><>" changed map to "AWP_snow_map"
+L 10/31/2014 - 22:46:38: [SM] Changed map to "AWP_snow_map"
+L 10/31/2014 - 22:46:38: -------- Mapchange to AWP_snow_map --------
+L 10/31/2014 - 22:55:46: [basecommands.smx] "肉山大魔王 ✄╰ひ╯<30><STEAM_1:1:54140957><>" changed map to "wsf_bloodstrike"
+L 10/31/2014 - 22:55:49: [SM] Changed map to "wsf_bloodstrike"
+L 10/31/2014 - 22:55:49: -------- Mapchange to wsf_bloodstrike --------
+L 10/31/2014 - 23:22:50: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<60><STEAM_1:0:56540868><>" changed map to "de_dust2"
+L 10/31/2014 - 23:22:53: [SM] Changed map to "de_dust2"
+L 10/31/2014 - 23:22:53: -------- Mapchange to de_dust2 --------
+L 10/31/2014 - 23:25:50: [basechat.smx] "sifu.WANG╮(╯3╰)╭<60><STEAM_1:0:56540868><>" triggered sm_say (text 是的。)
+L 10/31/2014 - 23:36:44: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<60><STEAM_1:0:56540868><>" changed map to "de_dust2"
+L 10/31/2014 - 23:36:47: [SM] Changed map to "de_dust2"
+L 10/31/2014 - 23:36:48: -------- Mapchange to de_dust2 --------
+L 10/31/2014 - 23:47:21: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<60><STEAM_1:0:56540868><>" changed map to "de_dust2"
+L 10/31/2014 - 23:47:24: [SM] Changed map to "de_dust2"
+L 10/31/2014 - 23:47:25: -------- Mapchange to de_dust2 --------
+L 10/31/2014 - 23:56:08: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<60><STEAM_1:0:56540868><>" changed map to "de_dust2"
+L 10/31/2014 - 23:56:11: [SM] Changed map to "de_dust2"
+L 10/31/2014 - 23:56:12: -------- Mapchange to de_dust2 --------

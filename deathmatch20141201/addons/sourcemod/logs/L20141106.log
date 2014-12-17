@@ -1,0 +1,48 @@
+L 11/06/2014 - 12:58:33: SourceMod log file session started (file "L20141106.log") (Version "1.6.1-dev+4526")
+L 11/06/2014 - 12:58:33: -------- Mapchange to de_dust2 --------
+L 11/06/2014 - 13:53:44: -------- Mapchange to de_dust2 --------
+L 11/06/2014 - 14:38:36: -------- Mapchange to de_dust2 --------
+L 11/06/2014 - 14:41:11: -------- Mapchange to de_dust2 --------
+L 11/06/2014 - 14:50:11: -------- Mapchange to de_dust2 --------
+L 11/06/2014 - 14:54:32: -------- Mapchange to de_dust2 --------
+L 11/06/2014 - 15:04:43: -------- Mapchange to de_dust2 --------
+L 11/06/2014 - 15:46:08: -------- Mapchange to de_dust2 --------
+L 11/06/2014 - 18:14:26: -------- Mapchange to de_dust2 --------
+L 11/06/2014 - 18:53:56: -------- Mapchange to de_dust2 --------
+L 11/06/2014 - 19:09:11: -------- Mapchange to de_dust2 --------
+L 11/06/2014 - 19:39:32: -------- Mapchange to de_dust2 --------
+L 11/06/2014 - 19:53:34: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<222><STEAM_1:0:56540868><>" changed map to "AWP_snow_map"
+L 11/06/2014 - 19:53:37: [SM] Changed map to "AWP_snow_map"
+L 11/06/2014 - 19:53:38: -------- Mapchange to AWP_snow_map --------
+L 11/06/2014 - 20:06:24: [basevotes.smx] "sifu.WANG╮(╯3╰)╭<222><STEAM_1:0:56540868><>" initiated a map vote.
+L 11/06/2014 - 20:06:38: [basevotes.smx] Changing map to de_dust2 due to vote.
+L 11/06/2014 - 20:06:43: [SM] Changed map to "de_dust2"
+L 11/06/2014 - 20:06:44: -------- Mapchange to de_dust2 --------
+L 11/06/2014 - 20:13:17: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<222><STEAM_1:0:56540868><>" executed config (file "WangShiFu/SuiJiZuDui.cfg")
+L 11/06/2014 - 20:17:43: [basechat.smx] "肉山大魔王 ✄╰ひ╯<248><STEAM_1:1:54140957><>" triggered sm_chat (text cao 冰淇淋你第二把就连狙)
+L 11/06/2014 - 20:42:43: -------- Mapchange to de_mirage --------
+L 11/06/2014 - 20:44:41: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<222><STEAM_1:0:56540868><>" executed config (file "WangShiFu/SuiJiZuDui.cfg")
+L 11/06/2014 - 20:44:50: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<222><STEAM_1:0:56540868><>" executed config (file "WangShiFu/SuiJiZuDui.cfg")
+L 11/06/2014 - 20:45:08: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<222><STEAM_1:0:56540868><>" executed config (file "WangShiFu/SuiJiZuDui.cfg")
+L 11/06/2014 - 21:25:49: -------- Mapchange to de_inferno --------
+L 11/06/2014 - 21:29:33: [basecommands.smx] "Sparrow<279><STEAM_1:0:21664669><>" changed map to "wsf_akm4_aim_map"
+L 11/06/2014 - 21:29:36: [SM] Changed map to "wsf_akm4_aim_map"
+L 11/06/2014 - 21:29:36: -------- Mapchange to wsf_akm4_aim_map --------
+L 11/06/2014 - 21:55:37: [basecommands.smx] "Sparrow<279><STEAM_1:0:21664669><>" changed map to "de_inferno"
+L 11/06/2014 - 21:55:40: [SM] Changed map to "de_inferno"
+L 11/06/2014 - 21:55:41: -------- Mapchange to de_inferno --------
+L 11/06/2014 - 21:57:08: [basecommands.smx] "Sparrow<279><STEAM_1:0:21664669><>" executed config (file "WangShiFu/SuiJiZuDui.cfg")
+L 11/06/2014 - 21:59:54: [basechat.smx] "sifu.WANG╮(╯3╰)╭<300><STEAM_1:0:56540868><>" triggered sm_say (text 这个jjh应该不会玩M6 表走。)
+L 11/06/2014 - 22:34:34: -------- Mapchange to de_nuke --------
+L 11/06/2014 - 22:44:35: [basechat.smx] "❤butterfly❤<336><STEAM_1:0:49846465><>" triggered sm_say (text 为什么不能烧烤Supergao)
+L 11/06/2014 - 22:57:53: [basechat.smx] "❤butterfly❤<336><STEAM_1:0:49846465><>" triggered sm_say (text sb)
+L 11/06/2014 - 22:59:25: [basechat.smx] "❤butterfly❤<336><STEAM_1:0:49846465><>" triggered sm_say (text  SB)
+L 11/06/2014 - 23:00:11: [basechat.smx] "❤butterfly❤<336><STEAM_1:0:49846465><>" triggered sm_say (text 眼睛瞎了)
+L 11/06/2014 - 23:06:56: [basechat.smx] "❤butterfly❤<336><STEAM_1:0:49846465><>" triggered sm_say (text 太渣了)
+L 11/06/2014 - 23:14:47: -------- Mapchange to de_cache --------
+L 11/06/2014 - 23:35:22: [basechat.smx] "❤butterfly❤<349><STEAM_1:0:49846465><>" triggered sm_say (text 我刚打完一张地图)
+L 11/06/2014 - 23:38:21: [basechat.smx] "❤butterfly❤<349><STEAM_1:0:49846465><>" triggered sm_say (text 我在看他们位置)
+L 11/06/2014 - 23:41:40: -------- Mapchange to de_overpass --------
+L 11/06/2014 - 23:42:01: [basecommands.smx] "SUPER GAO<329><STEAM_1:0:54309167><>" changed map to "de_dust2"
+L 11/06/2014 - 23:42:04: [SM] Changed map to "de_dust2"
+L 11/06/2014 - 23:42:04: -------- Mapchange to de_dust2 --------

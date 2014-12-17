@@ -1,0 +1,27 @@
+"Phrases"
+{
+	"[RULES] Dont Flood!"
+	{
+		"chi"			"[RULES] Dont Flood!"
+		"pl"			"[ZASADY] Nie Spamuj!"
+	}
+
+	"[RULES] Rules Action"
+	{
+		"#format"		"{1:s}"
+		"chi"			"[RULES] OP说: {1} 必须阅读服务器规则!"
+		"pl"			"[ZASADY] Nakaz zapoznania sie z zasadami dla: {1}!"
+	}
+
+	"Server Rules Menu Title"
+	{
+		"chi"			"服务器规则:"
+		"pl"			"Zasady Serwera:"
+	}
+
+	"Exit Rules Menu"
+	{
+		"chi"			"退出"
+		"pl"			"Wylacz"
+	}
+}

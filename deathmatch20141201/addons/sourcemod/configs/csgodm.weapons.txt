@@ -1,0 +1,32 @@
+"Weapons"
+{
+	"Secondary"
+	{
+		"deagle" "Deagle"
+		"p250" "P250"
+		"hkp2000" "P2000"
+		"usp_silencer" "USP"
+		"fiveseven" "Five Seven"
+		"tec9" "Tec-9"
+		"cz75a" "CZ75"
+		"elite" "Elite"
+		"glock" "Glock"
+	}
+	"Primary"
+	{
+		"m4a1" "M4A1"
+		"ak47" "AK-47"
+		"awp" "AWP"
+		"galilar" "Galil AR"
+		"famas" "FAMAS"
+		"ssg08" "SSG08"
+		"ump45" "UMP-45"
+		"mag7" "MAG-7"
+		"xm1014" "XM1014"
+		"p90" "P90"
+		"mac10" "MAC-10"
+		"mp7" "MP7"
+		"bizon" "PP-Bizon"
+		"mp9" "MP9"
+	}
+}

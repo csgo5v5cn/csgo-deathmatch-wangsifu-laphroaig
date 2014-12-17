@@ -1,0 +1,74 @@
+L 11/17/2014 - 09:39:00: SourceMod error session started
+L 11/17/2014 - 09:39:00: Info (map "de_dust2") (file "errors_20141117.log")
+L 11/17/2014 - 09:39:00: [SM] Unable to load extension "curl.ext": 应用程序无法启动，因为应用程序的并行配置不正确。有关详细信息，请参阅应用程序事件日志，或使用命令行 sxstrace.exe 工具。
+
+L 11/17/2014 - 09:39:00: [SM] Fatal error encountered parsing translation file "namechangepunisher.phrases.txt"
+L 11/17/2014 - 09:39:00: [SM] Error (line 0, column 0): Stream failed to open
+L 11/17/2014 - 09:39:00: [SM] Fatal error encountered parsing translation file "plugin.supercmds.txt"
+L 11/17/2014 - 09:39:00: [SM] Error (line 0, column 0): Stream failed to open
+L 11/17/2014 - 09:39:00: [SM] Error parsing gameconfig file "D:\steam\steamapps\common\Counter-Strike\csgo\addons\sourcemod\gamedata\supercmds.gamedata.txt":
+L 11/17/2014 - 09:39:00: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 11/17/2014 - 09:39:00: [SM] Native "LoadGameConfigFile" reported: Unable to open supercmds.gamedata: File could not be opened: 系统找不到指定的文件。
+
+L 11/17/2014 - 09:39:00: [SM] Displaying call stack trace for plugin "sm_cmdx.smx":
+L 11/17/2014 - 09:39:00: [SM]   [0]  Line 108, D:\CSGO\csgo编译器\sm_cmdx.sp::OnPluginStart()
+L 11/17/2014 - 09:39:03: [basecommands.smx] Could not parse file (line 12, file "addons\sourcemod\configs\adminmenu_cfgs.txt"):
+L 11/17/2014 - 09:39:03: [basecommands.smx] Parser encountered error: Section ending without a matching section beginning
+L 11/17/2014 - 09:39:27: SourceMod error session started
+L 11/17/2014 - 09:39:27: Info (map "de_dust2") (file "errors_20141117.log")
+L 11/17/2014 - 09:39:27: [SM] Unable to load extension "curl.ext": 应用程序无法启动，因为应用程序的并行配置不正确。有关详细信息，请参阅应用程序事件日志，或使用命令行 sxstrace.exe 工具。
+
+L 11/17/2014 - 09:39:27: [SM] Fatal error encountered parsing translation file "namechangepunisher.phrases.txt"
+L 11/17/2014 - 09:39:27: [SM] Error (line 0, column 0): Stream failed to open
+L 11/17/2014 - 09:39:27: [SM] Fatal error encountered parsing translation file "plugin.supercmds.txt"
+L 11/17/2014 - 09:39:27: [SM] Error (line 0, column 0): Stream failed to open
+L 11/17/2014 - 09:39:27: [SM] Error parsing gameconfig file "D:\steam\steamapps\common\Counter-Strike\csgo\addons\sourcemod\gamedata\supercmds.gamedata.txt":
+L 11/17/2014 - 09:39:27: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 11/17/2014 - 09:39:27: [SM] Native "LoadGameConfigFile" reported: Unable to open supercmds.gamedata: File could not be opened: 系统找不到指定的文件。
+
+L 11/17/2014 - 09:39:27: [SM] Displaying call stack trace for plugin "sm_cmdx.smx":
+L 11/17/2014 - 09:39:27: [SM]   [0]  Line 108, D:\CSGO\csgo编译器\sm_cmdx.sp::OnPluginStart()
+L 11/17/2014 - 09:39:28: [basecommands.smx] Could not parse file (line 12, file "addons\sourcemod\configs\adminmenu_cfgs.txt"):
+L 11/17/2014 - 09:39:28: [basecommands.smx] Parser encountered error: Section ending without a matching section beginning
+L 11/17/2014 - 09:54:49: SourceMod error session started
+L 11/17/2014 - 09:54:49: Info (map "de_dust2") (file "errors_20141117.log")
+L 11/17/2014 - 09:54:49: [SM] Unable to load extension "curl.ext": 应用程序无法启动，因为应用程序的并行配置不正确。有关详细信息，请参阅应用程序事件日志，或使用命令行 sxstrace.exe 工具。
+
+L 11/17/2014 - 09:54:49: [SM] Fatal error encountered parsing translation file "namechangepunisher.phrases.txt"
+L 11/17/2014 - 09:54:49: [SM] Error (line 0, column 0): Stream failed to open
+L 11/17/2014 - 09:54:49: [SM] Fatal error encountered parsing translation file "plugin.supercmds.txt"
+L 11/17/2014 - 09:54:49: [SM] Error (line 0, column 0): Stream failed to open
+L 11/17/2014 - 09:54:49: [SM] Error parsing gameconfig file "D:\steam\steamapps\common\Counter-Strike\csgo\addons\sourcemod\gamedata\supercmds.gamedata.txt":
+L 11/17/2014 - 09:54:49: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 11/17/2014 - 09:54:49: [SM] Native "LoadGameConfigFile" reported: Unable to open supercmds.gamedata: File could not be opened: 系统找不到指定的文件。
+
+L 11/17/2014 - 09:54:49: [SM] Displaying call stack trace for plugin "sm_cmdx.smx":
+L 11/17/2014 - 09:54:49: [SM]   [0]  Line 108, D:\CSGO\csgo编译器\sm_cmdx.sp::OnPluginStart()
+L 11/17/2014 - 09:54:50: [basecommands.smx] Could not parse file (line 12, file "addons\sourcemod\configs\adminmenu_cfgs.txt"):
+L 11/17/2014 - 09:54:50: [basecommands.smx] Parser encountered error: Section ending without a matching section beginning
+L 11/17/2014 - 13:36:07: [UPDATER] --- BEGIN ERRORS FROM AUTOMATIC UPDATER ---
+L 11/17/2014 - 13:36:07: [UPDATER] Parse error in update manifest: A property was declared outside of a section
+L 11/17/2014 - 13:36:07: [UPDATER] --- END ERRORS FROM AUTOMATIC UPDATER ---
+L 11/17/2014 - 13:36:08: Error log file session closed.
+L 11/17/2014 - 13:36:08: SourceMod error session started
+L 11/17/2014 - 13:36:08: Info (map "de_dust2") (file "errors_20141117.log")
+L 11/17/2014 - 13:36:08: [SM] Fatal error encountered parsing translation file "namechangepunisher.phrases.txt"
+L 11/17/2014 - 13:36:08: [SM] Error (line 0, column 0): Stream failed to open
+L 11/17/2014 - 13:36:08: [SM] Fatal error encountered parsing translation file "plugin.supercmds.txt"
+L 11/17/2014 - 13:36:08: [SM] Error (line 0, column 0): Stream failed to open
+L 11/17/2014 - 13:36:08: [basecommands.smx] Could not parse file (line 12, file "addons\sourcemod\configs\adminmenu_cfgs.txt"):
+L 11/17/2014 - 13:36:08: [basecommands.smx] Parser encountered error: Section ending without a matching section beginning
+L 11/17/2014 - 13:36:08: [sm_cmdx.smx] Unable to locate overrides file.
+L 11/17/2014 - 14:17:12: [SM] Native "PrintToChat" reported: Client 1 is not in game
+L 11/17/2014 - 14:17:12: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/17/2014 - 14:17:12: [SM]   [0]  Line 85, D:\CSGO\csgo编译器\!dao.sp::Timer_knifemsg()
+L 11/17/2014 - 14:17:12: Error log file session closed.
+L 11/17/2014 - 14:17:12: SourceMod error session started
+L 11/17/2014 - 14:17:12: Info (map "de_dust2") (file "errors_20141117.log")
+L 11/17/2014 - 14:17:12: [SM] Fatal error encountered parsing translation file "namechangepunisher.phrases.txt"
+L 11/17/2014 - 14:17:12: [SM] Error (line 0, column 0): Stream failed to open
+L 11/17/2014 - 14:17:12: [SM] Fatal error encountered parsing translation file "plugin.supercmds.txt"
+L 11/17/2014 - 14:17:12: [SM] Error (line 0, column 0): Stream failed to open
+L 11/17/2014 - 14:17:12: [basecommands.smx] Could not parse file (line 12, file "addons\sourcemod\configs\adminmenu_cfgs.txt"):
+L 11/17/2014 - 14:17:12: [basecommands.smx] Parser encountered error: Section ending without a matching section beginning
+L 11/17/2014 - 14:17:12: [sm_cmdx.smx] Unable to locate overrides file.

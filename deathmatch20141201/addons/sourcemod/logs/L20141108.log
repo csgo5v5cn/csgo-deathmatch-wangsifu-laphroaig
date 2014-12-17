@@ -1,0 +1,56 @@
+L 11/08/2014 - 00:14:56: SourceMod log file session started (file "L20141108.log") (Version "1.6.1-dev+4526")
+L 11/08/2014 - 00:14:56: -------- Mapchange to de_mirage --------
+L 11/08/2014 - 10:43:06: -------- Mapchange to de_mirage --------
+L 11/08/2014 - 11:08:13: -------- Mapchange to de_inferno --------
+L 11/08/2014 - 11:53:03: -------- Mapchange to de_nuke --------
+L 11/08/2014 - 11:59:07: [mapchooser.smx] Starting map vote because outside request
+L 11/08/2014 - 11:59:07: [mapchooser.smx] Voting for next map has started.
+L 11/08/2014 - 11:59:28: [mapchooser.smx] Voting for next map has finished. Nextmap: de_dust2.
+L 11/08/2014 - 11:59:30: [SM] Changed map to "de_dust2"
+L 11/08/2014 - 11:59:30: -------- Mapchange to de_dust2 --------
+L 11/08/2014 - 12:35:42: -------- Mapchange to de_mirage --------
+L 11/08/2014 - 12:36:54: [mapchooser.smx] Starting map vote because outside request
+L 11/08/2014 - 12:36:54: [mapchooser.smx] Voting for next map has started.
+L 11/08/2014 - 12:37:08: [mapchooser.smx] Voting for next map has finished. Nextmap: de_inferno.
+L 11/08/2014 - 12:37:10: [SM] Changed map to "de_inferno"
+L 11/08/2014 - 12:37:10: -------- Mapchange to de_inferno --------
+L 11/08/2014 - 13:08:37: -------- Mapchange to de_nuke --------
+L 11/08/2014 - 13:14:21: [mapchooser.smx] Starting map vote because outside request
+L 11/08/2014 - 13:14:21: [mapchooser.smx] Voting for next map has started.
+L 11/08/2014 - 13:14:41: [mapchooser.smx] Voting for next map has finished. Nextmap: de_dust2.
+L 11/08/2014 - 13:14:43: [SM] Changed map to "de_dust2"
+L 11/08/2014 - 13:14:44: -------- Mapchange to de_dust2 --------
+L 11/08/2014 - 13:15:05: [namechangepunisher.smx] MEOW1G <3 zAAz (458) changed names for the first time in this 30 second time period.
+L 11/08/2014 - 13:15:57: [namechangepunisher.smx] drawroFaikelele$ (474) changed names for the first time in this 30 second time period.
+L 11/08/2014 - 13:49:36: -------- Mapchange to de_mirage --------
+L 11/08/2014 - 14:15:35: [namechangepunisher.smx] drawrofaikelele? (502) changed names for the first time in this 30 second time period.
+L 11/08/2014 - 14:16:24: -------- Mapchange to de_inferno --------
+L 11/08/2014 - 14:31:14: [basechat.smx] "洗剪吹会员300块<505><STEAM_1:0:79563325><>" triggered sm_say (text 一个喷子4杀)
+L 11/08/2014 - 14:31:31: [basechat.smx] "洗剪吹会员300块<505><STEAM_1:0:79563325><>" triggered sm_say (text 5杀)
+L 11/08/2014 - 14:41:19: [basechat.smx] "洗剪吹会员300块<505><STEAM_1:0:79563325><>" triggered sm_say (text 好逗 )
+L 11/08/2014 - 14:41:37: -------- Mapchange to de_nuke --------
+L 11/08/2014 - 14:42:21: [basecommands.smx] "洗剪吹会员300块<505><STEAM_1:0:79563325><>" executed config (file "WangShiFu/SuiJiZuDui.cfg")
+L 11/08/2014 - 14:50:56: [basecommands.smx] "洗剪吹会员300块<505><STEAM_1:0:79563325><>" kicked "I'm Chinese<498><STEAM_1:0:97998523><>" 
+L 11/08/2014 - 15:20:15: -------- Mapchange to de_cache --------
+L 11/08/2014 - 15:28:43: [basecommands.smx] "洗剪吹会员300块<505><STEAM_1:0:79563325><>" changed map to "de_dust2"
+L 11/08/2014 - 15:28:46: [SM] Changed map to "de_dust2"
+L 11/08/2014 - 15:28:46: -------- Mapchange to de_dust2 --------
+L 11/08/2014 - 15:38:38: [basecommands.smx] "洗剪吹会员300块<505><STEAM_1:0:79563325><>" kicked "GIIT”浪里小白龙<524><STEAM_1:0:38651874><>" 
+L 11/08/2014 - 15:56:49: -------- Mapchange to de_mirage --------
+L 11/08/2014 - 16:11:38: [basechat.smx] "洗剪吹会员300块<505><STEAM_1:0:79563325><>" triggered sm_say (text 你们不会投票T了不会玩的么)
+L 11/08/2014 - 16:12:13: [basechat.smx] "洗剪吹会员300块<505><STEAM_1:0:79563325><>" triggered sm_say (text 你这不科学。。)
+L 11/08/2014 - 16:19:39: -------- Mapchange to de_inferno --------
+L 11/08/2014 - 16:24:34: [basecommands.smx] "洗剪吹会员300块<505><STEAM_1:0:79563325><>" kicked "z!p™<536><STEAM_1:1:57521613><>" 
+L 11/08/2014 - 16:42:51: [playercommands.smx] "❤butterfly❤<548><STEAM_1:0:49846465><>" slayed "god<504><STEAM_1:0:81584891><>"
+L 11/08/2014 - 16:43:55: [playercommands.smx] "❤butterfly❤<548><STEAM_1:0:49846465><>" slayed "god<504><STEAM_1:0:81584891><>"
+L 11/08/2014 - 16:53:12: -------- Mapchange to de_nuke --------
+L 11/08/2014 - 16:53:40: [playercommands.smx] "❤butterfly❤<548><STEAM_1:0:49846465><>" slayed "god<504><STEAM_1:0:81584891><>"
+L 11/08/2014 - 16:53:46: [playercommands.smx] "❤butterfly❤<548><STEAM_1:0:49846465><>" slayed "god<504><STEAM_1:0:81584891><>"
+L 11/08/2014 - 16:53:49: [playercommands.smx] "❤butterfly❤<548><STEAM_1:0:49846465><>" slayed "god<504><STEAM_1:0:81584891><>"
+L 11/08/2014 - 16:53:50: [playercommands.smx] "❤butterfly❤<548><STEAM_1:0:49846465><>" slayed "god<504><STEAM_1:0:81584891><>"
+L 11/08/2014 - 16:53:52: [playercommands.smx] "❤butterfly❤<548><STEAM_1:0:49846465><>" slayed "god<504><STEAM_1:0:81584891><>"
+L 11/08/2014 - 16:54:05: [playercommands.smx] "❤butterfly❤<548><STEAM_1:0:49846465><>" slayed "god<504><STEAM_1:0:81584891><>"
+L 11/08/2014 - 17:01:58: [basecommands.smx] "❤butterfly❤<548><STEAM_1:0:49846465><>" kicked "I'm Chinese<529><STEAM_1:0:97998523><>" 
+L 11/08/2014 - 17:22:58: -------- Mapchange to de_cache --------
+L 11/08/2014 - 19:11:44: -------- Mapchange to de_cache --------
+L 11/08/2014 - 20:26:44: -------- Mapchange to de_cache --------

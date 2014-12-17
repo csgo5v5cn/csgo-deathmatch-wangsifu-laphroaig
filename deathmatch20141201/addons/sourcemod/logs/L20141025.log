@@ -1,0 +1,343 @@
+L 10/25/2014 - 05:18:02: SourceMod log file session started (file "L20141025.log") (Version "1.6.1-dev+4526")
+L 10/25/2014 - 05:18:02: -------- Mapchange to de_inferno --------
+L 10/25/2014 - 05:18:03: [warmod.smx] Current Map: de_inferno  Workshop ID: 
+L 10/25/2014 - 05:19:46: -------- Mapchange to de_inferno --------
+L 10/25/2014 - 05:19:46: [warmod.smx] Current Map: de_inferno  Workshop ID: 
+L 10/25/2014 - 10:41:35: SourceMod log file session started (file "L20141025.log") (Version "1.6.1-dev+4526")
+L 10/25/2014 - 10:41:35: -------- Mapchange to de_dust2 --------
+L 10/25/2014 - 10:41:36: [CSMod.IP] **********************************
+
+L 10/25/2014 - 10:41:36: [CSMod.IP] ����IP��汾: ��������2014��6��10��IP����
+L 10/25/2014 - 10:41:36: [CSMod.IP] **********************************
+
+L 10/25/2014 - 10:41:36: [GEOIP] GeoIP database info: GEO-106FREE 20091001 Build 1 Copyright (c) 2009 MaxMind Inc All Rights Reserved
+L 10/25/2014 - 10:41:37: [warmod.smx] Current Map: de_dust2  Workshop ID: 
+L 10/25/2014 - 10:43:52: SourceMod log file session started (file "L20141025.log") (Version "1.6.1-dev+4526")
+L 10/25/2014 - 10:43:52: -------- Mapchange to de_dust2 --------
+L 10/25/2014 - 10:43:52: [CSMod.IP] **********************************
+
+L 10/25/2014 - 10:43:52: [CSMod.IP] ����IP��汾: ��������2014��6��10��IP����
+L 10/25/2014 - 10:43:52: [CSMod.IP] **********************************
+
+L 10/25/2014 - 10:43:53: [warmod4.smx] Current Map: de_dust2  Workshop ID: harToLower
+L 10/25/2014 - 10:44:30: -------- Mapchange to de_dust2 --------
+L 10/25/2014 - 10:44:30: [warmod4.smx] Current Map: de_dust2  Workshop ID: 
+L 10/25/2014 - 10:47:31: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" changed map to "de_dust2"
+L 10/25/2014 - 10:47:34: [SM] Changed map to "de_dust2"
+L 10/25/2014 - 10:47:34: -------- Mapchange to de_dust2 --------
+L 10/25/2014 - 10:47:35: [warmod4.smx] Current Map: de_dust2  Workshop ID: �
+L 10/25/2014 - 10:52:21: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" changed map to "de_dust2"
+L 10/25/2014 - 10:52:24: [SM] Changed map to "de_dust2"
+L 10/25/2014 - 10:52:24: -------- Mapchange to de_dust2 --------
+L 10/25/2014 - 10:52:24: [GEOIP] GeoIP database info: GEO-106FREE 20091001 Build 1 Copyright (c) 2009 MaxMind Inc All Rights Reserved
+L 10/25/2014 - 10:52:25: [warmod333.smx] Current Map: de_dust2  Workshop ID: �
+L 10/25/2014 - 10:52:34: [warmod333.smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>")
+L 10/25/2014 - 11:01:19: [basechat.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" triggered sm_say (text 。。你肿么来了。)
+L 10/25/2014 - 11:01:23: [basechat.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" triggered sm_say (text 我在测试)
+L 10/25/2014 - 11:02:22: [warmod333.smx] "force_end" (player "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>")
+L 10/25/2014 - 11:10:49: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" changed map to "de_dust2"
+L 10/25/2014 - 11:10:52: [SM] Changed map to "de_dust2"
+L 10/25/2014 - 11:10:52: -------- Mapchange to de_dust2 --------
+L 10/25/2014 - 11:10:52: [warmod333.smx] Current Map: de_dust2  Workshop ID: 
+L 10/25/2014 - 11:11:00: [warmod333.smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>")
+L 10/25/2014 - 11:11:48: [basechat.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" triggered sm_say (text 你去别地玩北，我估计得搞向个小心)
+L 10/25/2014 - 11:11:52: [basechat.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" triggered sm_say (text 小时)
+L 10/25/2014 - 11:13:38: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" console command (cmdline "bot_quota 12")
+L 10/25/2014 - 11:13:48: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" executed config (file "WangShiFu/ShuaXin.cfg")
+L 10/25/2014 - 11:39:06: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" changed map to "de_dust2"
+L 10/25/2014 - 11:39:09: [SM] Changed map to "de_dust2"
+L 10/25/2014 - 11:39:09: -------- Mapchange to de_dust2 --------
+L 10/25/2014 - 11:39:10: [warmod333.smx] Current Map: de_dust2  Workshop ID: 
+L 10/25/2014 - 11:39:24: [warmod333.smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>")
+L 10/25/2014 - 12:06:13: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" changed map to "de_dust2"
+L 10/25/2014 - 12:06:16: [SM] Changed map to "de_dust2"
+L 10/25/2014 - 12:06:17: -------- Mapchange to de_dust2 --------
+L 10/25/2014 - 12:06:17: [warmod333.smx] Current Map: de_dust2  Workshop ID: 
+L 10/25/2014 - 12:12:03: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" changed map to "de_dust2"
+L 10/25/2014 - 12:12:06: [SM] Changed map to "de_dust2"
+L 10/25/2014 - 12:12:06: -------- Mapchange to de_dust2 --------
+L 10/25/2014 - 12:12:06: [warmod333.smx] Current Map: de_dust2  Workshop ID: 
+L 10/25/2014 - 12:14:51: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" changed map to "de_dust2"
+L 10/25/2014 - 12:14:54: [SM] Changed map to "de_dust2"
+L 10/25/2014 - 12:14:55: -------- Mapchange to de_dust2 --------
+L 10/25/2014 - 12:14:55: [warmod.smx] Current Map: de_dust2  Workshop ID: 
+L 10/25/2014 - 12:17:18: SourceMod log file session started (file "L20141025.log") (Version "1.6.1-dev+4526")
+L 10/25/2014 - 12:17:18: -------- Mapchange to de_dust2 --------
+L 10/25/2014 - 12:17:19: [CSMod.IP] **********************************
+
+L 10/25/2014 - 12:17:19: [CSMod.IP] ����IP��汾: ��������2014��6��10��IP����
+L 10/25/2014 - 12:17:19: [CSMod.IP] **********************************
+
+L 10/25/2014 - 12:17:19: [GEOIP] GeoIP database info: GEO-106FREE 20091001 Build 1 Copyright (c) 2009 MaxMind Inc All Rights Reserved
+L 10/25/2014 - 12:17:19: [warmod.smx] Current Map: de_dust2  Workshop ID: 
+L 10/25/2014 - 12:17:51: -------- Mapchange to de_dust2 --------
+L 10/25/2014 - 12:17:51: [warmod.smx] Current Map: de_dust2  Workshop ID: 
+L 10/25/2014 - 12:18:35: [warmod.smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>")
+L 10/25/2014 - 12:19:53: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" changed map to "de_dust2"
+L 10/25/2014 - 12:19:56: [SM] Changed map to "de_dust2"
+L 10/25/2014 - 12:19:56: -------- Mapchange to de_dust2 --------
+L 10/25/2014 - 12:19:57: [warmod333.smx] Current Map: de_dust2  Workshop ID: 	
+L 10/25/2014 - 12:20:04: [warmod333.smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>")
+L 10/25/2014 - 12:28:18: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" changed map to "de_dust2"
+L 10/25/2014 - 12:28:21: [SM] Changed map to "de_dust2"
+L 10/25/2014 - 12:28:21: -------- Mapchange to de_dust2 --------
+L 10/25/2014 - 12:28:21: [warmod333.smx] Current Map: de_dust2  Workshop ID: 
+L 10/25/2014 - 12:31:55: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" changed map to "de_dust2"
+L 10/25/2014 - 12:31:58: [SM] Changed map to "de_dust2"
+L 10/25/2014 - 12:31:59: -------- Mapchange to de_dust2 --------
+L 10/25/2014 - 12:31:59: [warmod333.smx] Current Map: de_dust2  Workshop ID: 
+L 10/25/2014 - 12:32:06: [warmod333.smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>")
+L 10/25/2014 - 12:32:34: [warmod333.smx] "force_end" (player "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>")
+L 10/25/2014 - 12:48:33: [basechat.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" triggered sm_say (text 在测试服。。)
+L 10/25/2014 - 12:48:35: [warmod333.smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>")
+L 10/25/2014 - 12:48:42: [basechat.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" triggered sm_say (text 无耳机。)
+L 10/25/2014 - 12:49:57: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" console command (cmdline "wm_chat_prefix "一一一一"")
+L 10/25/2014 - 12:57:44: [warmod333.smx] "force_end" (player "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>")
+L 10/25/2014 - 13:04:27: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" changed map to "de_dust2"
+L 10/25/2014 - 13:04:30: [SM] Changed map to "de_dust2"
+L 10/25/2014 - 13:04:30: -------- Mapchange to de_dust2 --------
+L 10/25/2014 - 13:04:31: [warmod333.smx] Current Map: de_dust2  Workshop ID: ��
+Advanced Gaming Modifications
+L 10/25/2014 - 13:05:06: [basechat.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" triggered sm_say (text 我在测试服务器。。朋友你去别地玩吧~)
+L 10/25/2014 - 13:05:08: [warmod333.smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>")
+L 10/25/2014 - 13:05:26: [warmod333.smx] "force_end" (player "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>")
+L 10/25/2014 - 13:11:01: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" changed map to "de_dust2"
+L 10/25/2014 - 13:11:04: [SM] Changed map to "de_dust2"
+L 10/25/2014 - 13:11:05: -------- Mapchange to de_dust2 --------
+L 10/25/2014 - 13:11:05: [warmod333.smx] Current Map: de_dust2  Workshop ID: 未准备完毕:
+L 10/25/2014 - 13:11:42: [warmod333.smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>")
+L 10/25/2014 - 13:12:04: [warmod333.smx] "force_end" (player "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>")
+L 10/25/2014 - 13:12:14: [warmod333.smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>")
+L 10/25/2014 - 13:18:51: [warmod333.smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>")
+L 10/25/2014 - 13:18:55: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" changed map to "de_dust2"
+L 10/25/2014 - 13:18:58: [SM] Changed map to "de_dust2"
+L 10/25/2014 - 13:18:58: -------- Mapchange to de_dust2 --------
+L 10/25/2014 - 13:18:58: [warmod333.smx] Current Map: de_dust2  Workshop ID: 
+L 10/25/2014 - 13:20:05: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" changed map to "de_cache"
+L 10/25/2014 - 13:20:08: [SM] Changed map to "de_cache"
+L 10/25/2014 - 13:20:10: -------- Mapchange to de_cache --------
+L 10/25/2014 - 13:20:11: [warmod333.sp.smx] Current Map: de_cache  Workshop ID: 
+L 10/25/2014 - 13:24:44: [basechat.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" triggered sm_say (text 我在测试服呢。。)
+L 10/25/2014 - 13:24:51: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" changed map to "de_cbble"
+L 10/25/2014 - 13:24:54: [SM] Changed map to "de_cbble"
+L 10/25/2014 - 13:24:56: -------- Mapchange to de_cbble --------
+L 10/25/2014 - 13:24:56: [warmod333.smx] Current Map: de_cbble  Workshop ID: 
+L 10/25/2014 - 13:25:05: [warmod333.smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>")
+L 10/25/2014 - 13:25:30: [warmod333.smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>")
+L 10/25/2014 - 13:25:58: [warmod333.smx] "force_end" (player "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>")
+L 10/25/2014 - 13:26:02: [warmod333.smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>")
+L 10/25/2014 - 13:28:44: [warmod333.smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>")
+L 10/25/2014 - 13:28:51: [warmod333.smx] "knife_on_3" (player "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>")
+L 10/25/2014 - 13:29:45: [basechat.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" triggered sm_say (text ..你们真不是人)
+L 10/25/2014 - 13:30:28: [warmod333.smx] "force_end" (player "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>")
+L 10/25/2014 - 13:33:16: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" changed map to "de_dust2"
+L 10/25/2014 - 13:33:19: [SM] Changed map to "de_dust2"
+L 10/25/2014 - 13:33:20: -------- Mapchange to de_dust2 --------
+L 10/25/2014 - 13:33:20: [warmod333.smx] Current Map: de_dust2  Workshop ID: 
+L 10/25/2014 - 13:33:30: [warmod333.smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>")
+L 10/25/2014 - 13:42:16: [warmod333.smx] "force_end" (player "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>")
+L 10/25/2014 - 13:42:24: [warmod333.smx] "force_end" (player "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>")
+L 10/25/2014 - 13:42:30: [warmod333.smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>")
+L 10/25/2014 - 13:42:34: [warmod333.smx] "force_end" (player "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>")
+L 10/25/2014 - 13:47:30: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" executed config (file "WangShiFu/ShuaXin.cfg")
+L 10/25/2014 - 13:48:07: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" console command (cmdline "mp_restartgame 3")
+L 10/25/2014 - 13:53:07: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" changed map to "de_dust2"
+L 10/25/2014 - 13:53:10: [SM] Changed map to "de_dust2"
+L 10/25/2014 - 13:53:10: -------- Mapchange to de_dust2 --------
+L 10/25/2014 - 13:53:10: [warmod333.smx] Current Map: de_dust2  Workshop ID: 
+L 10/25/2014 - 13:53:10: [warmod.smx] Current Map: de_dust2  Workshop ID: 	
+L 10/25/2014 - 13:53:33: [warmod333.smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>")
+L 10/25/2014 - 13:53:33: [warmod.smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>")
+L 10/25/2014 - 13:53:49: [warmod333.smx] "force_end" (player "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>")
+L 10/25/2014 - 13:53:49: [warmod.smx] "force_end" (player "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>")
+L 10/25/2014 - 13:54:28: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" changed map to "de_dust2"
+L 10/25/2014 - 13:54:31: [SM] Changed map to "de_dust2"
+L 10/25/2014 - 13:54:32: -------- Mapchange to de_dust2 --------
+L 10/25/2014 - 13:54:32: [warmod.smx] Current Map: de_dust2  Workshop ID: 
+L 10/25/2014 - 13:54:48: [basechat.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" triggered sm_say (text 搞了一天，总算搞完了。。)
+L 10/25/2014 - 13:58:21: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" executed config (file "WangShiFu/SuiJiZuDui.cfg")
+L 10/25/2014 - 13:58:25: [warmod.smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>")
+L 10/25/2014 - 14:02:20: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" console command (cmdline "sv_deadtalk 0")
+L 10/25/2014 - 14:04:03: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" console command (cmdline "sv_deadtalk 0")
+L 10/25/2014 - 14:04:11: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" console command (cmdline "sm_deadtalk 0")
+L 10/25/2014 - 14:17:05: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<2><STEAM_1:0:56540868><>" console command (cmdline "sv_deadtalk 1")
+L 10/25/2014 - 14:21:48: [basechat.smx] "sifu.WANG╮(╯3╰)╭<102><STEAM_1:0:56540868><>" triggered sm_say (text 这服刚刚架设，还有点问题。。)
+L 10/25/2014 - 14:22:10: [basechat.smx] "sifu.WANG╮(╯3╰)╭<102><STEAM_1:0:56540868><>" triggered sm_say (text 大家要换图么。。)
+L 10/25/2014 - 14:22:36: [basechat.smx] "sifu.WANG╮(╯3╰)╭<102><STEAM_1:0:56540868><>" triggered sm_say (text 嗯。。)
+L 10/25/2014 - 14:23:01: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<102><STEAM_1:0:56540868><>" console command (cmdline "mp_maxrounds 5")
+L 10/25/2014 - 14:23:18: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<102><STEAM_1:0:56540868><>" changed map to "de_inferno"
+L 10/25/2014 - 14:23:21: [SM] Changed map to "de_inferno"
+L 10/25/2014 - 14:23:22: -------- Mapchange to de_inferno --------
+L 10/25/2014 - 14:23:22: [warmod.smx] Current Map: de_inferno  Workshop ID: 
+L 10/25/2014 - 14:24:11: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<102><STEAM_1:0:56540868><>" executed config (file "WangShiFu/SuiJiZuDui.cfg")
+L 10/25/2014 - 14:24:23: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<102><STEAM_1:0:56540868><>" executed config (file "WangShiFu/SuiJiZuDui.cfg")
+L 10/25/2014 - 14:24:38: [warmod.smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<102><STEAM_1:0:56540868><>")
+L 10/25/2014 - 14:32:10: [basechat.smx] "sifu.WANG╮(╯3╰)╭<102><STEAM_1:0:56540868><>" triggered sm_say (text 不要自残。)
+L 10/25/2014 - 14:43:08: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<102><STEAM_1:0:56540868><>" console command (cmdline "wm_round_money")
+L 10/25/2014 - 14:43:10: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<102><STEAM_1:0:56540868><>" console command (cmdline "wm_round_money 0")
+L 10/25/2014 - 14:49:28: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<102><STEAM_1:0:56540868><>" console command (cmdline "wm_round_money 0")
+L 10/25/2014 - 14:50:54: [basechat.smx] "sifu.WANG╮(╯3╰)╭<102><STEAM_1:0:56540868><>" triggered sm_say (text 你胆子太大你知道吗。)
+L 10/25/2014 - 14:57:14: [basechat.smx] "sifu.WANG╮(╯3╰)╭<102><STEAM_1:0:56540868><>" triggered sm_say (text 你的胆子太大了。)
+L 10/25/2014 - 15:08:15: -------- Mapchange to de_cbble --------
+L 10/25/2014 - 15:08:15: [warmod.smx] Current Map: de_cbble  Workshop ID: 
+L 10/25/2014 - 15:12:03: [warmod.smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<102><STEAM_1:0:56540868><>")
+L 10/25/2014 - 15:12:22: [basechat.smx] "sifu.WANG╮(╯3╰)╭<102><STEAM_1:0:56540868><>" triggered sm_say (text 试点东西，人齐重开。)
+L 10/25/2014 - 15:13:03: [playercommands.smx] "sifu.WANG╮(╯3╰)╭<102><STEAM_1:0:56540868><>" slayed "忧郁的曹哥 (心Li好爽)<89><STEAM_1:1:41192271><>"
+L 10/25/2014 - 15:13:05: [playercommands.smx] "sifu.WANG╮(╯3╰)╭<102><STEAM_1:0:56540868><>" slayed "BanGa君<92><STEAM_1:1:52516589><>"
+L 10/25/2014 - 15:13:15: [playercommands.smx] "sifu.WANG╮(╯3╰)╭<102><STEAM_1:0:56540868><>" slayed "nadefii<107><STEAM_1:1:85931613><>"
+L 10/25/2014 - 15:13:25: [warmod.smx] "force_end" (player "sifu.WANG╮(╯3╰)╭<102><STEAM_1:0:56540868><>")
+L 10/25/2014 - 15:20:26: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<102><STEAM_1:0:56540868><>" executed config (file "WangShiFu/SuiJiZuDui.cfg")
+L 10/25/2014 - 15:20:35: [warmod.smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<102><STEAM_1:0:56540868><>")
+L 10/25/2014 - 16:03:04: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<102><STEAM_1:0:56540868><>" changed map to "de_nuke"
+L 10/25/2014 - 16:03:07: -------- Mapchange to de_overpass --------
+L 10/25/2014 - 16:03:07: [warmod.smx] Current Map: de_overpass  Workshop ID: 
+L 10/25/2014 - 16:03:09: [SM] Changed map to "de_nuke"
+L 10/25/2014 - 16:03:10: -------- Mapchange to de_nuke --------
+L 10/25/2014 - 16:03:10: [warmod.smx] Current Map: de_nuke  Workshop ID: 
+L 10/25/2014 - 16:05:42: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<102><STEAM_1:0:56540868><>" changed map to "de_nuke"
+L 10/25/2014 - 16:05:45: [SM] Changed map to "de_nuke"
+L 10/25/2014 - 16:05:45: -------- Mapchange to de_nuke --------
+L 10/25/2014 - 16:05:45: [warmod.smx] Current Map: de_nuke  Workshop ID: 
+L 10/25/2014 - 16:06:36: [warmod.smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<102><STEAM_1:0:56540868><>")
+L 10/25/2014 - 16:17:41: [basechat.smx] "sifu.WANG╮(╯3╰)╭<102><STEAM_1:0:56540868><>" triggered sm_say (text -_-)
+L 10/25/2014 - 16:17:44: [basechat.smx] "sifu.WANG╮(╯3╰)╭<102><STEAM_1:0:56540868><>" triggered sm_say (text 不好意思。。)
+L 10/25/2014 - 16:37:51: -------- Mapchange to de_mirage --------
+L 10/25/2014 - 16:37:51: [warmod.smx] Current Map: de_mirage  Workshop ID: 
+L 10/25/2014 - 17:00:17: -------- Mapchange to de_mirage --------
+L 10/25/2014 - 17:00:17: [warmod.smx] Current Map: de_mirage  Workshop ID: 
+L 10/25/2014 - 17:00:57: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" console command (cmdline "bot_quota 10")
+L 10/25/2014 - 17:01:02: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" executed config (file "WangShiFu/ShuaXin.cfg")
+L 10/25/2014 - 17:01:10: [warmod.smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>")
+L 10/25/2014 - 17:01:32: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" console command (cmdline "bot_kill ")
+L 10/25/2014 - 17:01:41: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" console command (cmdline "sv_cheats 1")
+L 10/25/2014 - 17:01:42: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" console command (cmdline "bot_kill")
+L 10/25/2014 - 17:08:26: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" changed map to "de_inferno"
+L 10/25/2014 - 17:08:29: [SM] Changed map to "de_inferno"
+L 10/25/2014 - 17:08:30: -------- Mapchange to de_inferno --------
+L 10/25/2014 - 17:08:30: [warmod.smx] Current Map: de_inferno  Workshop ID: 12,650
+L 10/25/2014 - 17:08:40: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" console command (cmdline "sv_cheats 1")
+L 10/25/2014 - 17:08:54: [warmod.smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>")
+L 10/25/2014 - 17:08:59: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" console command (cmdline "sv_cheats 1")
+L 10/25/2014 - 17:09:00: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" console command (cmdline "bot_kill")
+L 10/25/2014 - 17:10:34: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" changed map to "de_dust2"
+L 10/25/2014 - 17:10:37: [SM] Changed map to "de_dust2"
+L 10/25/2014 - 17:10:38: -------- Mapchange to de_dust2 --------
+L 10/25/2014 - 17:10:38: [warmod.smx] Current Map: de_dust2  Workshop ID: 
+L 10/25/2014 - 17:10:45: [warmod.smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>")
+L 10/25/2014 - 17:10:52: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" console command (cmdline "sv_cheats 1")
+L 10/25/2014 - 17:10:53: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" console command (cmdline "bot_kill")
+L 10/25/2014 - 17:11:07: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" console command (cmdline "bot_kill")
+L 10/25/2014 - 17:11:15: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" console command (cmdline "bot_kill")
+L 10/25/2014 - 17:11:30: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" console command (cmdline "bot_kill")
+L 10/25/2014 - 17:12:49: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" changed map to "de_dust2"
+L 10/25/2014 - 17:12:52: [SM] Changed map to "de_dust2"
+L 10/25/2014 - 17:12:52: -------- Mapchange to de_dust2 --------
+L 10/25/2014 - 17:12:53: [warmod.smx] Current Map: de_dust2  Workshop ID: 
+L 10/25/2014 - 17:13:00: [warmod.smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>")
+L 10/25/2014 - 17:13:04: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" console command (cmdline "sv_cheats 1")
+L 10/25/2014 - 17:13:05: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" console command (cmdline "bot_kill")
+L 10/25/2014 - 17:13:13: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" console command (cmdline "bot_kill")
+L 10/25/2014 - 17:16:13: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" changed map to "de_dust2"
+L 10/25/2014 - 17:16:16: [SM] Changed map to "de_dust2"
+L 10/25/2014 - 17:16:16: -------- Mapchange to de_dust2 --------
+L 10/25/2014 - 17:16:17: [warmod.smx] Current Map: de_dust2  Workshop ID: 
+L 10/25/2014 - 17:16:25: [warmod.smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>")
+L 10/25/2014 - 17:16:34: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" console command (cmdline "sv_cheats 1")
+L 10/25/2014 - 17:16:35: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" console command (cmdline "bot_kill")
+L 10/25/2014 - 17:21:39: [basechat.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" triggered sm_say (text 我在测试服。。)
+L 10/25/2014 - 17:21:40: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" changed map to "de_dust2"
+L 10/25/2014 - 17:21:43: [SM] Changed map to "de_dust2"
+L 10/25/2014 - 17:21:43: -------- Mapchange to de_dust2 --------
+L 10/25/2014 - 17:21:44: [warmod.smx] Current Map: de_dust2  Workshop ID: 
+L 10/25/2014 - 17:21:51: [warmod.smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>")
+L 10/25/2014 - 17:21:57: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" console command (cmdline "sv_cheats 1")
+L 10/25/2014 - 17:22:01: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" console command (cmdline "bot_kill")
+L 10/25/2014 - 17:22:06: [playercommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" slayed "Lance law<178><STEAM_1:1:18338836><>"
+L 10/25/2014 - 17:24:15: [basechat.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" triggered sm_say (text - -)
+L 10/25/2014 - 17:24:32: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" console command (cmdline "sv_cheats 1")
+L 10/25/2014 - 17:24:33: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" console command (cmdline "bot_kill")
+L 10/25/2014 - 17:24:42: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" console command (cmdline "bot_kill")
+L 10/25/2014 - 17:31:07: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" changed map to "de_dust2"
+L 10/25/2014 - 17:31:10: [SM] Changed map to "de_dust2"
+L 10/25/2014 - 17:31:11: -------- Mapchange to de_dust2 --------
+L 10/25/2014 - 17:31:11: [warmod.smx] Current Map: de_dust2  Workshop ID: 15,250
+L 10/25/2014 - 17:31:18: [warmod.smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>")
+L 10/25/2014 - 17:31:27: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" console command (cmdline "sv_cheats 1")
+L 10/25/2014 - 17:31:28: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" console command (cmdline "bot_kill")
+L 10/25/2014 - 17:31:58: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" console command (cmdline "bot_kill")
+L 10/25/2014 - 17:55:55: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" console command (cmdline "bot_kill")
+L 10/25/2014 - 17:56:51: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" console command (cmdline "bot_kill")
+L 10/25/2014 - 17:57:23: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" changed map to "wsf_akm4_aim_map"
+L 10/25/2014 - 17:57:26: [SM] Changed map to "wsf_akm4_aim_map"
+L 10/25/2014 - 17:57:26: -------- Mapchange to wsf_akm4_aim_map --------
+L 10/25/2014 - 17:57:26: [warmod.smx] Current Map: wsf_akm4_aim_map  Workshop ID: 
+L 10/25/2014 - 17:57:42: -------- Mapchange to wsf_akm4_aim_map --------
+L 10/25/2014 - 17:57:42: [warmod.smx] Current Map: wsf_akm4_aim_map  Workshop ID: 
+L 10/25/2014 - 17:59:48: [warmod.smx] "force_start" (player "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>")
+L 10/25/2014 - 18:00:08: [basechat.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" triggered sm_say (text 试点东西)
+L 10/25/2014 - 18:00:12: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" console command (cmdline "sv_cheats 1")
+L 10/25/2014 - 18:00:12: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" console command (cmdline "bot_kill")
+L 10/25/2014 - 18:00:30: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" console command (cmdline "bot_kill")
+L 10/25/2014 - 18:01:03: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" console command (cmdline "bot_kill")
+L 10/25/2014 - 18:01:13: [playercommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" slayed "BanGa君<205><STEAM_1:1:52516589><>"
+L 10/25/2014 - 18:01:17: [playercommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" slayed "butterfly<203><STEAM_1:0:49846465><>"
+L 10/25/2014 - 18:01:21: [playercommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" slayed "PSYduck<206><STEAM_1:0:92588508><>"
+L 10/25/2014 - 18:01:24: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" console command (cmdline "sv_cheats 1")
+L 10/25/2014 - 18:01:25: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" console command (cmdline "bot_kill")
+L 10/25/2014 - 18:01:35: [warmod.smx] "force_end" (player "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>")
+L 10/25/2014 - 18:08:43: [basecommands.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" changed map to "wsf_bloodstrike"
+L 10/25/2014 - 18:08:46: [SM] Changed map to "wsf_bloodstrike"
+L 10/25/2014 - 18:08:46: -------- Mapchange to wsf_bloodstrike --------
+L 10/25/2014 - 18:08:46: [warmod.smx] Current Map: wsf_bloodstrike  Workshop ID: 
+L 10/25/2014 - 18:10:01: [warmod.smx] "ready_toggle" (player "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>")
+L 10/25/2014 - 18:12:28: [basechat.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" triggered sm_say (text 要换图么？)
+L 10/25/2014 - 18:12:53: [basechat.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" triggered sm_say (text 貌似只有你一个要的。。。再打俩局北。)
+L 10/25/2014 - 18:13:02: [basechat.smx] "sifu.WANG╮(╯3╰)╭<132><STEAM_1:0:56540868><>" triggered sm_say (text 啊。)
+L 10/25/2014 - 18:15:36: [basecommands.smx] "butterfly<203><STEAM_1:0:49846465><>" changed map to "de_dust2"
+L 10/25/2014 - 18:15:39: [SM] Changed map to "de_dust2"
+L 10/25/2014 - 18:15:39: [mapchooser.smx] Starting map vote because outside request
+L 10/25/2014 - 18:15:39: [mapchooser.smx] Voting for next map has started.
+L 10/25/2014 - 18:15:40: -------- Mapchange to de_dust2 --------
+L 10/25/2014 - 18:15:40: [warmod.smx] Current Map: de_dust2  Workshop ID: 
+L 10/25/2014 - 18:17:46: [warmod.smx] "force_start" (player "butterfly<203><STEAM_1:0:49846465><>")
+L 10/25/2014 - 18:47:56: [basecommands.smx] "C1<238><STEAM_1:0:43933669><>" kicked "♛77xXc4♛<223><STEAM_1:1:58841498><>" 
+L 10/25/2014 - 18:51:34: [basecommands.smx] "C1<238><STEAM_1:0:43933669><>" changed map to "de_inferno"
+L 10/25/2014 - 18:51:37: [SM] Changed map to "de_inferno"
+L 10/25/2014 - 18:51:37: -------- Mapchange to de_inferno --------
+L 10/25/2014 - 18:51:38: [warmod.smx] Current Map: de_inferno  Workshop ID: 
+L 10/25/2014 - 18:56:04: [warmod.smx] "force_start" (player "C1<238><STEAM_1:0:43933669><>")
+L 10/25/2014 - 19:01:48: [basecommands.smx] "butterfly<203><STEAM_1:0:49846465><>" kicked "♛ ▂ BOT ▂ 元元☪YUAN -✔-  ♛<237><STEAM_1:0:54300080><>" 
+L 10/25/2014 - 19:06:56: [basecommands.smx] "C1<238><STEAM_1:0:43933669><>" kicked "Showwwwwwwwwwwwwwwww<239><STEAM_1:0:64675926><>" 
+L 10/25/2014 - 19:20:38: -------- Mapchange to de_cbble --------
+L 10/25/2014 - 19:20:38: [warmod.smx] Current Map: de_cbble  Workshop ID: 
+L 10/25/2014 - 19:21:13: [basecommands.smx] "C1<238><STEAM_1:0:43933669><>" changed map to "de_nuke"
+L 10/25/2014 - 19:21:16: [SM] Changed map to "de_nuke"
+L 10/25/2014 - 19:21:16: -------- Mapchange to de_nuke --------
+L 10/25/2014 - 19:21:16: [warmod.smx] Current Map: de_nuke  Workshop ID: 
+L 10/25/2014 - 19:24:31: [warmod.smx] "force_start" (player "C1<238><STEAM_1:0:43933669><>")
+L 10/25/2014 - 19:30:18: [funcommands.smx] "butterfly<203><STEAM_1:0:49846465><>" set a beacon on "PSYduck<225><STEAM_1:0:92588508><>"
+L 10/25/2014 - 19:57:43: -------- Mapchange to de_mirage --------
+L 10/25/2014 - 19:57:44: [warmod.smx] Current Map: de_mirage  Workshop ID: 
+L 10/25/2014 - 19:59:14: [basecommands.smx] "C1<238><STEAM_1:0:43933669><>" changed map to "de_dust2"
+L 10/25/2014 - 19:59:17: [SM] Changed map to "de_dust2"
+L 10/25/2014 - 19:59:18: -------- Mapchange to de_dust2 --------
+L 10/25/2014 - 19:59:18: [warmod.smx] Current Map: de_dust2  Workshop ID: 
+L 10/25/2014 - 20:00:17: [warmod.smx] "force_start" (player "C1<238><STEAM_1:0:43933669><>")
+L 10/25/2014 - 20:40:33: -------- Mapchange to de_nuke --------
+L 10/25/2014 - 20:40:33: [warmod.smx] Current Map: de_nuke  Workshop ID: 
+L 10/25/2014 - 20:43:43: [basecommands.smx] "C1<238><STEAM_1:0:43933669><>" kicked "edisonjian<288><STEAM_1:0:99992503><>" 
+L 10/25/2014 - 20:45:18: [basecommands.smx] "C1<238><STEAM_1:0:43933669><>" kicked "forward$psn<268><STEAM_1:1:50969290><>" 
+L 10/25/2014 - 20:48:01: [warmod.smx] "force_start" (player "C1<238><STEAM_1:0:43933669><>")
+L 10/25/2014 - 20:48:24: [basecommands.smx] "C1<238><STEAM_1:0:43933669><>" kicked "銀角琥珀大王<290><STEAM_1:1:54724098><>" 
+L 10/25/2014 - 20:48:35: [warmod.smx] "force_start" (player "C1<238><STEAM_1:0:43933669><>")
+L 10/25/2014 - 21:13:53: [basechat.smx] "Xf    / POWER /<295><STEAM_1:0:54823783><>" triggered sm_chat (text #^#@&*#@#*@#)
+L 10/25/2014 - 21:20:55: -------- Mapchange to de_mirage --------
+L 10/25/2014 - 21:20:55: [warmod.smx] Current Map: de_mirage  Workshop ID: 
+L 10/25/2014 - 21:21:36: [warmod.smx] "force_start" (player "洗剪吹会员300块<299><STEAM_1:0:79563325><>")
+L 10/25/2014 - 21:53:18: -------- Mapchange to de_inferno --------
+L 10/25/2014 - 21:53:18: [warmod.smx] Current Map: de_inferno  Workshop ID: 
+L 10/25/2014 - 22:16:37: [namechangepunisher.smx] Fifflaren (302) changed names for the first time in this 30 second time period.
+L 10/25/2014 - 22:31:23: -------- Mapchange to de_cbble --------
+L 10/25/2014 - 22:31:23: [warmod.smx] Current Map: de_cbble  Workshop ID: 
+L 10/25/2014 - 23:55:45: -------- Mapchange to de_cbble --------
+L 10/25/2014 - 23:55:45: [warmod.smx] Current Map: de_cbble  Workshop ID: 

@@ -1,0 +1,28 @@
+L 11/10/2014 - 01:35:54: SourceMod error session started
+L 11/10/2014 - 01:35:54: Info (map "de_cache") (file "errors_20141110.log")
+L 11/10/2014 - 01:35:54: Error log file session closed.
+L 11/10/2014 - 01:35:54: SourceMod error session started
+L 11/10/2014 - 01:35:54: Info (map "de_cache") (file "errors_20141110.log")
+L 11/10/2014 - 01:35:54: [SM] Fatal error encountered parsing translation file "namechangepunisher.phrases.txt"
+L 11/10/2014 - 01:35:54: [SM] Error (line 0, column 0): Stream failed to open
+L 11/10/2014 - 01:35:54: [SM] Fatal error encountered parsing translation file "plugin.supercmds.txt"
+L 11/10/2014 - 01:35:54: [SM] Error (line 0, column 0): Stream failed to open
+L 11/10/2014 - 01:35:54: [basecommands.smx] Could not parse file (line 12, file "addons\sourcemod\configs\adminmenu_cfgs.txt"):
+L 11/10/2014 - 01:35:54: [basecommands.smx] Parser encountered error: Section ending without a matching section beginning
+L 11/10/2014 - 01:35:54: [sm_cmdx.smx] Unable to locate overrides file.
+L 11/10/2014 - 01:38:13: [SM] Native "EquipPlayerWeapon" reported: NULL not allowed
+L 11/10/2014 - 01:38:13: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/10/2014 - 01:38:13: [SM]   [0]  Line 285, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::fadao()
+L 11/10/2014 - 01:38:14: [SM] Native "EquipPlayerWeapon" reported: NULL not allowed
+L 11/10/2014 - 01:38:14: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/10/2014 - 01:38:14: [SM]   [0]  Line 285, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::fadao()
+L 11/10/2014 - 21:33:22: Error log file session closed.
+L 11/10/2014 - 21:33:22: SourceMod error session started
+L 11/10/2014 - 21:33:22: Info (map "de_cache") (file "errors_20141110.log")
+L 11/10/2014 - 21:33:22: [SM] Fatal error encountered parsing translation file "namechangepunisher.phrases.txt"
+L 11/10/2014 - 21:33:22: [SM] Error (line 0, column 0): Stream failed to open
+L 11/10/2014 - 21:33:22: [SM] Fatal error encountered parsing translation file "plugin.supercmds.txt"
+L 11/10/2014 - 21:33:22: [SM] Error (line 0, column 0): Stream failed to open
+L 11/10/2014 - 21:33:22: [basecommands.smx] Could not parse file (line 12, file "addons\sourcemod\configs\adminmenu_cfgs.txt"):
+L 11/10/2014 - 21:33:22: [basecommands.smx] Parser encountered error: Section ending without a matching section beginning
+L 11/10/2014 - 21:33:22: [sm_cmdx.smx] Unable to locate overrides file.

@@ -1,0 +1,348 @@
+L 11/06/2014 - 12:58:33: SourceMod error session started
+L 11/06/2014 - 12:58:33: Info (map "de_dust2") (file "errors_20141106.log")
+L 11/06/2014 - 12:58:33: Error log file session closed.
+L 11/06/2014 - 12:58:33: SourceMod error session started
+L 11/06/2014 - 12:58:33: Info (map "de_dust2") (file "errors_20141106.log")
+L 11/06/2014 - 12:58:33: [SM] Fatal error encountered parsing translation file "namechangepunisher.phrases.txt"
+L 11/06/2014 - 12:58:33: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 12:58:33: [SM] Fatal error encountered parsing translation file "plugin.supercmds.txt"
+L 11/06/2014 - 12:58:33: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 12:58:33: [basecommands.smx] Could not parse file (line 12, file "addons\sourcemod\configs\adminmenu_cfgs.txt"):
+L 11/06/2014 - 12:58:33: [basecommands.smx] Parser encountered error: Section ending without a matching section beginning
+L 11/06/2014 - 12:58:33: [sm_cmdx.smx] Unable to locate overrides file.
+L 11/06/2014 - 13:53:44: Error log file session closed.
+L 11/06/2014 - 13:53:44: SourceMod error session started
+L 11/06/2014 - 13:53:44: Info (map "de_dust2") (file "errors_20141106.log")
+L 11/06/2014 - 13:53:44: [SM] Fatal error encountered parsing translation file "namechangepunisher.phrases.txt"
+L 11/06/2014 - 13:53:44: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 13:53:44: [SM] Fatal error encountered parsing translation file "plugin.supercmds.txt"
+L 11/06/2014 - 13:53:44: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 13:53:44: [basecommands.smx] Could not parse file (line 12, file "addons\sourcemod\configs\adminmenu_cfgs.txt"):
+L 11/06/2014 - 13:53:44: [basecommands.smx] Parser encountered error: Section ending without a matching section beginning
+L 11/06/2014 - 13:53:44: [sm_cmdx.smx] Unable to locate overrides file.
+L 11/06/2014 - 14:38:36: Error log file session closed.
+L 11/06/2014 - 14:38:36: SourceMod error session started
+L 11/06/2014 - 14:38:36: Info (map "de_dust2") (file "errors_20141106.log")
+L 11/06/2014 - 14:38:36: [SM] Fatal error encountered parsing translation file "namechangepunisher.phrases.txt"
+L 11/06/2014 - 14:38:36: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 14:38:36: [SM] Fatal error encountered parsing translation file "plugin.supercmds.txt"
+L 11/06/2014 - 14:38:36: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 14:38:36: [basecommands.smx] Could not parse file (line 12, file "addons\sourcemod\configs\adminmenu_cfgs.txt"):
+L 11/06/2014 - 14:38:36: [basecommands.smx] Parser encountered error: Section ending without a matching section beginning
+L 11/06/2014 - 14:38:36: [sm_cmdx.smx] Unable to locate overrides file.
+L 11/06/2014 - 14:41:11: Error log file session closed.
+L 11/06/2014 - 14:41:11: SourceMod error session started
+L 11/06/2014 - 14:41:11: Info (map "de_dust2") (file "errors_20141106.log")
+L 11/06/2014 - 14:41:11: [SM] Fatal error encountered parsing translation file "namechangepunisher.phrases.txt"
+L 11/06/2014 - 14:41:11: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 14:41:11: [SM] Fatal error encountered parsing translation file "plugin.supercmds.txt"
+L 11/06/2014 - 14:41:11: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 14:41:12: [basecommands.smx] Could not parse file (line 12, file "addons\sourcemod\configs\adminmenu_cfgs.txt"):
+L 11/06/2014 - 14:41:12: [basecommands.smx] Parser encountered error: Section ending without a matching section beginning
+L 11/06/2014 - 14:41:12: [sm_cmdx.smx] Unable to locate overrides file.
+L 11/06/2014 - 14:50:11: Error log file session closed.
+L 11/06/2014 - 14:50:11: SourceMod error session started
+L 11/06/2014 - 14:50:11: Info (map "de_dust2") (file "errors_20141106.log")
+L 11/06/2014 - 14:50:11: [SM] Fatal error encountered parsing translation file "namechangepunisher.phrases.txt"
+L 11/06/2014 - 14:50:11: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 14:50:11: [SM] Fatal error encountered parsing translation file "plugin.supercmds.txt"
+L 11/06/2014 - 14:50:11: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 14:50:11: [basecommands.smx] Could not parse file (line 12, file "addons\sourcemod\configs\adminmenu_cfgs.txt"):
+L 11/06/2014 - 14:50:11: [basecommands.smx] Parser encountered error: Section ending without a matching section beginning
+L 11/06/2014 - 14:50:11: [sm_cmdx.smx] Unable to locate overrides file.
+L 11/06/2014 - 14:54:32: Error log file session closed.
+L 11/06/2014 - 14:54:32: SourceMod error session started
+L 11/06/2014 - 14:54:32: Info (map "de_dust2") (file "errors_20141106.log")
+L 11/06/2014 - 14:54:32: [SM] Fatal error encountered parsing translation file "namechangepunisher.phrases.txt"
+L 11/06/2014 - 14:54:32: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 14:54:32: [SM] Fatal error encountered parsing translation file "plugin.supercmds.txt"
+L 11/06/2014 - 14:54:32: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 14:54:33: [basecommands.smx] Could not parse file (line 12, file "addons\sourcemod\configs\adminmenu_cfgs.txt"):
+L 11/06/2014 - 14:54:33: [basecommands.smx] Parser encountered error: Section ending without a matching section beginning
+L 11/06/2014 - 14:54:33: [sm_cmdx.smx] Unable to locate overrides file.
+L 11/06/2014 - 15:04:43: Error log file session closed.
+L 11/06/2014 - 15:04:43: SourceMod error session started
+L 11/06/2014 - 15:04:43: Info (map "de_dust2") (file "errors_20141106.log")
+L 11/06/2014 - 15:04:43: [SM] Fatal error encountered parsing translation file "namechangepunisher.phrases.txt"
+L 11/06/2014 - 15:04:43: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 15:04:43: [SM] Fatal error encountered parsing translation file "plugin.supercmds.txt"
+L 11/06/2014 - 15:04:43: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 15:04:43: [basecommands.smx] Could not parse file (line 12, file "addons\sourcemod\configs\adminmenu_cfgs.txt"):
+L 11/06/2014 - 15:04:43: [basecommands.smx] Parser encountered error: Section ending without a matching section beginning
+L 11/06/2014 - 15:04:43: [sm_cmdx.smx] Unable to locate overrides file.
+L 11/06/2014 - 15:46:08: Error log file session closed.
+L 11/06/2014 - 15:46:08: SourceMod error session started
+L 11/06/2014 - 15:46:08: Info (map "de_dust2") (file "errors_20141106.log")
+L 11/06/2014 - 15:46:08: [SM] Fatal error encountered parsing translation file "namechangepunisher.phrases.txt"
+L 11/06/2014 - 15:46:08: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 15:46:08: [SM] Fatal error encountered parsing translation file "plugin.supercmds.txt"
+L 11/06/2014 - 15:46:08: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 15:46:08: [basecommands.smx] Could not parse file (line 12, file "addons\sourcemod\configs\adminmenu_cfgs.txt"):
+L 11/06/2014 - 15:46:08: [basecommands.smx] Parser encountered error: Section ending without a matching section beginning
+L 11/06/2014 - 15:46:08: [sm_cmdx.smx] Unable to locate overrides file.
+L 11/06/2014 - 18:14:26: Error log file session closed.
+L 11/06/2014 - 18:14:26: SourceMod error session started
+L 11/06/2014 - 18:14:26: Info (map "de_dust2") (file "errors_20141106.log")
+L 11/06/2014 - 18:14:26: [SM] Fatal error encountered parsing translation file "namechangepunisher.phrases.txt"
+L 11/06/2014 - 18:14:26: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 18:14:26: [SM] Fatal error encountered parsing translation file "plugin.supercmds.txt"
+L 11/06/2014 - 18:14:26: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 18:14:27: [basecommands.smx] Could not parse file (line 12, file "addons\sourcemod\configs\adminmenu_cfgs.txt"):
+L 11/06/2014 - 18:14:27: [basecommands.smx] Parser encountered error: Section ending without a matching section beginning
+L 11/06/2014 - 18:14:27: [sm_cmdx.smx] Unable to locate overrides file.
+L 11/06/2014 - 18:53:56: [SM] Native "PrintToChat" reported: Client 1 is not in game
+L 11/06/2014 - 18:53:56: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 18:53:56: [SM]   [0]  Line 85, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::Timer_knifemsg()
+L 11/06/2014 - 18:53:56: Error log file session closed.
+L 11/06/2014 - 18:53:56: SourceMod error session started
+L 11/06/2014 - 18:53:56: Info (map "de_dust2") (file "errors_20141106.log")
+L 11/06/2014 - 18:53:56: [SM] Fatal error encountered parsing translation file "namechangepunisher.phrases.txt"
+L 11/06/2014 - 18:53:56: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 18:53:56: [SM] Fatal error encountered parsing translation file "plugin.supercmds.txt"
+L 11/06/2014 - 18:53:56: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 18:53:57: [basecommands.smx] Could not parse file (line 12, file "addons\sourcemod\configs\adminmenu_cfgs.txt"):
+L 11/06/2014 - 18:53:57: [basecommands.smx] Parser encountered error: Section ending without a matching section beginning
+L 11/06/2014 - 18:53:57: [sm_cmdx.smx] Unable to locate overrides file.
+L 11/06/2014 - 19:09:11: Error log file session closed.
+L 11/06/2014 - 19:09:11: SourceMod error session started
+L 11/06/2014 - 19:09:11: Info (map "de_dust2") (file "errors_20141106.log")
+L 11/06/2014 - 19:09:11: [SM] Fatal error encountered parsing translation file "namechangepunisher.phrases.txt"
+L 11/06/2014 - 19:09:11: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 19:09:11: [SM] Fatal error encountered parsing translation file "plugin.supercmds.txt"
+L 11/06/2014 - 19:09:11: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 19:09:11: [basecommands.smx] Could not parse file (line 12, file "addons\sourcemod\configs\adminmenu_cfgs.txt"):
+L 11/06/2014 - 19:09:11: [basecommands.smx] Parser encountered error: Section ending without a matching section beginning
+L 11/06/2014 - 19:09:11: [sm_cmdx.smx] Unable to locate overrides file.
+L 11/06/2014 - 19:16:37: [SM] Native "EquipPlayerWeapon" reported: NULL not allowed
+L 11/06/2014 - 19:16:37: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 19:16:37: [SM]   [0]  Line 285, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::fadao()
+L 11/06/2014 - 19:16:38: [SM] Native "EquipPlayerWeapon" reported: NULL not allowed
+L 11/06/2014 - 19:16:38: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 19:16:38: [SM]   [0]  Line 285, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::fadao()
+L 11/06/2014 - 19:17:46: [SM] Native "EquipPlayerWeapon" reported: NULL not allowed
+L 11/06/2014 - 19:17:46: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 19:17:46: [SM]   [0]  Line 285, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::fadao()
+L 11/06/2014 - 19:39:32: Error log file session closed.
+L 11/06/2014 - 19:39:32: SourceMod error session started
+L 11/06/2014 - 19:39:32: Info (map "de_dust2") (file "errors_20141106.log")
+L 11/06/2014 - 19:39:32: [SM] Fatal error encountered parsing translation file "namechangepunisher.phrases.txt"
+L 11/06/2014 - 19:39:32: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 19:39:32: [SM] Fatal error encountered parsing translation file "plugin.supercmds.txt"
+L 11/06/2014 - 19:39:32: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 19:39:32: [basecommands.smx] Could not parse file (line 12, file "addons\sourcemod\configs\adminmenu_cfgs.txt"):
+L 11/06/2014 - 19:39:32: [basecommands.smx] Parser encountered error: Section ending without a matching section beginning
+L 11/06/2014 - 19:39:32: [sm_cmdx.smx] Unable to locate overrides file.
+L 11/06/2014 - 19:53:38: Error log file session closed.
+L 11/06/2014 - 19:53:38: SourceMod error session started
+L 11/06/2014 - 19:53:38: Info (map "AWP_snow_map") (file "errors_20141106.log")
+L 11/06/2014 - 19:53:38: [SM] Fatal error encountered parsing translation file "namechangepunisher.phrases.txt"
+L 11/06/2014 - 19:53:38: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 19:53:38: [SM] Fatal error encountered parsing translation file "plugin.supercmds.txt"
+L 11/06/2014 - 19:53:38: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 19:53:38: [basecommands.smx] Could not parse file (line 12, file "addons\sourcemod\configs\adminmenu_cfgs.txt"):
+L 11/06/2014 - 19:53:38: [basecommands.smx] Parser encountered error: Section ending without a matching section beginning
+L 11/06/2014 - 19:53:38: [sm_cmdx.smx] Unable to locate overrides file.
+L 11/06/2014 - 20:06:44: Error log file session closed.
+L 11/06/2014 - 20:06:44: SourceMod error session started
+L 11/06/2014 - 20:06:44: Info (map "de_dust2") (file "errors_20141106.log")
+L 11/06/2014 - 20:06:44: [SM] Fatal error encountered parsing translation file "namechangepunisher.phrases.txt"
+L 11/06/2014 - 20:06:44: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 20:06:44: [SM] Fatal error encountered parsing translation file "plugin.supercmds.txt"
+L 11/06/2014 - 20:06:44: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 20:06:44: [basecommands.smx] Could not parse file (line 12, file "addons\sourcemod\configs\adminmenu_cfgs.txt"):
+L 11/06/2014 - 20:06:44: [basecommands.smx] Parser encountered error: Section ending without a matching section beginning
+L 11/06/2014 - 20:06:44: [sm_cmdx.smx] Unable to locate overrides file.
+L 11/06/2014 - 20:09:39: [SM] Native "PrintToChat" reported: Client 5 is not in game
+L 11/06/2014 - 20:09:39: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 20:09:39: [SM]   [0]  Line 85, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::Timer_knifemsg()
+L 11/06/2014 - 20:28:11: [SM] Native "PrintToChat" reported: Client 11 is not in game
+L 11/06/2014 - 20:28:11: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 20:28:11: [SM]   [0]  Line 85, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::Timer_knifemsg()
+L 11/06/2014 - 20:42:43: Error log file session closed.
+L 11/06/2014 - 20:42:43: SourceMod error session started
+L 11/06/2014 - 20:42:43: Info (map "de_mirage") (file "errors_20141106.log")
+L 11/06/2014 - 20:42:43: [SM] Fatal error encountered parsing translation file "namechangepunisher.phrases.txt"
+L 11/06/2014 - 20:42:43: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 20:42:43: [SM] Fatal error encountered parsing translation file "plugin.supercmds.txt"
+L 11/06/2014 - 20:42:43: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 20:42:43: [basecommands.smx] Could not parse file (line 12, file "addons\sourcemod\configs\adminmenu_cfgs.txt"):
+L 11/06/2014 - 20:42:43: [basecommands.smx] Parser encountered error: Section ending without a matching section beginning
+L 11/06/2014 - 20:42:43: [sm_cmdx.smx] Unable to locate overrides file.
+L 11/06/2014 - 20:43:02: [SM] Native "PrintToChat" reported: Client 6 is not in game
+L 11/06/2014 - 20:43:02: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 20:43:02: [SM]   [0]  Line 85, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::Timer_knifemsg()
+L 11/06/2014 - 20:44:24: [SM] Native "EquipPlayerWeapon" reported: NULL not allowed
+L 11/06/2014 - 20:44:24: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 20:44:24: [SM]   [0]  Line 285, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::fadao()
+L 11/06/2014 - 20:44:24: [SM] Native "EquipPlayerWeapon" reported: NULL not allowed
+L 11/06/2014 - 20:44:24: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 20:44:24: [SM]   [0]  Line 285, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::fadao()
+L 11/06/2014 - 20:56:38: [SM] Native "PrintToChat" reported: Client 11 is not in game
+L 11/06/2014 - 20:56:38: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 20:56:38: [SM]   [0]  Line 85, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::Timer_knifemsg()
+L 11/06/2014 - 21:25:49: Error log file session closed.
+L 11/06/2014 - 21:25:49: SourceMod error session started
+L 11/06/2014 - 21:25:49: Info (map "de_inferno") (file "errors_20141106.log")
+L 11/06/2014 - 21:25:49: [SM] Fatal error encountered parsing translation file "namechangepunisher.phrases.txt"
+L 11/06/2014 - 21:25:49: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 21:25:49: [SM] Fatal error encountered parsing translation file "plugin.supercmds.txt"
+L 11/06/2014 - 21:25:49: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 21:25:50: [basecommands.smx] Could not parse file (line 12, file "addons\sourcemod\configs\adminmenu_cfgs.txt"):
+L 11/06/2014 - 21:25:50: [basecommands.smx] Parser encountered error: Section ending without a matching section beginning
+L 11/06/2014 - 21:25:50: [sm_cmdx.smx] Unable to locate overrides file.
+L 11/06/2014 - 21:26:06: [SM] Native "PrintToChat" reported: Client 5 is not in game
+L 11/06/2014 - 21:26:06: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 21:26:06: [SM]   [0]  Line 85, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::Timer_knifemsg()
+L 11/06/2014 - 21:26:09: [SM] Native "PrintToChat" reported: Client 3 is not in game
+L 11/06/2014 - 21:26:09: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 21:26:09: [SM]   [0]  Line 85, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::Timer_knifemsg()
+L 11/06/2014 - 21:29:36: Error log file session closed.
+L 11/06/2014 - 21:29:36: SourceMod error session started
+L 11/06/2014 - 21:29:36: Info (map "wsf_akm4_aim_map") (file "errors_20141106.log")
+L 11/06/2014 - 21:29:36: [SM] Fatal error encountered parsing translation file "namechangepunisher.phrases.txt"
+L 11/06/2014 - 21:29:36: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 21:29:36: [SM] Fatal error encountered parsing translation file "plugin.supercmds.txt"
+L 11/06/2014 - 21:29:36: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 21:29:36: [basecommands.smx] Could not parse file (line 12, file "addons\sourcemod\configs\adminmenu_cfgs.txt"):
+L 11/06/2014 - 21:29:36: [basecommands.smx] Parser encountered error: Section ending without a matching section beginning
+L 11/06/2014 - 21:29:36: [sm_cmdx.smx] Unable to locate overrides file.
+L 11/06/2014 - 21:29:49: [SM] Native "CS_RespawnPlayer" reported: Client index 7 is not valid
+L 11/06/2014 - 21:29:49: [SM] Displaying call stack trace for plugin "warmod11111.smx":
+L 11/06/2014 - 21:29:49: [SM]   [0]  Line 1847, D:\CSGO\csgo±‡“Î∆˜\warmod11111.sp::RespawnPlayer()
+L 11/06/2014 - 21:29:51: [SM] Native "CS_RespawnPlayer" reported: Client index 7 is not valid
+L 11/06/2014 - 21:29:51: [SM] Displaying call stack trace for plugin "warmod11111.smx":
+L 11/06/2014 - 21:29:51: [SM]   [0]  Line 1847, D:\CSGO\csgo±‡“Î∆˜\warmod11111.sp::RespawnPlayer()
+L 11/06/2014 - 21:30:09: [SM] Native "PrintToChat" reported: Client 7 is not in game
+L 11/06/2014 - 21:30:09: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 21:30:09: [SM]   [0]  Line 85, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::Timer_knifemsg()
+L 11/06/2014 - 21:30:11: [SM] Native "PrintToChat" reported: Client 7 is not in game
+L 11/06/2014 - 21:30:11: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 21:30:11: [SM]   [0]  Line 85, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::Timer_knifemsg()
+L 11/06/2014 - 21:43:22: [SM] Native "EquipPlayerWeapon" reported: NULL not allowed
+L 11/06/2014 - 21:43:22: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 21:43:22: [SM]   [0]  Line 285, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::fadao()
+L 11/06/2014 - 21:43:22: [SM] Native "EquipPlayerWeapon" reported: NULL not allowed
+L 11/06/2014 - 21:43:22: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 21:43:22: [SM]   [0]  Line 285, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::fadao()
+L 11/06/2014 - 21:55:41: Error log file session closed.
+L 11/06/2014 - 21:55:41: SourceMod error session started
+L 11/06/2014 - 21:55:41: Info (map "de_inferno") (file "errors_20141106.log")
+L 11/06/2014 - 21:55:41: [SM] Fatal error encountered parsing translation file "namechangepunisher.phrases.txt"
+L 11/06/2014 - 21:55:41: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 21:55:41: [SM] Fatal error encountered parsing translation file "plugin.supercmds.txt"
+L 11/06/2014 - 21:55:41: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 21:55:41: [basecommands.smx] Could not parse file (line 12, file "addons\sourcemod\configs\adminmenu_cfgs.txt"):
+L 11/06/2014 - 21:55:41: [basecommands.smx] Parser encountered error: Section ending without a matching section beginning
+L 11/06/2014 - 21:55:41: [sm_cmdx.smx] Unable to locate overrides file.
+L 11/06/2014 - 21:56:09: [SM] Native "PrintToChat" reported: Client 6 is not in game
+L 11/06/2014 - 21:56:09: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 21:56:09: [SM]   [0]  Line 85, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::Timer_knifemsg()
+L 11/06/2014 - 21:57:27: [SM] Native "PrintToChat" reported: Client 12 is not in game
+L 11/06/2014 - 21:57:27: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 21:57:27: [SM]   [0]  Line 85, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::Timer_knifemsg()
+L 11/06/2014 - 21:57:44: [SM] Native "PrintToChat" reported: Client 13 is not in game
+L 11/06/2014 - 21:57:44: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 21:57:44: [SM]   [0]  Line 85, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::Timer_knifemsg()
+L 11/06/2014 - 21:58:06: [SM] Native "PrintToChat" reported: Client 12 is not in game
+L 11/06/2014 - 21:58:06: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 21:58:06: [SM]   [0]  Line 85, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::Timer_knifemsg()
+L 11/06/2014 - 21:59:49: [SM] Native "PrintToChat" reported: Client 10 is not in game
+L 11/06/2014 - 21:59:49: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 21:59:49: [SM]   [0]  Line 85, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::Timer_knifemsg()
+L 11/06/2014 - 22:19:10: [SM] Native "PrintToChat" reported: Client 4 is not in game
+L 11/06/2014 - 22:19:10: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 22:19:10: [SM]   [0]  Line 85, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::Timer_knifemsg()
+L 11/06/2014 - 22:24:11: [SM] Native "PrintToChat" reported: Client 4 is not in game
+L 11/06/2014 - 22:24:11: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 22:24:11: [SM]   [0]  Line 85, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::Timer_knifemsg()
+L 11/06/2014 - 22:24:40: [SM] Native "PrintToChat" reported: Client 6 is not in game
+L 11/06/2014 - 22:24:40: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 22:24:40: [SM]   [0]  Line 85, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::Timer_knifemsg()
+L 11/06/2014 - 22:30:14: [SM] Native "PrintToChat" reported: Client 10 is not in game
+L 11/06/2014 - 22:30:14: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 22:30:14: [SM]   [0]  Line 85, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::Timer_knifemsg()
+L 11/06/2014 - 22:34:34: Error log file session closed.
+L 11/06/2014 - 22:34:34: SourceMod error session started
+L 11/06/2014 - 22:34:34: Info (map "de_nuke") (file "errors_20141106.log")
+L 11/06/2014 - 22:34:34: [SM] Fatal error encountered parsing translation file "namechangepunisher.phrases.txt"
+L 11/06/2014 - 22:34:34: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 22:34:34: [SM] Fatal error encountered parsing translation file "plugin.supercmds.txt"
+L 11/06/2014 - 22:34:34: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 22:34:34: [basecommands.smx] Could not parse file (line 12, file "addons\sourcemod\configs\adminmenu_cfgs.txt"):
+L 11/06/2014 - 22:34:34: [basecommands.smx] Parser encountered error: Section ending without a matching section beginning
+L 11/06/2014 - 22:34:34: [sm_cmdx.smx] Unable to locate overrides file.
+L 11/06/2014 - 23:14:47: Error log file session closed.
+L 11/06/2014 - 23:14:47: SourceMod error session started
+L 11/06/2014 - 23:14:47: Info (map "de_cache") (file "errors_20141106.log")
+L 11/06/2014 - 23:14:47: [SM] Fatal error encountered parsing translation file "namechangepunisher.phrases.txt"
+L 11/06/2014 - 23:14:47: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 23:14:47: [SM] Fatal error encountered parsing translation file "plugin.supercmds.txt"
+L 11/06/2014 - 23:14:47: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 23:14:47: [basecommands.smx] Could not parse file (line 12, file "addons\sourcemod\configs\adminmenu_cfgs.txt"):
+L 11/06/2014 - 23:14:47: [basecommands.smx] Parser encountered error: Section ending without a matching section beginning
+L 11/06/2014 - 23:14:47: [sm_cmdx.smx] Unable to locate overrides file.
+L 11/06/2014 - 23:15:16: [SM] Native "EquipPlayerWeapon" reported: NULL not allowed
+L 11/06/2014 - 23:15:16: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 23:15:16: [SM]   [0]  Line 285, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::fadao()
+L 11/06/2014 - 23:15:16: [SM] Native "EquipPlayerWeapon" reported: NULL not allowed
+L 11/06/2014 - 23:15:16: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 23:15:16: [SM]   [0]  Line 285, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::fadao()
+L 11/06/2014 - 23:15:17: [SM] Native "CS_RespawnPlayer" reported: Client index 2 is not valid
+L 11/06/2014 - 23:15:17: [SM] Displaying call stack trace for plugin "warmod11111.smx":
+L 11/06/2014 - 23:15:17: [SM]   [0]  Line 1847, D:\CSGO\csgo±‡“Î∆˜\warmod11111.sp::RespawnPlayer()
+L 11/06/2014 - 23:15:26: [SM] Native "EquipPlayerWeapon" reported: NULL not allowed
+L 11/06/2014 - 23:15:26: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 23:15:26: [SM]   [0]  Line 285, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::fadao()
+L 11/06/2014 - 23:15:26: [SM] Native "EquipPlayerWeapon" reported: NULL not allowed
+L 11/06/2014 - 23:15:26: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 23:15:26: [SM]   [0]  Line 285, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::fadao()
+L 11/06/2014 - 23:15:37: [SM] Native "PrintToChat" reported: Client 2 is not in game
+L 11/06/2014 - 23:15:37: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 23:15:37: [SM]   [0]  Line 85, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::Timer_knifemsg()
+L 11/06/2014 - 23:35:00: [SM] Native "EquipPlayerWeapon" reported: NULL not allowed
+L 11/06/2014 - 23:35:00: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 23:35:00: [SM]   [0]  Line 285, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::fadao()
+L 11/06/2014 - 23:35:01: [SM] Native "EquipPlayerWeapon" reported: NULL not allowed
+L 11/06/2014 - 23:35:01: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 23:35:01: [SM]   [0]  Line 285, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::fadao()
+L 11/06/2014 - 23:41:40: Error log file session closed.
+L 11/06/2014 - 23:41:40: SourceMod error session started
+L 11/06/2014 - 23:41:40: Info (map "de_overpass") (file "errors_20141106.log")
+L 11/06/2014 - 23:41:40: [SM] Fatal error encountered parsing translation file "namechangepunisher.phrases.txt"
+L 11/06/2014 - 23:41:40: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 23:41:40: [SM] Fatal error encountered parsing translation file "plugin.supercmds.txt"
+L 11/06/2014 - 23:41:40: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 23:41:41: [basecommands.smx] Could not parse file (line 12, file "addons\sourcemod\configs\adminmenu_cfgs.txt"):
+L 11/06/2014 - 23:41:41: [basecommands.smx] Parser encountered error: Section ending without a matching section beginning
+L 11/06/2014 - 23:41:41: [sm_cmdx.smx] Unable to locate overrides file.
+L 11/06/2014 - 23:42:04: Error log file session closed.
+L 11/06/2014 - 23:42:04: SourceMod error session started
+L 11/06/2014 - 23:42:04: Info (map "de_dust2") (file "errors_20141106.log")
+L 11/06/2014 - 23:42:04: [SM] Fatal error encountered parsing translation file "namechangepunisher.phrases.txt"
+L 11/06/2014 - 23:42:04: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 23:42:04: [SM] Fatal error encountered parsing translation file "plugin.supercmds.txt"
+L 11/06/2014 - 23:42:04: [SM] Error (line 0, column 0): Stream failed to open
+L 11/06/2014 - 23:42:05: [basecommands.smx] Could not parse file (line 12, file "addons\sourcemod\configs\adminmenu_cfgs.txt"):
+L 11/06/2014 - 23:42:05: [basecommands.smx] Parser encountered error: Section ending without a matching section beginning
+L 11/06/2014 - 23:42:05: [sm_cmdx.smx] Unable to locate overrides file.
+L 11/06/2014 - 23:42:07: [SM] Native "PrintToChat" reported: Client 9 is not in game
+L 11/06/2014 - 23:42:07: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 23:42:07: [SM]   [0]  Line 85, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::Timer_knifemsg()
+L 11/06/2014 - 23:42:07: [SM] Native "PrintToChat" reported: Client 5 is not in game
+L 11/06/2014 - 23:42:07: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 23:42:07: [SM]   [0]  Line 85, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::Timer_knifemsg()
+L 11/06/2014 - 23:42:07: [SM] Native "PrintToChat" reported: Client 3 is not in game
+L 11/06/2014 - 23:42:07: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 23:42:07: [SM]   [0]  Line 85, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::Timer_knifemsg()
+L 11/06/2014 - 23:42:08: [SM] Native "PrintToChat" reported: Client 11 is not in game
+L 11/06/2014 - 23:42:08: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 23:42:08: [SM]   [0]  Line 85, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::Timer_knifemsg()
+L 11/06/2014 - 23:42:09: [SM] Native "PrintToChat" reported: Client 10 is not in game
+L 11/06/2014 - 23:42:09: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 23:42:09: [SM]   [0]  Line 85, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::Timer_knifemsg()
+L 11/06/2014 - 23:42:09: [SM] Native "PrintToChat" reported: Client 4 is not in game
+L 11/06/2014 - 23:42:09: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 23:42:09: [SM]   [0]  Line 85, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::Timer_knifemsg()
+L 11/06/2014 - 23:42:11: [SM] Native "PrintToChat" reported: Client 6 is not in game
+L 11/06/2014 - 23:42:11: [SM] Displaying call stack trace for plugin "!dao.smx":
+L 11/06/2014 - 23:42:11: [SM]   [0]  Line 85, D:\CSGO\csgo±‡“Î∆˜\!dao.sp::Timer_knifemsg()

@@ -1,0 +1,63 @@
+"Phrases"
+{
+	"You"
+	{
+		"#format"		"{1:s}"
+		"chi"			"你已经 {1}"
+	}
+
+	"Client"
+	{
+		"#format"		"{1:s},{2:s}"
+		"chi"			"玩家 {1} 是 {2}"
+	}	
+
+	"Location"
+	{
+		"#format"		"{1:s},{2:2.1f},{3:2.1f},{4:2.1f}"
+		"chi"			"现在的位置是： \"{1}\" is {2},{3},{4}"
+	}
+	
+	"Save Location"
+	{
+		"#format"		"{1:i}"
+		"chi"			"你的位置已经被保存 {1}. 用 sm_teleport <name/#userid> <#{1}>  命令来使用"
+	}
+	
+	"Teleport"
+	{
+		"#format"		"{1:f},{2:f},{3:f}"
+		"chi"			"被移动到 {1},{2},{3}"
+	}
+	"God"
+	{
+		"chi"			"你从屌丝变成了上帝"
+	}
+
+	"NoGod"
+	{
+		"chi"			"你从上帝变成了屌丝"
+	}
+
+	"Team"
+	{
+		"#format"		"{1:s}"
+		"chi"			"你被移动到 {1} "
+	}
+	"Weapon"
+	{
+		"#format"		"{1:s}"
+		"chi"			"你获得了 {1}"
+	}
+	"Name"
+	{
+		"#format"		"{1:s}"
+		"chi"			"你的名字变成：{1}"
+	}
+
+	"Health"
+	{
+		"#format"		"{1:i}"
+		"chi"			"你的血变成: {1}"
+	}
+}

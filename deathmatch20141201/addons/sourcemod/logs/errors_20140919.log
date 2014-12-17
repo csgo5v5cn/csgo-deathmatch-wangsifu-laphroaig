@@ -1,0 +1,71 @@
+L 09/19/2014 - 16:07:54: SourceMod error session started
+L 09/19/2014 - 16:07:54: Info (map "de_dust2") (file "errors_20140919.log")
+L 09/19/2014 - 16:07:54: [CLIENTPREFS] unable to open database file
+L 09/19/2014 - 16:07:55: [SM] Fatal error encountered parsing translation file "namechangepunisher.phrases.txt"
+L 09/19/2014 - 16:07:55: [SM] Error (line 0, column 0): Stream failed to open
+L 09/19/2014 - 16:07:55: [SM] Fatal error encountered parsing translation file "plugin.supercmds.txt"
+L 09/19/2014 - 16:07:55: [SM] Error (line 0, column 0): Stream failed to open
+L 09/19/2014 - 16:07:55: [SM] Error parsing gameconfig file "D:\CSGO\王师傅-2020\csgo\addons\sourcemod\gamedata\supercmds.gamedata.txt":
+L 09/19/2014 - 16:07:55: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 09/19/2014 - 16:07:55: [SM] Native "LoadGameConfigFile" reported: Unable to open supercmds.gamedata: File could not be opened: 系统找不到指定的文件。
+
+L 09/19/2014 - 16:07:55: [SM] Displaying call stack trace for plugin "sm_cmdx.smx":
+L 09/19/2014 - 16:07:55: [SM]   [0]  Line 108, D:\CSGO\csgo编译器\sm_cmdx.sp::OnPluginStart()
+L 09/19/2014 - 16:07:55: [CLIENTPREFS] unable to open database file
+L 09/19/2014 - 16:07:56: [CLIENTPREFS] unable to open database file
+L 09/19/2014 - 16:07:56: [CLIENTPREFS] unable to open database file
+L 09/19/2014 - 17:30:29: [CLIENTPREFS] unable to open database file
+L 09/19/2014 - 17:30:30: Error log file session closed.
+L 09/19/2014 - 17:30:30: SourceMod error session started
+L 09/19/2014 - 17:30:30: Info (map "de_dust2") (file "errors_20140919.log")
+L 09/19/2014 - 17:30:30: [SM] Fatal error encountered parsing translation file "namechangepunisher.phrases.txt"
+L 09/19/2014 - 17:30:30: [SM] Error (line 0, column 0): Stream failed to open
+L 09/19/2014 - 17:30:30: [SM] Fatal error encountered parsing translation file "plugin.supercmds.txt"
+L 09/19/2014 - 17:30:30: [SM] Error (line 0, column 0): Stream failed to open
+L 09/19/2014 - 17:30:30: [CLIENTPREFS] unable to open database file
+L 09/19/2014 - 17:30:30: [CLIENTPREFS] unable to open database file
+L 09/19/2014 - 17:30:30: [warmod.smx] GameTech LiveWire - Socket error 3 (errno 11004)
+L 09/19/2014 - 17:30:30: [sm_cmdx.smx] Unable to locate overrides file.
+L 09/19/2014 - 17:30:30: [warmod.smx] GameTech LiveWire - Socket error 3 (errno 11004)
+L 09/19/2014 - 17:30:30: [warmod.smx] GameTech LiveWire - Socket error 3 (errno 11004)
+L 09/19/2014 - 17:30:31: [CLIENTPREFS] unable to open database file
+L 09/19/2014 - 17:30:35: [warmod.smx] Plug-in tEasyFTP.smx required to auto upload demos
+L 09/19/2014 - 17:30:35: [warmod.smx] Plug-in tEasyFTP.smx required to auto upload demos
+L 09/19/2014 - 17:30:55: [CLIENTPREFS] unable to open database file
+L 09/19/2014 - 17:30:55: [CLIENTPREFS] unable to open database file
+L 09/19/2014 - 17:30:55: [CLIENTPREFS] unable to open database file
+L 09/19/2014 - 17:30:55: [CLIENTPREFS] unable to open database file
+L 09/19/2014 - 17:30:55: [CLIENTPREFS] unable to open database file
+L 09/19/2014 - 17:31:33: [CLIENTPREFS] unable to open database file
+L 09/19/2014 - 17:31:33: [CLIENTPREFS] unable to open database file
+L 09/19/2014 - 17:31:33: [CLIENTPREFS] unable to open database file
+L 09/19/2014 - 17:31:33: [CLIENTPREFS] unable to open database file
+L 09/19/2014 - 17:31:33: [CLIENTPREFS] unable to open database file
+L 09/19/2014 - 17:31:33: [CLIENTPREFS] unable to open database file
+L 09/19/2014 - 17:31:38: [CLIENTPREFS] unable to open database file
+L 09/19/2014 - 18:49:32: Error log file session closed.
+L 09/19/2014 - 18:49:32: SourceMod error session started
+L 09/19/2014 - 18:49:32: Info (map "de_dust2") (file "errors_20140919.log")
+L 09/19/2014 - 18:49:32: [SM] Fatal error encountered parsing translation file "namechangepunisher.phrases.txt"
+L 09/19/2014 - 18:49:32: [SM] Error (line 0, column 0): Stream failed to open
+L 09/19/2014 - 18:49:32: [SM] Fatal error encountered parsing translation file "plugin.supercmds.txt"
+L 09/19/2014 - 18:49:32: [SM] Error (line 0, column 0): Stream failed to open
+L 09/19/2014 - 18:49:32: [CLIENTPREFS] unable to open database file
+L 09/19/2014 - 18:49:32: [CLIENTPREFS] unable to open database file
+L 09/19/2014 - 18:49:32: [warmod.smx] GameTech LiveWire - Socket error 3 (errno 11004)
+L 09/19/2014 - 18:49:32: [sm_cmdx.smx] Unable to locate overrides file.
+L 09/19/2014 - 18:49:32: [warmod.smx] GameTech LiveWire - Socket error 3 (errno 11004)
+L 09/19/2014 - 18:49:32: [CLIENTPREFS] unable to open database file
+L 09/19/2014 - 18:49:37: [warmod.smx] Plug-in tEasyFTP.smx required to auto upload demos
+L 09/19/2014 - 18:49:39: [CLIENTPREFS] unable to open database file
+L 09/19/2014 - 18:49:39: [CLIENTPREFS] unable to open database file
+L 09/19/2014 - 18:49:39: [CLIENTPREFS] unable to open database file
+L 09/19/2014 - 18:49:39: [CLIENTPREFS] unable to open database file
+L 09/19/2014 - 18:49:39: [CLIENTPREFS] unable to open database file
+L 09/19/2014 - 18:50:36: [CLIENTPREFS] unable to open database file
+L 09/19/2014 - 18:50:36: [CLIENTPREFS] unable to open database file
+L 09/19/2014 - 18:50:36: [CLIENTPREFS] unable to open database file
+L 09/19/2014 - 18:50:36: [CLIENTPREFS] unable to open database file
+L 09/19/2014 - 18:50:36: [CLIENTPREFS] unable to open database file
+L 09/19/2014 - 18:50:36: [CLIENTPREFS] unable to open database file
+L 09/19/2014 - 18:50:41: [CLIENTPREFS] unable to open database file

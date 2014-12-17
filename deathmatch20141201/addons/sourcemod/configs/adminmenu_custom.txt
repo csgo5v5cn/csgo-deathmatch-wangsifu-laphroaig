@@ -1,0 +1,324 @@
+"Commands"
+{
+	"A高级管理菜单"
+	{
+			"1.踢人"
+     {
+          "cmd" "sm_kick #1 #2"
+          "admin" "sm_kick"
+          "execute"  "player"
+          "1"
+          {
+               "type"   "player" 
+               "method" "name"
+               "title"  "选择玩家"               
+          }
+          "2"
+          {
+               "type"  "list"
+               "title"   "选一个T人的理由"
+               "1"  "您的网络太差，失去了与服务器的连接。"
+               "1."  "网络问题"
+               "2"   "系统检测您的比分过差或长时间没有开麦说话报点被自动踢出服务器。"
+               "2."  "比分太差"
+               "3"   "挂机被自动踢出。"
+               "3."  "挂机的"
+               "4"   "反作弊系统检测到你有作弊嫌疑，请检查自己的游戏的完整性"
+               "4."  "像作弊的"
+               "5"   "这不是混战服，请提高你的技术再来比赛服，不好意思"
+               "5."  "太菜了"
+          }
+		 }
+	"2.移动玩家队伍"
+     {
+          "cmd" "sm_team #1 #2"
+          "admin" "sm_kick"
+          "execute"  "player"
+          "1"
+          {
+               "type"   "player" 
+               "method" "name"
+               "title"  "选择玩家"               
+          }
+          "2"
+          {
+               "type"  "list"
+               "title"   "choose one reason"
+               "1"  "1"
+               "1."  "观看者"
+               "2"   "2"
+               "2."  "土匪"
+               "3"   "3"
+               "3."  "警察"
+          }
+		 }
+		"admin"		"sm_ban"
+		"服务器密码"
+		{
+			"cmd"		"sv_password #1"
+			"admin"		"sm_ban"
+			"execute"	"server"
+			"1"
+			{
+				"type" 		"list"
+				"title"		"Password:"
+				"1"		"teamuescrim"
+				"2"		"jello"
+				"3"		"pickels"
+				"4"		"dildo"
+			}
+		}
+		"死后语音"
+		{
+			"cmd"		"sv_deadtalk #1"
+			"admin"		"sm_ban"
+			"execute"	"server"
+			"1"
+			{
+				"type" 		"list"
+				"title"		"Deadtalk:"
+				"1"		"1"
+				"1."		"活人能听到友军死人说话"
+				"2"		"0"
+				"2."		"活人不能听到友军死人说话"
+			}
+		}
+		"团队语音"
+		{
+			"cmd"		"sv_alltalk #1"
+			"admin"		"sm_ban"
+			"execute"	"server"
+			"1"
+			{
+				"type" 		"onoff"
+				"title"		"所有人语音:"
+			}
+		}
+		"友军伤害"
+		{
+			"cmd"		"mp_friendlyfire #1"
+			"admin"		"sm_ban"
+			"execute"	"server"
+			"1"
+			{
+				"type" 		"onoff"
+				"title"		"友军伤害:"
+			}
+		}
+		"冻结时间"
+		{
+			"cmd"		"mp_freezetime #1"
+			"admin"		"sm_ban"
+			"execute"	"server"
+			"1"
+			{
+				"type" 		"list"
+				"title"		"Freezetime:"
+				"1"		"15"
+				"1."		"15秒"
+				"2"		"10"
+				"2."		"10秒"
+				"3"		"3"
+				"3."		"3秒"
+				"4"		"0"
+				"4."		"0秒"
+			}
+		}
+		"自动平衡开关"
+		{
+			"cmd"		"mp_autoteambalance #1"
+			"admin"		"sm_ban"
+			"execute"	"server"
+			"1"
+			{
+				"type" 		"onoff"
+				"title"		"自动平衡开关"
+			}
+		}
+		"人数限制"
+		{
+			"cmd"		"mp_limitteams #1"
+			"admin"		"sm_ban"
+			"execute"	"server"
+			"1"
+			{
+				"type" 		"list"
+				"title"		"选择:"
+				"1"		"2"
+				"1."		"开启"
+				"2"		"0"
+				"2."		"关闭"
+			}
+		}
+		"显示伤害信息"
+		{
+			"cmd"		"sm_shp #1"
+			"admin"		"sm_ban"
+			"execute"	"server"
+			"1"
+			{
+				"type" 		"onoff"
+				"title"		"Show Damage:"
+		}
+	}
+}
+	"B娱乐命令"
+	{
+			"设置玩家速度"
+				{
+		     "cmd" "sm_sd #1 @2"
+		     "admin" "sm_kick"
+		     "execute"  "player"
+		     "1"
+		     {
+		         "type"   "groupplayer"
+		         "method"  "name"
+		         "title"   "选择玩家"
+		     }
+		     "2"
+		     {
+		         "type" "list"
+		         "title"  "选择速度"
+		         "1" "1"
+		         "1." "默认"
+		         "2" "1.3"
+		         "2."  "1.3倍速度"
+		         "3" "1.6"
+		         "3." "1.6倍速度"
+		         "4" "2.0"
+		         "4." "2倍速度"	     
+		     }
+		   }
+		  "服务器重力"
+				{
+						"cmd"		"sv_gravity #1"
+						"admin"		"sm_ban"
+						"execute"	"server"
+						"1"
+				{
+					"type" 		"list"
+					"title"		"服务器重力:"
+					"1"		"150"
+					"1."		"最小重力"
+					"2"		"250"
+					"2."		"小重力"
+					"3"		"500"				
+					"3."		"中等重力"
+					"4"		"1000"
+					"4."		"高重力"
+					"5"		"800"
+					"5."		"默认重力"
+				}
+		}
+		"让玩家掉刀"
+		{
+		     "cmd" "sm_q #1 weapon_knife"
+		     "admin" "sm_kick"
+		     "execute"  "player"
+		     "1"
+		     {
+		         "type"   "player"
+		         "method"  "name"
+		         "title"   "选择玩家"
+		     }
+		}
+}
+	"电脑人BOT"
+	{
+		"电脑人数量"
+		{
+			"cmd"		"bot_quota #1"
+			"execute"	"server"
+			"1"
+			{
+				"type"		"list"
+				"title"		"请选择人数"
+				"1"		"0"
+				"1."		"0"
+				"2"		"1"
+				"2."		"1"
+				"3"		"3"
+				"3."		"3"
+				"4"		"6"
+				"4."		"6"
+				"5"		"8"
+				"5."		"8"
+				"6"		"10"
+				"6."		"10"
+				"7"		"20"
+				"7."		"20"
+			}
+		}
+		"踢出所有电脑"
+		{
+			"cmd"		"bot_kick"
+			"admin"		"sm_ban"
+			"execute"	"server"
+		}
+		"加入一个电脑人"
+		{
+			"cmd"		"#1"
+			"admin"		"sm_ban"
+			"execute"	"server"
+			"1"
+			{
+				"type"		"list"
+				"title"		"Add a Bot"
+				"1"		"bot_add"
+				"1."	"双方都加一个BOT"
+				"2"		"bot_add_ct"
+				"2."	"CT加一个bot"
+				"3"		"bot_add_t"
+				"3."	"T加一个bot"
+			}
+		}
+		"电脑人难度"
+		{
+			"cmd"		"bot_difficulty #1"
+			"admin"		"sm_ban"
+			"execute"	"server"
+			"1"
+			{
+				"type"		"list"
+				"title"		"Difficulty:"
+				"1"		"0"
+				"1."		"容易"
+				"2"		"1"
+				"2."		"普通"
+				"3"		"2"
+				"3."		"精英"
+			}
+		}
+		"设置机器人武器"
+		{
+			"cmd"		"#1"
+			"admin"		"sm_ban"
+			"execute"	"server"
+			"1"
+			{
+				"type"		"list"
+				"title"		"选择"
+				"1"		"bot_knives_only"
+				"1."		"只能用刀"
+				"2"		"bot_pistols_only"
+				"2."		"只能用手枪"
+				"3"		"bot_snipers_only"
+				"3."		"只能用狙击"
+				"4"		"bot_all_weapons"
+				"4."		"所有武器"	
+				"5"		"bot_allow_sub_machine_guns 1"
+				"5."		"允许用冲锋枪"
+				"6"		"bot_allow_grenades 1"
+				"6."		"允许用手雷"
+				"7"		"bot_allow_grenades 0"
+				"7."		"不允许用手雷"
+			}
+		}
+		"杀死所有电脑人"
+		{
+			"cmd"		"sv_cheats 1;bot_kill;sv_cheats 0"
+			"admin"		"sm_ban"
+			"execute"	"server"
+		}
+}
+

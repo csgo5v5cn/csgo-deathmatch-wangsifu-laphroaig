@@ -1,0 +1,163 @@
+"Phrases"
+{
+	"SMAC_Tag"
+	{
+		"chi"		"[反作弊] "
+	}
+	
+	"SMAC_Banned"
+	{
+		"chi"		"作弊狗你已被禁封"
+	}
+	
+	"SMAC_GlobalBanned"
+	{
+		"#format"	"{1:s},{2:s}"
+		"chi"		"你在{1}全球作弊封禁名单内 . 从这 {2} 获得更多信息"
+	}
+	
+	"SMAC_CommandSpamKick"
+	{
+		"chi"		"你使用违规命令被T"
+	}
+	
+	"SMAC_IllegalDefuse"
+	{
+		"chi"		"你不能穿墙解包."
+	}
+	
+	"SMAC_PleaseWait"
+	{
+		"chi"		"请等一分钟再尝试重新连接"
+	}
+	
+	"SMAC_FailedToReply"
+	{
+		"chi"		"你的客户端未能及时回复查询。请重新连接或重新启动游戏"
+	}
+	
+	"SMAC_FailedAuth"
+	{
+		"chi"		"你的客户端没有授权的时间。请重新连接或重新启动游戏"
+	}
+	
+	"SMAC_ClientCorrupt"
+	{
+		"chi"		"你的客户端已经损坏。请重新启动游戏前重新"
+		}
+
+	"SMAC_RemovePlugins"
+	{
+		"chi"		"请在加入此服务器再次删除从你的客户的任何第三方插件"
+	}
+	
+	"SMAC_HasPlugin"
+	{
+		"#format"	"{1:N},{2:s}"
+		"chi"		"{1} 有一个插件运行，返回 {2}."
+	}
+	
+	"SMAC_Muted"
+	{
+		"#format"	"{1:N}"
+		"chi"		"{1} 被反作弊系统静音."
+	}
+	
+	"SMAC_HasNotEqual"
+	{
+		"#format"	"{1:N},{2:s},{3:s},{4:s}"
+		"chi"		"{1} 返回错误的值 {2} (数值 {3}, 应该是{4})."
+	}
+	
+	"SMAC_ShouldEqual"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"chi"		"你的数值 {1} 应该等于 {2} 但是它被设置成 {3}. 请改回正确的设置"
+	}
+	
+	"SMAC_HasNotGreater"
+	{
+		"#format"	"{1:N},{2:s},{3:s},{4:s}"
+		"chi"		"{1} 有数值 {2} 设置成 {3} 当它应该大于或等于 {4}."
+	}
+	
+	"SMAC_ShouldBeGreater"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"chi"		"你的数值 {1} 应该大于或等于 {2} 但被设置为 {3}. 请改回正确的设置"
+	}
+	
+	"SMAC_HasNotLess"
+	{
+		"#format"	"{1:N},{2:s},{3:s},{4:s}"
+		"chi"		"{1} 有数值 {2} 设置成 {3} 当它应小于或等于 {4}."
+	}
+	
+	"SMAC_ShouldBeLess"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"chi"		"你的数值 {1} 应该大于或等于 {2} 但被设置为 {3}. 请改回正确的设置"
+	}
+	
+	"SMAC_HasNotBound"
+	{
+		"#format"	"{1:N},{2:s},{3:s},{4:s},{5:f}"
+		"chi"		"{1} 数值 {2} 设置 {3} 时就应该在 {4} 之间 {5}."
+	}
+	
+	"SMAC_ShouldBound"
+	{
+		"#format"	"{1:s},{2:s},{3:f},{4:s}"
+		"chi"		"你的数值 {1} 应该 {2} 和 {3} 但被设置成 {4}. 请改回正确的设置"
+	}
+	
+	"SMAC_ChangeName"
+	{
+		"chi"		"麻烦你把你的名字改了"
+	}
+	
+	"SMAC_CmdBanned"
+	{
+		"chi"		"你已被禁 因为使用违规命令"
+	}
+	
+	"SMAC_SayBlock"
+	{
+		"chi"		"你的信息被封锁."
+	}
+	
+	"SMAC_AimbotDetected"
+	{
+		"#format"	"{1:N},{2:i},{3:.0f},{4:s}"
+		"chi"		"{1} 涉嫌使用自动瞄准. (检查 #{2} | 检查: {3}° | 武器: {4})"
+	}
+	
+	"SMAC_AutoTriggerDetected"
+	{
+		"#format"	"{1:N},{2:s}"
+		"chi"		"{1} 涉嫌使用自动开枪: {2}"
+	}
+	
+	"SMAC_SpinhackDetected"
+	{
+		"#format"	"{1:N}"
+		"chi"		"{1} 涉嫌实用炫晕作弊."
+	}
+	
+	"SMAC_SpeedhackDetected"
+	{
+		"#format"	"{1:N}"
+		"chi"		"{1} 涉嫌实用加速作弊."
+	}
+	
+	"SMAC_EyetestDetected"
+	{
+		"#format"	"{1:N}"
+		"chi"		"{1} 在我们这边看你像作弊的."
+	}
+	
+	"SMAC_WelcomeMsg"
+	{
+		"chi"		"服务器使用反作弊系统."
+	}
+}

@@ -1,0 +1,12 @@
+/**
+ * List config files here (relative to moddir) to have them added to the exec config menu list
+ * Left side is the filename, right side is the text to be added to the menu
+ */
+Configs
+{
+	"cfg/WangShiFu/ShuaXin.cfg"									"刷新"
+	"cfg/WangShiFu/SuiJiZuDui.cfg"					"随机组队一次"
+	"cfg/WangShiFu/on.cfg"				"开启练习扔雷模式"
+	"cfg/WangShiFu/off.cfg"			"关闭练习扔雷模式"
+}
+}
